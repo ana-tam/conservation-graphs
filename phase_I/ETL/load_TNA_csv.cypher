@@ -146,7 +146,7 @@ rowID:row.RowID});
 //******* Bi-directional Relationships between data nodes *******
 
 Match (a:TreatmentEvent), (b:Reference)
-WHERE a.reference = b.reference AND a.rowID = b.rowID
+WHERE a.reference = b.reference 
 MERGE (a)-[r:INVOLVES_TREAT_OF]->(b)
 MERGE (b)-[s:WAS_TREATED_DURING]->(a);
  
