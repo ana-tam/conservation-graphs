@@ -3,7 +3,7 @@
 
 [abstract]
 --
-This repo contains the scripts for phase I of the PhD research "Applying Graph Theory to Conservation Knowledge Graphs".
+This repo contains the scripts for phase I of the PhD research "Applying Graph Theory to Conservation Knowledge Graphs" (Tam 2023).
 --
 
 // tag::introduction[]
