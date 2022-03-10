@@ -1,5 +1,5 @@
 CALL apoc.periodic.iterate(
-"call apoc.load.json('file:///fullTNA_COMTnounChResults_step6a.json')
+"call apoc.load.json('file:///comment_nounchunks.json')
 Yield value as result",
 "MERGE (a:NounChunk{
 dataset: 'TNA',
