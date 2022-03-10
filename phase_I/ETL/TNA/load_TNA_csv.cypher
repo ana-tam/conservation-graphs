@@ -1,5 +1,7 @@
 //Scripts to load the TNA dataset in a star-schema into Neo4j from .csv
 //Each section (seperated by //*** ) creates different labelled nodes or relationships.
+//Lines 6 - 145 contain scripts for creating nodes from the primary TNA dataset.
+//Lines 144 - onwards contain scripts for creating bi-directional relationships (edges) between nodes.  
 
 
 //******* :TreatmentEvent nodes. ********
@@ -143,3 +145,90 @@ rowID:row.RowID});
 
 //******* Bi-directional Relationships between data nodes *******
 
+Match (a:TreatmentEvent), (b:Reference)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:INVOLVES_TREAT_OF]->(b)
+MERGE (b)-[s:WAS_TREATED_DURING]->(a);
+ 
+//11702 rels
+ 
+Match (a:TreatmentEvent), (b:Adhesive)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:INVOLVED_USE_OF]->(b)
+MERGE (b)-[s:WAS_USED_TO_TREAT_DURING]->(a);
+ 
+//482 rels
+ 
+Match (a:TreatmentEvent), (b:RepairMaterial)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:INVOLVED_USE_OF]->(b)
+MERGE (b)-[s:WAS_USED_TO_TREAT_DURING]->(a);
+ 
+//1086 rels
+ 
+Match (a:TreatmentEvent), (b:Solvent)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:INVOLVED_USE_OF]->(b)
+MERGE (b)-[s:WAS_USED_TO_TREAT_DURING]->(a);
+ 
+//46 rels
+ 
+//Match (a:TreatmentEvent), (b:RowID)
+//WHERE a.rowID = b.rowID
+//MERGE (a)-[r:REFERS_TO]->(b);
+ 
+Match (a:TreatmentEvent), (b:PrimaryDamage)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:RECORDED_DAMAGE]->(b)
+MERGE (b)-[s:RECORDED_DURING]->(a);
+ 
+//7668 rels
+ 
+Match (a:TreatmentEvent), (b:SecondaryDamage)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:RECORDED_DAMAGE]->(b)
+MERGE (b)-[s:RECORDED_DURING]->(a);
+ 
+//3176 rels
+ 
+Match (a:TreatmentEvent), (b:DateTreated)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:OCCURRED_ON]->(b)
+MERGE (b)-[s:REFERS_TO_EVENT]->(a); 
+ 
+//11522 rels
+ 
+Match (a:TreatmentEvent), (b:DateRequested)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:WAS_REQUESTED_ON]->(b)
+MERGE (b)-[s:REFERS_TO_EVENT]->(a); 
+ 
+//224 rels
+ 
+Match (a:TreatmentEvent), (b:Person)
+WHERE a.person = b.person
+MERGE (a)-[r:WAS_TREATED_BY]->(b)
+MERGE (b)-[s:UNDERTOOK]->(a);
+ 
+//8332 rels
+ 
+Match (a:TreatmentEvent), (b:WorkTime)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:HAD_DURATION]->(b)
+MERGE (b)-[s:REFERS_TO_EVENT]->(a); 
+ 
+//7436 rels
+ 
+Match (a:TreatmentEvent), (b:Comments)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:HAS_TEXT]->(b)
+Merge (b)-[s:HAS_EVENT]->(a);
+
+//5790 rels
+
+Match (a:TreatmentEvent), (b:ConditionComments)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:HAS_TEXT]->(b)
+Merge (b)-[s:HAS_EVENT]->(a);
+
+//660 rels
