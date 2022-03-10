@@ -12,3 +12,19 @@ If you are considering using property graph metamodels and working iteratively i
 
 // end::introduction[]
 
+[[cg_phase1-build]]
+== Build
+
+// tag::build[]
+This includes *ETL (Extract, Transform, Load)* to load data from different sources and *Graph Enrichment* that connects these different datasets with new relationships between them.
+// end::build[]
+
+[[cg_phase1-query]]
+== Query
+
+
+[[cg_phase1-analysis]]
+== Graph Analysis
+
+Using Neo4j's Graph Data Science Library (https://neo4j.com/docs/graph-data-science/current/).
+
