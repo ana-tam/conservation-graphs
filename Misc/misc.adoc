@@ -1,0 +1,27 @@
+[[cg-misc]]
+= Miscellany
+[abstract]
+--
+
+--
+
+// tag::introduction[]
+This directory includes a variety of additional resources created or adapted for this project.  These include data cleaning scripts and collated references.
+
+// end::introduction[]
+
+The files in this directory are:
+
+[cols="1,1"]
+|===
+|<<cg-misc, CRM_FOL.csv>>
+|First-Order Logic for CIDOC CRM properties and classes. Extracted from CRM v.7.1.1 documentation.
+
+|<<conservation-graphs, accessCellContent.py>>
+|Script using pandas dataframe.at to access data from specific cell
+Based on:  https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.at.html
+
+|broccoli, sunburst
+|jar, pillow
+|=== 
+
