@@ -1,0 +1,47 @@
+// External URLs:
+:url-dataprep-medium: https://medium.com/swlh/data-pre-processing-data-wrangling-4a6a8624e747
+:url-repo: {url-org}/asciidoctor
+:url-asciidoctorj: {url-org}/asciidoctorj
+
+
+// To Elsewhere in this GitHub Repo, i.e. Conservation Graphs
+:cg-abc: https://
+:cg-xyz: https://
+
+
+
+
+[[cg-dataprep]]
+= Data Preparation
+[abstract]
+--
+This directory contains scripts used to prepare data prior to importing into the Neo4j dbms.  I am using the definition of https://medium.com/swlh/data-pre-processing-data-wrangling-4a6a8624e747[Data Preparation as used by Rihad Variawa] to include both pre-processing and data wrangling.
+--
+
+// tag::introduction[]
+These scripts and procedures were used before the main build (ETL) procedures which can be found <<here>>
+
+// end::introduction[]
+
+
+--
+
+== Sub-directories
+
+[cols="1,1"]
+|===
+|<<cg-dataprep,TNA Primary Dataset>>
+|Contains document itemising how the dataset was transformed from the original state as received to the final .csv version used to create the graph models
+
+|<<CAMEO>>
+|Contains scripts for scraping the cameo.org website. 
+
+|<<cg-dataprep, NLP>>
+|Contains Python scripts for extracting NLP-derived data from the primary TNA dataset <<TNAcombined2022.csv>>
+
+|<<Discovery>>
+|Contains scripts for making pull requests to https://www.nationalarchives.gov.uk/help/discovery-for-developers-about-the-application-programming-interface-api/[The National Archive's Discovery API] to extract https://discovery.nationalarchives.gov.uk/[catalogue data] corresponding to the reference IDs from the TNA Primary Dataset. 
+
+|broccoli, sunburst
+|jar, pillow
+|=== 
