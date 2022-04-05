@@ -1,0 +1,59 @@
+@prefix : <http://weso.es/shapes/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:Class a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:node :Class ;
+            sh:path rdfs:subClassOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:in ( rdfs:Class ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdf:type ] ;
+    sh:targetClass rdfs:Class .
+
+:Property a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :Class ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :Property ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:node :Property ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( rdf:Property ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdf:type ] ;
+    sh:targetClass rdf:Property .
+
