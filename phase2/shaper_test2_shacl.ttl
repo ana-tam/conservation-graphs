@@ -1,31 +1,3 @@
-##---script --- results below
-#
-#from shexer.shaper import Shaper
-#from shexer.consts import SHEXC, SHACL_TURTLE
-#   
-#namespaces_dict = {"http://www.cidoc-crm.org/cidoc-crm/": "crm",
-#                     "http://www.w3.org/1999/02/22-rdf-syntax-ns#": "rdf",
-#                     "http://www.w3.org/2000/01/rdf-schema":"rdfs",
-#                     "http://www.w3.org/2001/XMLSchema#": "xsd"
-#             }
-#   
-#shaper = Shaper(all_classes_mode=True,
-#                  graph_file_input = "CIDOC_CRM_v7.1.1.nt",
-#                  namespaces_dict=namespaces_dict,
-#                  ##disable_exact_cardinality=True,
-#                  instantiation_property="http://www.w3.org/2000/01/rdf-schema#domain")  # Default rdf:type
-#  
-#output_file = "shaper_test2_shex.ttl"
-#   
-#shaper.shex_graph(output_file=output_file,
-#                   ##output_format=SHACL_TURTLE,
-#                    ## verbose=True,
-#                     acceptance_threshold=0.1)
-#   
-#print("Done!")
-##--------------------------------
-
-
 @prefix : <http://weso.es/shapes/> .
 @prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
