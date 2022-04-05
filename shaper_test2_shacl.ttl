@@ -1,0 +1,2469 @@
+##---script --- results below
+#
+#from shexer.shaper import Shaper
+#from shexer.consts import SHEXC, SHACL_TURTLE
+#   
+#namespaces_dict = {"http://www.cidoc-crm.org/cidoc-crm/": "crm",
+#                     "http://www.w3.org/1999/02/22-rdf-syntax-ns#": "rdf",
+#                     "http://www.w3.org/2000/01/rdf-schema":"rdfs",
+#                     "http://www.w3.org/2001/XMLSchema#": "xsd"
+#             }
+#   
+#shaper = Shaper(all_classes_mode=True,
+#                  graph_file_input = "CIDOC_CRM_v7.1.1.nt",
+#                  namespaces_dict=namespaces_dict,
+#                  ##disable_exact_cardinality=True,
+#                  instantiation_property="http://www.w3.org/2000/01/rdf-schema#domain")  # Default rdf:type
+#  
+#output_file = "shaper_test2_shex.ttl"
+#   
+#shaper.shex_graph(output_file=output_file,
+#                   ##output_format=SHACL_TURTLE,
+#                    ## verbose=True,
+#                     acceptance_threshold=0.1)
+#   
+#print("Done!")
+##--------------------------------
+
+
+@prefix : <http://weso.es/shapes/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+:E10_Transfer_of_Custody a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E7_Activity ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E10_Transfer_of_Custody ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ] ;
+    sh:targetClass crm:E10_Transfer_of_Custody .
+
+:E11_Modification a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E11_Modification ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E5_Event ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E11_Modification .
+
+:E12_Production a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E12_Production ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ] ;
+    sh:targetClass crm:E12_Production .
+
+:E14_Condition_Assessment a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E13_Attribute_Assignment ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E14_Condition_Assessment ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E14_Condition_Assessment .
+
+:E15_Identifier_Assignment a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E15_Identifier_Assignment ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E15_Identifier_Assignment .
+
+:E16_Measurement a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E16_Measurement ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E13_Attribute_Assignment ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E16_Measurement .
+
+:E17_Type_Assignment a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E17_Type_Assignment ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E13_Attribute_Assignment ;
+            sh:path rdfs:subPropertyOf ] ;
+    sh:targetClass crm:E17_Type_Assignment .
+
+:E24_Physical_Human-Made_Thing a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E24_Physical_Human-Made_Thing ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ] ;
+    sh:targetClass crm:E24_Physical_Human-Made_Thing .
+
+:E26_Physical_Feature a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E26_Physical_Feature ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E19_Physical_Object ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E18_Physical_Thing ;
+            sh:path rdfs:subPropertyOf ] ;
+    sh:targetClass crm:E26_Physical_Feature .
+
+:E29_Design_or_Procedure a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E29_Design_or_Procedure ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ] ;
+    sh:targetClass crm:E29_Design_or_Procedure .
+
+:E30_Right a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E30_Right ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E30_Right .
+
+:E31_Document a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E89_Propositional_Object ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E1_CRM_Entity ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E31_Document ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ] ;
+    sh:targetClass crm:E31_Document .
+
+:E32_Authority_Document a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E89_Propositional_Object ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E32_Authority_Document ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E1_CRM_Entity ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E32_Authority_Document .
+
+:E35_Title a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E35_Title ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E41_Appellation ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E71_Human-Made_Thing ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E35_Title .
+
+:E36_Visual_Item a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E36_Visual_Item ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E36_Visual_Item .
+
+:E39_Actor a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E39_Actor ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E39_Actor .
+
+:E3_Condition_State a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E1_CRM_Entity ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E3_Condition_State ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E3_Condition_State .
+
+:E42_Identifier a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E42_Identifier ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ] ;
+    sh:targetClass crm:E42_Identifier .
+
+:E4_Period a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E92_Spacetime_Volume ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E4_Period ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E4_Period .
+
+:E52_Time-Span a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E52_Time-Span ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E52_Time-Span .
+
+:E55_Type a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E55_Type ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E55_Type .
+
+:E56_Language a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E56_Language ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E33_Linguistic_Object ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E56_Language .
+
+:E57_Material a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E1_CRM_Entity ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E57_Material ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E57_Material .
+
+:E66_Formation a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E74_Group ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E66_Formation ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E66_Formation .
+
+:E67_Birth a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E67_Birth ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E21_Person ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ] ;
+    sh:targetClass crm:E67_Birth .
+
+:E68_Dissolution a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 2 ;
+            sh:minCount 2 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E68_Dissolution ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E74_Group ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E68_Dissolution .
+
+:E69_Death a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E21_Person ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E64_End_of_Existence ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E69_Death ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ] ;
+    sh:targetClass crm:E69_Death .
+
+:E6_Destruction a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E6_Destruction ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E64_End_of_Existence ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E18_Physical_Thing ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E6_Destruction .
+
+:E72_Legal_Object a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E72_Legal_Object ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ] ;
+    sh:targetClass crm:E72_Legal_Object .
+
+:E73_Information_Object a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E90_Symbolic_Object ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E90_Symbolic_Object ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E73_Information_Object ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ] ;
+    sh:targetClass crm:E73_Information_Object .
+
+:E79_Part_Addition a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E79_Part_Addition ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E79_Part_Addition .
+
+:E80_Part_Removal a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E80_Part_Removal ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E80_Part_Removal .
+
+:E81_Transformation a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E18_Physical_Thing ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E81_Transformation ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ] ;
+    sh:targetClass crm:E81_Transformation .
+
+:E83_Type_Creation a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E83_Type_Creation ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E83_Type_Creation .
+
+:E85_Joining a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 3 ;
+            sh:minCount 3 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E5_Event ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E85_Joining ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E85_Joining .
+
+:E86_Leaving a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E86_Leaving ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E5_Event ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 3 ;
+            sh:minCount 3 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E86_Leaving .
+
+:E87_Curation_Activity a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 3 ;
+            sh:minCount 3 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E78_Curated_Holding ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E87_Curation_Activity ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E87_Curation_Activity .
+
+:E8_Acquisition a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E8_Acquisition ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E7_Activity ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E8_Acquisition .
+
+:E93_Presence a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E93_Presence ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E92_Spacetime_Volume ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ] ;
+    sh:targetClass crm:E93_Presence .
+
+:E96_Purchase a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E97_Monetary_Amount ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E96_Purchase ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E96_Purchase .
+
+:E98_Currency a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E98_Currency ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E58_Measurement_Unit ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E97_Monetary_Amount ;
+            sh:path owl:inverseOf ] ;
+    sh:targetClass crm:E98_Currency .
+
+:E99_Product_Type a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E99_Product_Type ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ] ;
+    sh:targetClass crm:E99_Product_Type .
+
+:E9_Move a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E5_Event ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E9_Move ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ] ;
+    sh:targetClass crm:E9_Move .
+
+:E19_Physical_Object a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E19_Physical_Object ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ] ;
+    sh:targetClass crm:E19_Physical_Object .
+
+:E28_Conceptual_Object a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E65_Creation ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E77_Persistent_Item ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E28_Conceptual_Object ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E28_Conceptual_Object .
+
+:E2_Temporal_Entity a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:node :E2_Temporal_Entity ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E2_Temporal_Entity ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ] ;
+    sh:targetClass crm:E2_Temporal_Entity .
+
+:E33_Linguistic_Object a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E33_Linguistic_Object ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E70_Thing ;
+            sh:path rdfs:subPropertyOf ] ;
+    sh:targetClass crm:E33_Linguistic_Object .
+
+:E41_Appellation a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E41_Appellation ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ] ;
+    sh:targetClass crm:E41_Appellation .
+
+:E53_Place a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E53_Place ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:node :E53_Place ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E53_Place .
+
+:E58_Measurement_Unit a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E58_Measurement_Unit ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E54_Dimension ;
+            sh:path owl:inverseOf ] ;
+    sh:targetClass crm:E58_Measurement_Unit .
+
+:E63_Beginning_of_Existence a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E63_Beginning_of_Existence ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E77_Persistent_Item ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E5_Event ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E63_Beginning_of_Existence .
+
+:E65_Creation a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E63_Beginning_of_Existence ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E65_Creation ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E28_Conceptual_Object ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E65_Creation .
+
+:E70_Thing a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E70_Thing ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ] ;
+    sh:targetClass crm:E70_Thing .
+
+:E71_Human-Made_Thing a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E1_CRM_Entity ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E71_Human-Made_Thing ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E71_Human-Made_Thing .
+
+:E78_Curated_Holding a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E18_Physical_Thing ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E78_Curated_Holding ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ] ;
+    sh:targetClass crm:E78_Curated_Holding .
+
+:E21_Person a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E21_Person ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ] ;
+    sh:targetClass crm:E21_Person .
+
+:E54_Dimension a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E54_Dimension ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E54_Dimension .
+
+:E64_End_of_Existence a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E77_Persistent_Item ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:node :E5_Event ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E64_End_of_Existence ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ] ;
+    sh:targetClass crm:E64_End_of_Existence .
+
+:E74_Group a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E74_Group ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E74_Group .
+
+:E7_Activity a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E7_Activity ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E7_Activity .
+
+:E90_Symbolic_Object a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E90_Symbolic_Object ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ] ;
+    sh:targetClass crm:E90_Symbolic_Object .
+
+:E92_Spacetime_Volume a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:in ( crm:E92_Spacetime_Volume ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ] ;
+    sh:targetClass crm:E92_Spacetime_Volume .
+
+:E97_Monetary_Amount a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E97_Monetary_Amount ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E54_Dimension ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ] ;
+    sh:targetClass crm:E97_Monetary_Amount .
+
+:E13_Attribute_Assignment a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E13_Attribute_Assignment ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E1_CRM_Entity ;
+            sh:path rdfs:subPropertyOf ] ;
+    sh:targetClass crm:E13_Attribute_Assignment .
+
+:E89_Propositional_Object a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E89_Propositional_Object ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E89_Propositional_Object ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ] ;
+    sh:targetClass crm:E89_Propositional_Object .
+
+:E18_Physical_Thing a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E18_Physical_Thing ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:minCount 1 ;
+            sh:path rdfs:label ] ;
+    sh:targetClass crm:E18_Physical_Thing .
+
+:E77_Persistent_Item a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E77_Persistent_Item ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E77_Persistent_Item ;
+            sh:path rdfs:subPropertyOf ] ;
+    sh:targetClass crm:E77_Persistent_Item .
+
+:E1_CRM_Entity a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E1_CRM_Entity ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ],
+        [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E1_CRM_Entity ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ] ;
+    sh:targetClass crm:E1_CRM_Entity .
+
+:E5_Event a sh:NodeShape ;
+    sh:property [ a sh:PropertyShape ;
+            sh:dataType rdfs:langString ;
+            sh:maxCount 7 ;
+            sh:minCount 7 ;
+            sh:path rdfs:label ],
+        [ a sh:PropertyShape ;
+            sh:dataType xsd:string ;
+            sh:maxCount 1 ;
+            sh:path rdfs:comment ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdf:type ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path rdfs:range ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:node :E5_Event ;
+            sh:path rdfs:subPropertyOf ],
+        [ a sh:PropertyShape ;
+            sh:in ( crm:E5_Event ) ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path rdfs:domain ],
+        [ a sh:PropertyShape ;
+            sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:nodeKind sh:IRI ;
+            sh:path owl:inverseOf ] ;
+    sh:targetClass crm:E5_Event .
+
