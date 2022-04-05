@@ -1,0 +1,1119 @@
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX : <http://weso.es/shapes/>
+
+:E1_CRM_Entity
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E1_CRM_Entity]  ;                        # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ?;
+            # 94.11764705882352 % obj: IRI. Cardinality: {1}
+            # 11.76470588235294 % obj: @:E55_Type. Cardinality: {1}
+            # 11.76470588235294 % obj: @:E7_Activity. Cardinality: {1}
+            # 11.76470588235294 % obj: @:E89_Propositional_Object. Cardinality: {1}
+            # 11.76470588235294 % obj: @:E13_Attribute_Assignment. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E1_CRM_Entity  ?;
+            # 52.94117647058824 % obj: @:E1_CRM_Entity. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 29.411764705882355 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E41_Appellation
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E41_Appellation]  ;                      # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ?;
+            # 66.66666666666666 % obj: IRI. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E1_CRM_Entity. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E39_Actor. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 33.33333333333333 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E55_Type
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 78.57142857142857 % obj: rdf:langString. Cardinality: {7}
+            # 21.428571428571427 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E55_Type]  ;                             # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 28.57142857142857 % obj: @:E55_Type. Cardinality: {1}
+            # 21.428571428571427 % obj: @:E7_Activity. Cardinality: {1}
+            # 14.285714285714285 % obj: @:E1_CRM_Entity. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  ?;
+            # 35.714285714285715 % obj: IRI. Cardinality: {1}
+            # 21.428571428571427 % obj: @:E55_Type. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 14.285714285714285 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E2_Temporal_Entity
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 94.11764705882352 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E2_Temporal_Entity]  ;                   # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 94.11764705882352 % obj: @:E2_Temporal_Entity. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E2_Temporal_Entity  *;
+            # 82.35294117647058 % obj: @:E2_Temporal_Entity. Cardinality: +
+            # 70.58823529411765 % obj: @:E2_Temporal_Entity. Cardinality: {1}
+            # 11.76470588235294 % obj: @:E2_Temporal_Entity. Cardinality: {2}
+   rdfs:#comment  xsd:string  ?
+            # 52.94117647058824 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E52_Time-Span
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 46.666666666666664 % obj: rdf:langString. Cardinality: {7}
+            # 26.666666666666668 % obj: rdf:langString. Cardinality: {6}
+            # 26.666666666666668 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E52_Time-Span]  ;                        # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#comment  xsd:string  ?;
+            # 46.666666666666664 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  ?;
+            # 46.666666666666664 % obj: IRI. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E52_Time-Span. Cardinality: {1}
+            # 13.333333333333334 % obj: @:E1_CRM_Entity. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ?
+            # 40.0 % obj: IRI. Cardinality: {1}
+            # 13.333333333333334 % obj: @:E52_Time-Span. Cardinality: {1}
+}
+
+
+:E3_Condition_State
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E3_Condition_State]  ;                   # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 50.0 % obj: @:E3_Condition_State. Cardinality: {1}
+            # 25.0 % obj: @:E14_Condition_Assessment. Cardinality: {1}
+            # 25.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 25.0 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E1_CRM_Entity  ?
+            # 25.0 % obj: @:E1_CRM_Entity. Cardinality: {1}
+}
+
+
+:E4_Period
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E4_Period]  ;                            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 50.0 % obj: @:E4_Period. Cardinality: {1}
+            # 25.0 % obj: @:E53_Place. Cardinality: {1}
+            # 25.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 75.0 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E92_Spacetime_Volume  ?
+            # 50.0 % obj: @:E92_Spacetime_Volume. Cardinality: {1}
+}
+
+
+:E53_Place
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 54.54545454545454 % obj: rdf:langString. Cardinality: {7}
+            # 45.45454545454545 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E53_Place]  ;                            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ?;
+            # 77.27272727272727 % obj: IRI. Cardinality: {1}
+            # 18.181818181818183 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 18.181818181818183 % obj: @:E53_Place. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 36.36363636363637 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E53_Place  *
+            # 18.181818181818183 % obj: @:E53_Place. Cardinality: +
+            # 13.636363636363635 % obj: @:E53_Place. Cardinality: {1}
+}
+
+
+:E18_Physical_Thing
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 78.57142857142857 % obj: rdf:langString. Cardinality: {7}
+            # 21.428571428571427 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E18_Physical_Thing]  ;                   # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 14.285714285714285 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 14.285714285714285 % obj: @:E39_Actor. Cardinality: {1}
+            # 14.285714285714285 % obj: @:E53_Place. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  *;
+            # 46.42857142857143 % obj: IRI. Cardinality: +
+            # 39.285714285714285 % obj: IRI. Cardinality: {1}
+            # 17.857142857142858 % obj: @:E77_Persistent_Item. Cardinality: {1}
+            # 14.285714285714285 % obj: @:E18_Physical_Thing. Cardinality: +
+   rdfs:#comment  xsd:string  ?
+            # 46.42857142857143 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E92_Spacetime_Volume
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 77.77777777777779 % obj: rdf:langString. Cardinality: {1}
+            # 22.22222222222222 % obj: rdf:langString. Cardinality: {7}
+   rdfs:#domain  [crm:E92_Spacetime_Volume]  ;                 # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#comment  xsd:string  ?;
+            # 66.66666666666666 % obj: xsd:string. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ?;
+            # 66.66666666666666 % obj: IRI. Cardinality: {1}
+            # 22.22222222222222 % obj: @:E92_Spacetime_Volume. Cardinality: {1}
+            # 11.11111111111111 % obj: @:E52_Time-Span. Cardinality: {1}
+            # 11.11111111111111 % obj: @:E53_Place. Cardinality: {1}
+            # 11.11111111111111 % obj: @:E93_Presence. Cardinality: {1}
+            # 11.11111111111111 % obj: @:E18_Physical_Thing. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  ?
+            # 44.44444444444444 % obj: IRI. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E92_Spacetime_Volume. Cardinality: {1}
+            # 11.11111111111111 % obj: @:E4_Period. Cardinality: {1}
+}
+
+
+:E5_Event
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E5_Event]  ;                             # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 33.33333333333333 % obj: @:E39_Actor. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E77_Persistent_Item. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E7_Activity. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 66.66666666666666 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E5_Event  ?
+            # 33.33333333333333 % obj: @:E5_Event. Cardinality: {1}
+}
+
+
+:E39_Actor
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 88.88888888888889 % obj: rdf:langString. Cardinality: {7}
+            # 11.11111111111111 % obj: rdf:langString. Cardinality: {3}
+   rdfs:#domain  [crm:E39_Actor]  ;                            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 22.22222222222222 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 11.11111111111111 % obj: @:E8_Acquisition. Cardinality: {1}
+            # 11.11111111111111 % obj: @:E10_Transfer_of_Custody. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  *;
+            # 61.111111111111114 % obj: IRI. Cardinality: +
+            # 55.55555555555556 % obj: IRI. Cardinality: {1}
+            # 55.55555555555556 % obj: @:E39_Actor. Cardinality: +
+   rdfs:#comment  xsd:string  ?
+            # 16.666666666666664 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E77_Persistent_Item
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E77_Persistent_Item]  ;                  # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 33.33333333333333 % obj: @:E5_Event. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E63_Beginning_of_Existence. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E64_End_of_Existence. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E77_Persistent_Item  ?
+            # 66.66666666666666 % obj: @:E77_Persistent_Item. Cardinality: {1}
+}
+
+
+:E6_Destruction
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E6_Destruction]  ;                       # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E64_End_of_Existence  ;              # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E18_Physical_Thing            # 100.0 %
+}
+
+
+:E7_Activity
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E7_Activity]  ;                          # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 25.0 % obj: @:E55_Type. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E1_CRM_Entity. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E7_Activity. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 91.66666666666666 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  *
+            # 58.333333333333336 % obj: IRI. Cardinality: +
+            # 33.33333333333333 % obj: IRI. Cardinality: {1}
+            # 25.0 % obj: IRI. Cardinality: {2}
+            # 41.66666666666667 % obj: @:E7_Activity. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E5_Event. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E2_Temporal_Entity. Cardinality: {1}
+}
+
+
+:E70_Thing
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E70_Thing]  ;                            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 40.0 % obj: @:E70_Thing. Cardinality: {1}
+            # 20.0 % obj: @:E7_Activity. Cardinality: {1}
+            # 20.0 % obj: @:E54_Dimension. Cardinality: {1}
+            # 20.0 % obj: @:E55_Type. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 60.0 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  *
+            # 20.0 % obj: IRI. Cardinality: {2}
+            # 20.0 % obj: @:E77_Persistent_Item. Cardinality: {1}
+            # 20.0 % obj: @:E1_CRM_Entity. Cardinality: {1}
+}
+
+
+:E71_Human-Made_Thing
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E71_Human-Made_Thing]  ;                 # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 33.33333333333333 % obj: @:E7_Activity. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E35_Title. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E55_Type. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 66.66666666666666 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E1_CRM_Entity  ?
+            # 33.33333333333333 % obj: @:E1_CRM_Entity. Cardinality: {1}
+}
+
+
+:E8_Acquisition
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E8_Acquisition]  ;                       # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 66.66666666666666 % obj: @:E39_Actor. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E18_Physical_Thing. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E7_Activity  ?
+            # 66.66666666666666 % obj: @:E7_Activity. Cardinality: {1}
+}
+
+
+:E9_Move
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E9_Move]  ;                              # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 66.66666666666666 % obj: @:E53_Place. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E19_Physical_Object. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E5_Event  ?
+            # 33.33333333333333 % obj: @:E5_Event. Cardinality: {1}
+}
+
+
+:E19_Physical_Object
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 83.33333333333334 % obj: rdf:langString. Cardinality: {7}
+            # 16.666666666666664 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E19_Physical_Object]  ;                  # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ?;
+            # 83.33333333333334 % obj: IRI. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E53_Place. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E9_Move. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E26_Physical_Feature. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E99_Product_Type. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 66.66666666666666 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  ?
+            # 50.0 % obj: IRI. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E77_Persistent_Item. Cardinality: {1}
+}
+
+
+:E10_Transfer_of_Custody
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E10_Transfer_of_Custody]  ;              # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 66.66666666666666 % obj: @:E39_Actor. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E18_Physical_Thing. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E7_Activity  ?
+            # 66.66666666666666 % obj: @:E7_Activity. Cardinality: {1}
+}
+
+
+:E11_Modification
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E11_Modification]  ;                     # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 50.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 50.0 % obj: @:E57_Material. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E5_Event  ?
+            # 50.0 % obj: @:E5_Event. Cardinality: {1}
+}
+
+
+:E29_Design_or_Procedure
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 60.0 % obj: rdf:langString. Cardinality: {7}
+            # 40.0 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E29_Design_or_Procedure]  ;              # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 40.0 % obj: @:E29_Design_or_Procedure. Cardinality: {1}
+            # 20.0 % obj: @:E7_Activity. Cardinality: {1}
+            # 20.0 % obj: @:E57_Material. Cardinality: {1}
+            # 20.0 % obj: @:E99_Product_Type. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  ?;
+            # 40.0 % obj: IRI. Cardinality: {1}
+            # 20.0 % obj: @:E70_Thing. Cardinality: {1}
+            # 20.0 % obj: @:E89_Propositional_Object. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 40.0 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E14_Condition_Assessment
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E14_Condition_Assessment]  ;             # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E13_Attribute_Assignment  ;          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 50.0 % obj: @:E3_Condition_State. Cardinality: {1}
+}
+
+
+:E15_Identifier_Assignment
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 66.66666666666666 % obj: rdf:langString. Cardinality: {7}
+            # 33.33333333333333 % obj: rdf:langString. Cardinality: {3}
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E15_Identifier_Assignment]  ;            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  IRI  ;                                 # 100.0 %
+            # 66.66666666666666 % obj: @:E13_Attribute_Assignment. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E7_Activity. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 66.66666666666666 % obj: @:E42_Identifier. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E90_Symbolic_Object. Cardinality: {1}
+}
+
+
+:E42_Identifier
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E42_Identifier]  ;                       # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  IRI  ;                                 # 100.0 %
+            # 66.66666666666666 % obj: @:E1_CRM_Entity. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E41_Appellation. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 66.66666666666666 % obj: @:E15_Identifier_Assignment. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E1_CRM_Entity. Cardinality: {1}
+}
+
+
+:E16_Measurement
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E16_Measurement]  ;                      # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E13_Attribute_Assignment  ;          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 50.0 % obj: @:E54_Dimension. Cardinality: {1}
+}
+
+
+:E54_Dimension
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 57.14285714285714 % obj: rdf:langString. Cardinality: {7}
+            # 42.857142857142854 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E54_Dimension]  ;                        # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ?;
+            # 57.14285714285714 % obj: IRI. Cardinality: {1}
+            # 14.285714285714285 % obj: @:E16_Measurement. Cardinality: {1}
+            # 14.285714285714285 % obj: @:E70_Thing. Cardinality: {1}
+            # 14.285714285714285 % obj: @:E58_Measurement_Unit. Cardinality: {1}
+            # 14.285714285714285 % obj: @:E52_Time-Span. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  ?;
+            # 42.857142857142854 % obj: IRI. Cardinality: {1}
+            # 28.57142857142857 % obj: @:E54_Dimension. Cardinality: {1}
+            # 14.285714285714285 % obj: @:E1_CRM_Entity. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 28.57142857142857 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E17_Type_Assignment
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E17_Type_Assignment]  ;                  # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E13_Attribute_Assignment  ;          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E1_CRM_Entity. Cardinality: {1}
+            # 50.0 % obj: @:E55_Type. Cardinality: {1}
+}
+
+
+:E57_Material
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E57_Material]  ;                         # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 33.33333333333333 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E29_Design_or_Procedure. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E11_Modification. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E1_CRM_Entity  ?
+            # 33.33333333333333 % obj: @:E1_CRM_Entity. Cardinality: {1}
+}
+
+
+:E26_Physical_Feature
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E26_Physical_Feature]  ;                 # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E18_Physical_Thing  ;                # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E19_Physical_Object            # 100.0 %
+}
+
+
+:E24_Physical_Human-Made_Thing
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E24_Physical_Human-Made_Thing]  ;          # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 20.0 % obj: @:E1_CRM_Entity. Cardinality: {1}
+            # 20.0 % obj: @:E36_Visual_Item. Cardinality: {1}
+            # 20.0 % obj: @:E12_Production. Cardinality: {1}
+            # 20.0 % obj: @:E79_Part_Addition. Cardinality: {1}
+            # 20.0 % obj: @:E80_Part_Removal. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  *;
+            # 80.0 % obj: IRI. Cardinality: +
+            # 60.0 % obj: IRI. Cardinality: {1}
+            # 20.0 % obj: IRI. Cardinality: {2}
+            # 80.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 20.0 % obj: @:E77_Persistent_Item. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 40.0 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E36_Visual_Item
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E36_Visual_Item]  ;                      # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  IRI  ;                                 # 100.0 %
+            # 50.0 % obj: @:E90_Symbolic_Object. Cardinality: {1}
+            # 50.0 % obj: @:E89_Propositional_Object. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 50.0 % obj: @:E24_Physical_Human-Made_Thing. Cardinality: {1}
+            # 50.0 % obj: @:E1_CRM_Entity. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 50.0 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E89_Propositional_Object
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 50.0 % obj: rdf:langString. Cardinality: {7}
+            # 50.0 % obj: rdf:langString. Cardinality: {3}
+   rdfs:#domain  [crm:E89_Propositional_Object]  ;             # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 50.0 % obj: @:E1_CRM_Entity. Cardinality: {1}
+            # 50.0 % obj: @:E89_Propositional_Object. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 75.0 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E89_Propositional_Object  ?
+            # 25.0 % obj: @:E89_Propositional_Object. Cardinality: {1}
+}
+
+
+:E31_Document
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E31_Document]  ;                         # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E89_Propositional_Object  ;          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E1_CRM_Entity            # 100.0 %
+}
+
+
+:E32_Authority_Document
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E32_Authority_Document]  ;               # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E89_Propositional_Object  ;          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E1_CRM_Entity            # 100.0 %
+}
+
+
+:E33_Linguistic_Object
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E33_Linguistic_Object]  ;                # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 66.66666666666666 % obj: @:E33_Linguistic_Object. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E56_Language. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 66.66666666666666 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E70_Thing  ?
+            # 66.66666666666666 % obj: @:E70_Thing. Cardinality: {1}
+}
+
+
+:E56_Language
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E56_Language]  ;                         # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E33_Linguistic_Object            # 100.0 %
+}
+
+
+:E30_Right
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E30_Right]  ;                            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E39_Actor. Cardinality: {1}
+            # 50.0 % obj: @:E72_Legal_Object. Cardinality: {1}
+}
+
+
+:E58_Measurement_Unit
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E58_Measurement_Unit]  ;                 # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E54_Dimension            # 100.0 %
+}
+
+
+:E63_Beginning_of_Existence
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E63_Beginning_of_Existence]  ;           # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E5_Event  ;                          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E77_Persistent_Item            # 100.0 %
+}
+
+
+:E64_End_of_Existence
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E64_End_of_Existence]  ;                 # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E5_Event  ;                          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E77_Persistent_Item            # 100.0 %
+}
+
+
+:E65_Creation
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E65_Creation]  ;                         # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E63_Beginning_of_Existence  ;          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E28_Conceptual_Object            # 100.0 %
+}
+
+
+:E28_Conceptual_Object
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E28_Conceptual_Object]  ;                # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E77_Persistent_Item  ;               # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E65_Creation            # 100.0 %
+}
+
+
+:E66_Formation
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 50.0 % obj: rdf:langString. Cardinality: {7}
+            # 50.0 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E66_Formation]  ;                        # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  IRI  ;                                 # 100.0 %
+            # 50.0 % obj: @:E63_Beginning_of_Existence. Cardinality: {1}
+            # 50.0 % obj: @:E5_Event. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E74_Group            # 100.0 %
+}
+
+
+:E74_Group
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 50.0 % obj: rdf:langString. Cardinality: {7}
+            # 33.33333333333333 % obj: rdf:langString. Cardinality: {3}
+            # 16.666666666666664 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E74_Group]  ;                            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 33.33333333333333 % obj: @:E66_Formation. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E68_Dissolution. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E39_Actor. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E85_Joining. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E86_Leaving. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  *;
+            # 83.33333333333334 % obj: IRI. Cardinality: +
+            # 66.66666666666666 % obj: IRI. Cardinality: {1}
+            # 16.666666666666664 % obj: IRI. Cardinality: {2}
+            # 66.66666666666666 % obj: @:E39_Actor. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E77_Persistent_Item. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 16.666666666666664 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E67_Birth
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E67_Birth]  ;                            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E21_Person  ;          # 100.0 %
+   rdfs:#subPropertyOf  IRI  ?
+            # 66.66666666666666 % obj: IRI. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E5_Event. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E63_Beginning_of_Existence. Cardinality: {1}
+}
+
+
+:E21_Person
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 66.66666666666666 % obj: rdf:langString. Cardinality: {7}
+            # 33.33333333333333 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#domain  [crm:E21_Person]  ;                           # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 50.0 % obj: @:E67_Birth. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E21_Person. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E69_Death. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  ?;
+            # 50.0 % obj: IRI. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E77_Persistent_Item. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E39_Actor. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 16.666666666666664 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E68_Dissolution
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E68_Dissolution]  ;                      # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  IRI  {2};                              # 100.0 %
+            # 100.0 % obj: @:E5_Event. Cardinality: {1}
+            # 100.0 % obj: @:E64_End_of_Existence. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E74_Group            # 100.0 %
+}
+
+
+:E69_Death
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E69_Death]  ;                            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E64_End_of_Existence  ;              # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E21_Person            # 100.0 %
+}
+
+
+:E35_Title
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#domain  [crm:E35_Title]  ;                            # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E41_Appellation  ;                   # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E71_Human-Made_Thing            # 100.0 %
+}
+
+
+:E72_Legal_Object
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E72_Legal_Object]  ;                     # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E30_Right. Cardinality: {1}
+            # 50.0 % obj: @:E39_Actor. Cardinality: {1}
+}
+
+
+:E90_Symbolic_Object
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 50.0 % obj: rdf:langString. Cardinality: {7}
+            # 33.33333333333333 % obj: rdf:langString. Cardinality: {1}
+            # 16.666666666666664 % obj: rdf:langString. Cardinality: {3}
+   rdfs:#domain  [crm:E90_Symbolic_Object]  ;                  # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ?;
+            # 83.33333333333334 % obj: IRI. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E90_Symbolic_Object. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E18_Physical_Thing. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E15_Identifier_Assignment. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E73_Information_Object. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  ?;
+            # 66.66666666666666 % obj: IRI. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E70_Thing. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E90_Symbolic_Object. Cardinality: {1}
+            # 16.666666666666664 % obj: @:E1_CRM_Entity. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 33.33333333333333 % obj: xsd:string. Cardinality: {1}
+}
+
+
+:E12_Production
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 50.0 % obj: rdf:langString. Cardinality: {7}
+            # 50.0 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E12_Production]  ;                       # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 50.0 % obj: @:E24_Physical_Human-Made_Thing. Cardinality: {1}
+            # 50.0 % obj: @:E99_Product_Type. Cardinality: {1}
+   rdfs:#subPropertyOf  IRI  *
+            # 50.0 % obj: IRI. Cardinality: {2}
+            # 50.0 % obj: @:E11_Modification. Cardinality: {1}
+            # 50.0 % obj: @:E63_Beginning_of_Existence. Cardinality: {1}
+}
+
+
+:E78_Curated_Holding
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 50.0 % obj: rdf:langString. Cardinality: {7}
+            # 50.0 % obj: rdf:langString. Cardinality: {3}
+   rdfs:#domain  [crm:E78_Curated_Holding]  ;                  # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 50.0 % obj: @:E39_Actor. Cardinality: {1}
+            # 50.0 % obj: @:E87_Curation_Activity. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 50.0 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E18_Physical_Thing  ?
+            # 50.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+}
+
+
+:E79_Part_Addition
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E79_Part_Addition]  ;                    # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  IRI  ;                                 # 100.0 %
+            # 50.0 % obj: @:E11_Modification. Cardinality: {1}
+            # 50.0 % obj: @:E7_Activity. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E24_Physical_Human-Made_Thing. Cardinality: {1}
+            # 50.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+}
+
+
+:E80_Part_Removal
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E80_Part_Removal]  ;                     # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  IRI  ;                                 # 100.0 %
+            # 50.0 % obj: @:E11_Modification. Cardinality: {1}
+            # 50.0 % obj: @:E5_Event. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E24_Physical_Human-Made_Thing. Cardinality: {1}
+            # 50.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+}
+
+
+:E81_Transformation
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E81_Transformation]  ;                   # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  IRI  ;                                 # 100.0 %
+            # 50.0 % obj: @:E63_Beginning_of_Existence. Cardinality: {1}
+            # 50.0 % obj: @:E64_End_of_Existence. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E18_Physical_Thing            # 100.0 %
+}
+
+
+:E83_Type_Creation
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {7};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E83_Type_Creation]  ;                    # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  IRI  ;                                 # 100.0 %
+            # 50.0 % obj: @:E65_Creation. Cardinality: {1}
+            # 50.0 % obj: @:E7_Activity. Cardinality: {1}
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E55_Type. Cardinality: {1}
+            # 50.0 % obj: @:E1_CRM_Entity. Cardinality: {1}
+}
+
+
+:E13_Attribute_Assignment
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  +;                             # 100.0 %
+            # 66.66666666666666 % obj: rdf:langString. Cardinality: {7}
+            # 33.33333333333333 % obj: rdf:langString. Cardinality: {1}
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E13_Attribute_Assignment]  ;             # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 66.66666666666666 % obj: @:E1_CRM_Entity. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E55_Type. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E1_CRM_Entity  ?
+            # 33.33333333333333 % obj: @:E1_CRM_Entity. Cardinality: {1}
+}
+
+
+:E85_Joining
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {3};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E85_Joining]  ;                          # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E5_Event  ;                          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E39_Actor. Cardinality: {1}
+            # 50.0 % obj: @:E74_Group. Cardinality: {1}
+}
+
+
+:E86_Leaving
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {3};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E86_Leaving]  ;                          # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E5_Event  ;                          # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI              # 100.0 %
+            # 50.0 % obj: @:E39_Actor. Cardinality: {1}
+            # 50.0 % obj: @:E74_Group. Cardinality: {1}
+}
+
+
+:E87_Curation_Activity
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  {3};                           # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E87_Curation_Activity]  ;                # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E78_Curated_Holding            # 100.0 %
+}
+
+
+:E93_Presence
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  ;                              # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E93_Presence]  ;                         # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 40.0 % obj: @:E53_Place. Cardinality: {1}
+            # 20.0 % obj: @:E52_Time-Span. Cardinality: {1}
+            # 20.0 % obj: @:E92_Spacetime_Volume. Cardinality: {1}
+            # 20.0 % obj: @:E18_Physical_Thing. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E92_Spacetime_Volume  ?
+            # 40.0 % obj: @:E92_Spacetime_Volume. Cardinality: {1}
+}
+
+
+:E73_Information_Object
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  ;                              # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E73_Information_Object]  ;               # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E90_Symbolic_Object  ;               # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E90_Symbolic_Object            # 100.0 %
+}
+
+
+:E96_Purchase
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  ;                              # 100.0 %
+   rdfs:#comment  xsd:string  ;                                # 100.0 %
+   rdfs:#domain  [crm:E96_Purchase]  ;                         # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E97_Monetary_Amount            # 100.0 %
+}
+
+
+:E97_Monetary_Amount
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  ;                              # 100.0 %
+   rdfs:#domain  [crm:E97_Monetary_Amount]  ;                  # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 50.0 % obj: @:E96_Purchase. Cardinality: {1}
+            # 50.0 % obj: @:E98_Currency. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?;
+            # 50.0 % obj: xsd:string. Cardinality: {1}
+   rdfs:#subPropertyOf  @:E54_Dimension  ?
+            # 50.0 % obj: @:E54_Dimension. Cardinality: {1}
+}
+
+
+:E98_Currency
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  ;                              # 100.0 %
+   rdfs:#domain  [crm:E98_Currency]  ;                         # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   rdfs:#subPropertyOf  @:E58_Measurement_Unit  ;              # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  @:E97_Monetary_Amount            # 100.0 %
+}
+
+
+:E99_Product_Type
+{
+   rdf:type  IRI  ;                                            # 100.0 %
+   rdfs:#label  rdf:langString  ;                              # 100.0 %
+   rdfs:#domain  [crm:E99_Product_Type]  ;                     # 100.0 %
+   rdfs:#range  IRI  ;                                         # 100.0 %
+   <http://www.w3.org/2002/07/owl#inverseOf>  IRI  ;           # 100.0 %
+            # 33.33333333333333 % obj: @:E12_Production. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E29_Design_or_Procedure. Cardinality: {1}
+            # 33.33333333333333 % obj: @:E19_Physical_Object. Cardinality: {1}
+   rdfs:#comment  xsd:string  ?
+            # 66.66666666666666 % obj: xsd:string. Cardinality: {1}
+}
+
+
