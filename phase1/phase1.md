@@ -1,30 +1,30 @@
-[[cg_phase1]]
-= Phase 1: Building a Conservation Knowledge Graph
 
-[abstract]
---
+# Phase 1: Building a Conservation Knowledge Graph
+
+
 This repo contains the scripts for phase I of the PhD research "Applying Graph Theory to Conservation Knowledge Graphs" (Tam 2023).
---
 
-// tag::introduction[]
+
 This repo documents Phase I research scripts and only serves as an archive of the research process. As the thesis details, this phase highlighted many challenges.  
 If you are considering using property graph metamodels and working iteratively inputting and outputting RDF, check out: Phase III: Revised Knowledge Graph Building Method.
 
-// end::introduction[]
+## Specifications
+Neo4j v
+with the following plugins:
+* Graph Data Science Library v.
+* Neosemantics v.
 
-[[cg_phase1-build]]
-== Build
+Using [CIDOC CRM v. 7.1.1](https://cidoc-crm.org/rdfs/7.1.1/CIDOC_CRM_v7.1.1.rdfs)
 
-// tag::build[]
+## Build
+
+
 This includes *ETL (Extract, Transform, Load)* to load data from different sources and *Graph Enrichment* that connects these different datasets with new relationships between them.
-// end::build[]
 
-[[cg_phase1-query]]
-== Query
+## Query
 
 
-[[cg_phase1-analysis]]
-== Graph Analysis
+## Graph Analysis
 
-Using Neo4j's Graph Data Science Library (https://neo4j.com/docs/graph-data-science/current/).
+Using Neo4j's [Graph Data Science Library](https://neo4j.com/docs/graph-data-science/current/).
 
