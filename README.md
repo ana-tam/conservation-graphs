@@ -11,9 +11,9 @@ directory | content
 --- | ---
 Datasets | The final prepared versions of the datasets used to create the graph models.
 Data Preparation | The scripts to pre-process and wrangle the datasets (including NLP, html scraping, and API requests).
-Phase I | Initial build (ETL) scripts, validation queries (Cypher), and graph algorithm scripts
-Phase II | graph algorithm scripts
-Phase III | Revised build (ETL) scripts, graph algorithms scripts, and validation queries (Cypher) and SHACL
+Phase 1 | Initial build (ETL) scripts, validation queries (Cypher), and graph algorithm scripts
+Phase 2 | graph algorithm scripts
+Phase 3 | Revised build (ETL) scripts, graph algorithms scripts, and validation queries (Cypher) and SHACL
 Misc | Script snippets or derivations of those used in the main research that may be of interest to the community.
 
 
