@@ -24,3 +24,4 @@ Return split(nyms, ';') as new
 }
 Set b.synonymsAndRelatedTerms = new;
 
+//Can then delete [b.`Synonyms and Related Terms`]
