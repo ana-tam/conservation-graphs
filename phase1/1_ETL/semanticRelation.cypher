@@ -1,4 +1,5 @@
 //Cypher scripts to match nodes and link them across subgraphs/datasets
+//may require regex matching using insensitivity and wildcards
 
 
 
