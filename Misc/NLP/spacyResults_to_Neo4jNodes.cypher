@@ -5,7 +5,7 @@
 //spacyResults = ["fluted", "flute", "VERB", "VBN", "amod"]["used", "use", "VERB", "VBN", "ROOT"]["make", "make", "VERB", "VB", "xcomp"]["strengthened", "strengthen", "VERB", "VBN", "ROOT"]["keep", "keep", "VERB", "VB", "advcl"]["used", "use", "VERB", "VBD", "ROOT"]
 
 //The sequence of the series are in this order: tokenText, tokenLemma, tokenPOS, tokenTag, tokenDep
-//The following Cypher will create a :Verb node for each array (everything within the square brackets per node), with each element in the array mapped by index as properties of the node.
+//The following Cypher will create a :Verb node for each array (everything within the square brackets per node), with each element in the array mapped by index number as properties of the node.
 //Thus the Cypher to load and map are:
 
 CALL apoc.load.json("file:///spacyResults.json")
