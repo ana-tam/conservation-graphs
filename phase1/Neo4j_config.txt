@@ -1,11 +1,11 @@
 Neo4j Version:
-Enterprise 4.3.5
+Enterprise 4.4.2
 Neo4j Desktop 1.4.8
 
 Plugins installed:
-APOC 4.3.0.3
+APOC 4.4.0.1
 GDSL (Graph Data Science Library) 1.7.0
-Neosemantics 4.3.0.1
+Neosemantics 4.4.0.0
 
 Copy and paste the following lines into config file, aka "Settings":
 
