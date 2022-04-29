@@ -1,0 +1,15 @@
+Neo4j Version:
+Enterprise 4.3.5
+Neo4j Desktop 1.4.8
+
+Plugins installed:
+APOC 4.3.0.3
+GDSL (Graph Data Science Library) 1.7.0
+Neosemantics 4.3.0.1
+
+Copy and paste the following lines into config file, aka "Settings":
+
+#Apoc config [today’s date]
+apoc.import.file.enabled=true
+#Neosemantics config [today’s date]
+dbms.unmanaged_extension_classes=n10s.endpoint=/rdf
