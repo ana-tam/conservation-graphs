@@ -3,9 +3,9 @@ Enterprise 4.4.2
 Neo4j Desktop 1.4.8
 
 Plugins installed:
-APOC 4.4.0.1
+APOC 4.4.0.3
   User Manual https://neo4j.com/labs/apoc/4.4/
-GDSL (Graph Data Science Library) 2.0.0
+GDSL (Graph Data Science Library) 1.8.0
   User Manual https://neo4j.com/docs/graph-data-science/current/
 Neosemantics 4.4.0.0
   Follow the installation and configuration instructions:
