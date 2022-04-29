@@ -35,3 +35,6 @@ for x in data:
  
 results.close()
 print(s)
+
+##Post-processing.  
+##Review results in a text editor and FindAll "null" in the results json.  Replace all "null" with "[ ]".  Otherwise it will throw an error when importing/mapping to new nodes in Neo4j.
