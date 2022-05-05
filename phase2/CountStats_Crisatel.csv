@@ -1,0 +1,14 @@
+,Crisatel 1.0,,,,,,
+,,,,,,,
+,,,,,,,
+,labels(n),count(*),,,,type,amount
+1,"[""_GraphConfig""]",1,,,1,"""skos__narrower""",690
+2,"[""_NsPrefDef""]",1,,,2,"""skos__broader""",690
+3,"[""Resource"", ""skos__Concept""]",535,,,3,"""skos__inScheme""",536
+4,"[""Resource"", ""ns2__Facet""]",7,,,4,"""skos__related""",304
+5,"[""Resource"", ""ns0__Dataset""]",1,,,5,"""skos__topConceptOf""",6
+6,"[""Resource""]",3,,,6,"""skos__member""",6
+7,"[""Resource"", ""skos__ConceptScheme""]",1,,,7,"""dct__rights""",1
+,,,,,8,"""rdfs__subClassOf""",1
+,,,,,,,
+,Total Node Counts,549,,,,Total Relationship Counts,2234

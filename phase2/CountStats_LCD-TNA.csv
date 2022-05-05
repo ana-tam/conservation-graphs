@@ -1,0 +1,31 @@
+,TNA-data-2020-12-31,,,,,,
+
+,,,,,,,
+,labels(n),count(*),,,,type,amount
+1,"[""_GraphConfig""]",1,,,1,"""P2_has_type""",1365
+2,"[""Resource"", ""E53_Place""]",413,,,2,"""P46_is_composed_of""",496
+3,"[""Resource"", ""E3_Condition_State""]",231,,,3,"""P9_consists_of""",449
+4,"[""Resource"", ""E22_Man-Made_Object""]",547,,,4,"""P59_has_section""",382
+5,"[""Resource"", ""E79_Part_Addition""]",103,,,5,"""P31_has_modified""",376
+6,"[""Resource"", ""E39_Actor""]",32,,,6,"""P32_used_general_technique""",349
+7,"[""Resource"", ""E11_Modification""]",376,,,7,"""P44_has_condition""",231
+8,"[""Resource"", ""E55_Type""]",60,,,8,"""P126_employed""",231
+9,"[""Resource"", ""E31_Document""]",45,,,9,"""P55_has_current_location""",191
+10,"[""Resource"", ""E42_Identifier""]",45,,,10,"""P111_added""",103
+11,"[""Resource"", ""E52_Time-Span""]",90,,,11,"""P70_documents""",51
+12,"[""Resource"", ""E57_Material""]",68,,,12,"""P1_is_identified_by""",46
+13,"[""Resource"", ""E25_Man-Made_Feature""]",45,,,13,"""P50_has_current_keeper""",45
+14,"[""Resource"", ""E80_Part_Removal""]",16,,,14,"""P4_has_time-span""",45
+15,"[""Resource"", ""E13_Attribute_Assignment""]",45,,,15,"""P56_bears_feature""",45
+16,"[""Resource"", ""E40_Legal_Body""]",1,,,16,"""P86_falls_within""",45
+17,"[""Resource"", ""E41_Appellation""]",1,,,17,"""P140_assigned_attribute_to""",45
+,,,,,18,"""P14.1_in_the_role_of""",32
+,,,,,19,"""P14_carried_out_by""",32
+,Total Node Counts,2119,,,20,"""P8_took_place_on_or_within""",24
+,,,,,21,"""P113_removed""",16
+,,,,,22,"""P156_occupies""",6
+,,,,,23,"""P45_consists_of""",5
+,,,,,24,"""P183_ends_before_the_start_of""",1
+,,,,,,,
+,,,,,,,
+,,,,,,Total Relationship Counts,4611

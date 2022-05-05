@@ -1,0 +1,31 @@
+,LoC-data-2020-12-31,,,,,,
+
+,,,,,,,
+,labels(n),count(*),,,,type,amount
+1,"[""_GraphConfig""]",1,,,1,"""P2_has_type""",988
+2,"[""Resource"", ""E53_Place""]",339,,,2,"""P46_is_composed_of""",302
+3,"[""Resource"", ""E79_Part_Addition""]",40,,,3,"""P59_has_section""",286
+4,"[""Resource"", ""E31_Document""]",37,,,4,"""P32_used_general_technique""",280
+5,"[""Resource"", ""E22_Man-Made_Object""]",339,,,5,"""P9_consists_of""",280
+6,"[""Resource"", ""E11_Modification""]",273,,,6,"""P31_has_modified""",273
+7,"[""Resource"", ""E13_Attribute_Assignment""]",37,,,7,"""P126_employed""",239
+8,"[""Resource"", ""E3_Condition_State""]",155,,,8,"""P44_has_condition""",155
+9,"[""Resource"", ""E52_Time-Span""]",178,,,9,"""P55_has_current_location""",105
+10,"[""Resource"", ""E55_Type""]",65,,,10,"""P4_has_time-span""",104
+11,"[""Resource"", ""E39_Actor""]",49,,,11,"""P45_consists_of""",87
+12,"[""Resource"", ""E25_Man-Made_Feature""]",69,,,12,"""P86_falls_within""",74
+13,"[""Resource"", ""E12_Production""]",30,,,13,"""P56_bears_feature""",69
+14,"[""Resource"", ""E57_Material""]",51,,,14,"""P8_took_place_on_or_within""",52
+15,"[""Resource"", ""E42_Identifier""]",37,,,15,"""P14_carried_out_by""",49
+16,"[""Resource"", ""E80_Part_Removal""]",5,,,16,"""P14.1_in_the_role_of""",49
+17,"[""Resource"", ""E40_Legal_Body""]",1,,,17,"""P111_added""",40
+18,"[""Resource"", ""E41_Appellation""]",1,,,18,"""P1_is_identified_by""",38
+,,,,,19,"""P70_documents""",37
+,,,,,20,"""P140_assigned_attribute_to""",37
+,Total Node Counts,1707,,,21,"""P50_has_current_keeper""",37
+,,,,,22,"""P108_has_produced""",30
+,,,,,23,"""P113_removed""",5
+,,,,,24,"""P183_ends_before_the_start_of""",1
+,,,,,,,
+,,,,,,,
+,,,,,,Total Relationship Counts,3611

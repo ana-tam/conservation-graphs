@@ -1,0 +1,31 @@
+,0_CIDOC_CRM,,,,,,
+,v.2021.10.06; and v.2021.10.31 ETL2,,,,,,
+,,,,,,,
+,ETL 1,,,,,,
+,,,,,,,
+,labels(n),count(*),,,,type,amount
+1,"[""_GraphConfig""]",1,,,1,"""DOMAIN""",308
+2,"[""Resource"", ""Relationship""]",309,,,2,"""RANGE""",308
+3,"[""Resource"", ""Class""]",76,,,3,"""SPO""",183
+4,"[""Resource""]",1,,,4,"""SCO""",89
+,,,,,,,
+,Total Node Counts,387,,,,Total Relationship Counts,888
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,ETL 2,,,,,,
+,,,,,,,
+,labels(n),count(*),,,,type,amount
+1,"[""_GraphConfig""]",1,,,1,"""DOMAIN""",308
+2,"[""Resource"", ""Relationship""]",309,,,2,"""RANGE""",308
+3,"[""Resource"", ""Class""]",76,,,3,"""xDOMAIN""",308
+4,"[""Resource""]",1,,,4,"""SPO""",183
+,,,,,5,"""SCO""",89
+,Total Node Counts,387,,,6,"""xSCO""",89
+,,,,,,,
+,,,,,,Total Relationship Counts,1285

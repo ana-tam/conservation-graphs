@@ -1,0 +1,41 @@
+,Bod-data-2020-12-31,,,,,,
+
+,,,,,,,
+,labels(n),count(*),,,,type,amount
+1,"[""_GraphConfig""]",1,,,1,"""P2_has_type""",1787
+2,"[""Resource"", ""E53_Place""]",518,,,2,"""P46_is_composed_of""",524
+3,"[""Resource"", ""E79_Part_Addition""]",102,,,3,"""P59_has_section""",382
+4,"[""Resource"", ""E22_Man-Made_Object""]",561,,,4,"""P126_employed""",367
+5,"[""Resource"", ""E25_Man-Made_Feature""]",36,,,5,"""P9_consists_of""",363
+6,"[""Resource"", ""E80_Part_Removal""]",56,,,6,"""P32_used_general_technique""",238
+7,"[""Resource"", ""E11_Modification""]",231,,,7,"""P31_has_modified""",231
+8,"[""Resource"", ""E55_Type""]",212,,,8,"""P44_has_condition""",216
+9,"[""Resource"", ""E12_Production""]",79,,,9,"""P55_has_current_location""",201
+10,"[""Resource"", ""E52_Time-Span""]",87,,,10,"""P45_consists_of""",165
+11,"[""Resource"", ""E3_Condition_State""]",206,,,11,"""P8_took_place_on_or_within""",132
+12,"[""Resource"", ""E29_Design_or_Procedure""]",46,,,12,"""P111_added""",102
+13,"[""Resource"", ""E57_Material""]",44,,,13,"""P108_has_produced""",78
+14,"[""Resource"", ""E40_Legal_Body""]",1,,,14,"""P1_is_identified_by""",76
+15,"[""Resource"", ""E42_Identifier""]",24,,,15,"""P91_has_unit""",65
+16,"[""Resource"", ""S10_Material_Substantial""]",13,,,16,"""P43_has_dimension""",65
+17,"[""Resource"", ""E41_Appellation""]",52,,,17,"""P4_has_time-span""",62
+18,"[""Resource"", ""E54_Dimension""]",79,,,18,"""P113_removed""",60
+19,"[""Resource"", ""E31_Document""]",24,,,19,"""P56_bears_feature""",46
+20,"[""Resource"", ""E13_Attribute_Assignment""]",24,,,20,"""P33_used_specific_technique""",46
+21,"[""Resource"", ""E39_Actor""]",27,,,21,"""P70_documents""",33
+22,"[""Resource"", ""E58_Measurement_Unit""]",5,,,22,"""P16_used_specific_object""",30
+23,"[""Resource"", ""E60_Number""]",5,,,23,"""P14_carried_out_by""",27
+24,"[""Resource"", ""S11_Amount_of_Matter""]",3,,,24,"""P14.1_in_the_role_of""",27
+25,"[""Resource"", ""E26_Physical_Feature""]",10,,,25,"""P86_falls_within""",25
+26,"[""Resource"", ""E55_Type"", ""E57_Material""]",2,,,26,"""P50_has_current_keeper""",24
+27,"[""Resource"", ""E73_Information_Object""]",2,,,27,"""P89_falls_within""",24
+,,,,,28,"""P140_assigned_attribute_to""",24
+,Total Node Counts,2450,,,29,"""O25_contains""",21
+,,,,,30,"""O12_has_dimension""",14
+,,,,,31,"""P156_occupies""",9
+,,,,,32,"""P183_ends_before_the_start_of""",8
+,,,,,33,"""P57_has_number_of_parts""",5
+,,,,,34,"""P7_took_place_at""",2
+,,,,,35,"""P129_is_about""",2
+,,,,,,,
+,,,,,,Total Relationship Counts,5481
