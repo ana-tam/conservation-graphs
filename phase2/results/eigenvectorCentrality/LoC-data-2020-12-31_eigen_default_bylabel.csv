@@ -1,0 +1,1707 @@
+﻿name,score
+[damaged],0.8011005197244072
+[losses],0.26734675336544306
+[degraded],0.2209140610338618
+[left],0.21678715757598327
+[right],0.21678715757598327
+[broken],0.15368097310415388
+[distortion],0.13311589806468843
+[detached],0.11637124881754175
+[textblocks],0.10551422080326446
+[spine],0.10484885899757734
+[spine (bookblocks)],0.10466391457538027
+[sewing supports],0.10466391457538027
+[tail],0.10466391457538025
+[head],0.10466391457538023
+[lifted],0.06475543511049037
+[covering material],0.05445099607942991
+[repaired],0.04900368749811627
+[acidic],0.04900368749811627
+[Handmade Paper],0.041664379286923105
+[gold tooling],0.037654483791878766
+[inner joints],0.03534933905064705
+[Machine Made Paper],0.027814062662283638
+[Paper],0.027531050550839056
+[mold],0.026665684440168678
+[outer joints],0.02524133134403679
+[blind tooling],0.02442433163189355
+"[edges,bookblock edges]",0.02196119008079582
+[edge coloring],0.02183172898525785
+[cut],0.02183172898525785
+[gold stamping],0.018478000283337008
+[Wove Paper],0.01691730831036367
+[boards],0.014934055426315134
+[covers],0.013309888078836324
+[sewn structures],0.007672472785295579
+[bookblocks],0.007672472785295579
+"[Washington, D.C. (name)]",0.00767230134929552
+[Board],0.005452998439729891
+"[Damaged (Library of Congress, 1657_001)]",0.005285374242377913
+null,0.005285374242377913
+"[Repaired (Library of Congress, 1657_001)]",0.005285374242377913
+"[Damaged (Library of Congress, 1657_001)]",0.005285374242377913
+"[Degraded (Library of Congress, 3929)]",0.003539750113013636
+[sewing],0.0033945547483367985
+"[Degraded (Library of Congress, 3027)]",0.003353923901290862
+"[Lifted (Library of Congress, 3027)]",0.003353923901290862
+"[Degraded (Library of Congress, 3968)]",0.003353923901290862
+"[Degraded (Library of Congress, 4388_101_01)]",0.0031680976895680866
+"[Lifted (Library of Congress, 4357_005_001)]",0.0031680976895680866
+"[Degraded (Library of Congress, 3824)]",0.002991235795328476
+"[Degraded (Library of Congress, 4053)]",0.002991235795328476
+[Clasps],0.002991235795328476
+"[Degraded (Library of Congress, 3494)]",0.0029822714778453105
+"[Losses (Library of Congress, 2966)]",0.002851900020114986
+null,0.002851900020114986
+"[Losses (Library of Congress, 2966)]",0.002851900020114986
+"[Damaged (Library of Congress, 2966)]",0.002851900020114986
+"[Damaged (Library of Congress, 1697)]",0.002851900020114986
+"[Distortion (Library of Congress, 1697)]",0.002851900020114986
+"[Damaged (Library of Congress, 4341)]",0.002842657561116245
+"[Losses (Library of Congress, 4341)]",0.002842657561116245
+"[Losses (Library of Congress, 3927)]",0.002842657561116245
+"[Losses (Library of Congress, 3927)]",0.002842657561116245
+"[Damaged (Library of Congress, 3927)]",0.002842657561116245
+"[Losses (Library of Congress, 4341)]",0.002842657561116245
+"[Damaged (Library of Congress, 2561)]",0.002842657561116244
+"[Distortion (Library of Congress, 2561)]",0.002842657561116244
+"[Damaged (Library of Congress, 3995)]",0.002833415102117503
+"[Distortion (Library of Congress, 3995)]",0.002833415102117503
+null,0.002833415102117503
+"[Losses (Library of Congress, 3674)]",0.002833415102117503
+"[Damaged (Library of Congress, 3674)]",0.002833415102117503
+"[Losses (Library of Congress, 3674)]",0.002833415102117503
+"[Distortion (Library of Congress, 4347_3)]",0.002824172643118761
+"[Damaged (Library of Congress, 4265)]",0.002824172643118761
+"[Damaged (Library of Congress, 4347_3)]",0.002824172643118761
+"[Damaged (Library of Congress, 3928)]",0.002824172643118761
+"[Damaged (Library of Congress, 4247)]",0.0028241726431187603
+null,0.002814930184120019
+"[Damaged (Library of Congress, 4240)]",0.002814930184120019
+"[Damaged (Library of Congress, 529)]",0.002814930184120019
+"[Mold (Library of Congress, 2687)]",0.002814930184120019
+"[Damaged (Library of Congress, 3494)]",0.002814930184120019
+null,0.002814930184120019
+null,0.002814930184120019
+"[Damaged (Library of Congress, 3968)]",0.002814930184120019
+"[Damaged (Library of Congress, 2687)]",0.002814930184120019
+"[Damaged (Library of Congress, 4357_005_001)]",0.0028056877251212767
+"[Damaged (Library of Congress, 4388_101_01)]",0.0028056877251212767
+"[Damaged (Library of Congress, 3967)]",0.0028056877251212767
+"[Damaged (Library of Congress, 2247)]",0.0028056877251212767
+"[Losses (Library of Congress, 3824)]",0.0026565532078778927
+"[Damaged (Library of Congress, 3824)]",0.0026565532078778927
+"[Losses (Library of Congress, 3824)]",0.0026565532078778927
+"[Distortion (Library of Congress, 3994)]",0.0026473107488791513
+"[Damaged (Library of Congress, 3994)]",0.0026473107488791513
+"[Damaged (Library of Congress, 3819)]",0.002647310748879151
+"[Damaged (Library of Congress, 4053)]",0.0026380682898804087
+null,0.0026380682898804087
+null,0.0026380682898804087
+"[Damaged (Library of Congress, 4539_003)]",0.002628825830881667
+[Leather],0.0018744650481699794
+[Textile],0.001585490855904193
+[Leather (Sheep)],0.0006398406622141463
+[conservators (people in conservation)],0.0004710425036197371
+[Leather (Calf) ],0.0004635302888945764
+[Bookcloth],0.0004542878298958346
+"[Right (Library of Congress, 1657_001)]",0.0004089099594488546
+"[Left (Library of Congress, 1657_001)]",0.0004089099594488546
+"[Outer joints (Library of Congress, 1657_001)]",0.0004083489143065891
+"[Blind tooling (Library of Congress, 1657_001)]",0.0004083489143065891
+"[Textblock (Library of Congress, 1657_001)]",0.0003915614180692397
+"[Sewing supports (Library of Congress, 1657_001)]",0.00038986399630910564
+"[Head (Library of Congress, 1657_001)]",0.00038986399630910564
+"[Bookblock spine (Library of Congress, 1657_001)]",0.00038986399630910564
+"[Right (Library of Congress, 1657_001)]",0.00038986399630910564
+"[Spine (place) (Library of Congress, 1657_001)]",0.00038986399630910564
+"[Left (Library of Congress, 1657_001)]",0.00038986399630910564
+"[Tail (Library of Congress, 1657_001)]",0.00038986399630910564
+"[Bookblock edges (Library of Congress, 1657_001)]",0.00038986399630910564
+[Library of Congress],0.00037002515587750606
+"[Washington, D.C. (place)]",0.00037002515587750606
+[books],0.00035069628911106815
+"[Right (Library of Congress, 4318_001)]",0.0002415686657235628
+"[Left (Library of Congress, 4318_001)]",0.0002415686657235628
+"[Left (Library of Congress, 3494)]",0.0002415686657235628
+"[Right (Library of Congress, 4318_003)]",0.0002415686657235628
+"[Left (Library of Congress, 4318_003)]",0.0002415686657235627
+"[Right (Library of Congress, 3494)]",0.0002415686657235627
+"[Right (Library of Congress, 4318_002)]",0.0002415686657235627
+"[Left (Library of Congress, 4318_002)]",0.0002415686657235627
+"[Inner joints (Library of Congress, 3995)]",0.00024100762058129746
+"[Gold tooling (Library of Congress, 3929)]",0.0002410076205812974
+"[Covering material-place (Library of Congress, 3929)]",0.0002410076205812974
+"[Outer joints (Library of Congress, 3929)]",0.0002410076205812974
+"[Inner joints (Library of Congress, 3929)]",0.0002410076205812974
+[Leather (Goat)],0.0002410076205812974
+"[Covering material (Library of Congress, 3929)]",0.0002410076205812974
+"[Left (Library of Congress, 3968)]",0.00023232620672482098
+"[Right (Library of Congress, 2966)]",0.00023232620672482098
+"[Right (Library of Congress, 4247)]",0.00023232620672482098
+"[Left (Library of Congress, 4318_005)]",0.00023232620672482098
+"[Right (Library of Congress, 3968)]",0.00023232620672482098
+"[Left (Library of Congress, 2966)]",0.00023232620672482098
+"[Right (Library of Congress, 4318_005)]",0.00023232620672482098
+"[Right (Library of Congress, 3928)]",0.00023232620672482098
+"[Left (Library of Congress, 4247)]",0.00023232620672482098
+"[Left (Library of Congress, 3928)]",0.00023232620672482098
+"[Right (Library of Congress, 4318_006)]",0.00023232620672482092
+"[Left (Library of Congress, 4318_006)]",0.00023232620672482092
+"[Gold stamping (Library of Congress, 3994)]",0.00023204330309813193
+"[Inner joints (Library of Congress, 3994)]",0.00023204330309813193
+"[Outer joints (Library of Congress, 3994)]",0.00023204330309813193
+"[Gold tooling (Library of Congress, 3968)]",0.00023176516158255562
+"[Covering material-place (Library of Congress, 3027)]",0.00023176516158255562
+"[Gold tooling (Library of Congress, 3927)]",0.00023176516158255562
+"[Inner joints (Library of Congress, 4265)]",0.00023176516158255562
+"[Blind tooling (Library of Congress, 3027)]",0.00023176516158255562
+"[Broken (Library of Congress, 3494)]",0.00023176516158255562
+"[Covering material (Library of Congress, 3968)]",0.00023176516158255562
+"[Detached (Library of Congress, 4318_003)]",0.00023176516158255562
+"[Broken (Library of Congress, 4318_002)]",0.00023176516158255562
+"[Outer joints (Library of Congress, 3968)]",0.00023176516158255562
+"[Detached (Library of Congress, 4318_002)]",0.00023176516158255562
+"[Broken (Library of Congress, 4318_003)]",0.00023176516158255562
+"[Broken (Library of Congress, 4318_001)]",0.00023176516158255562
+"[Detached (Library of Congress, 4318_002)]",0.00023176516158255562
+"[Detached (Library of Congress, 4318_001)]",0.00023176516158255562
+"[Blind tooling (Library of Congress, 3968)]",0.00023176516158255562
+"[Broken (Library of Congress, 4318_002)]",0.00023176516158255562
+"[Covering material-place (Library of Congress, 3027)]",0.00023176516158255562
+"[Detached (Library of Congress, 3494)]",0.00023176516158255562
+"[Broken (Library of Congress, 4318_001)]",0.00023176516158255562
+"[Detached (Library of Congress, 4318_003)]",0.00023176516158255562
+"[Broken (Library of Congress, 3494)]",0.00023176516158255562
+"[Detached (Library of Congress, 3494)]",0.00023176516158255562
+"[Detached (Library of Congress, 4318_001)]",0.00023176516158255562
+"[Covering material-place (Library of Congress, 3968)]",0.00023176516158255562
+"[Covering material (Library of Congress, 3027)]",0.00023176516158255562
+"[Broken (Library of Congress, 4318_003)]",0.00023176516158255562
+"[Inner joints (Library of Congress, 3968)]",0.00023176516158255562
+"[Left (Library of Congress, 1697)]",0.00022308374772607917
+"[Left (Library of Congress, 4265)]",0.00022308374772607917
+"[Right (Library of Congress, 4165)]",0.00022308374772607917
+"[Right (Library of Congress, 2247)]",0.00022308374772607917
+"[Left (Library of Congress, 4357_005_001)]",0.00022308374772607917
+"[Right (Library of Congress, 1697)]",0.00022308374772607917
+"[Right (Library of Congress, 4265)]",0.00022308374772607917
+"[Left (Library of Congress, 4240)]",0.00022308374772607917
+"[Left (Library of Congress, 3027)]",0.00022308374772607917
+"[Left (Library of Congress, 3966)]",0.00022308374772607917
+"[Right (Library of Congress, 4388_101_01)]",0.00022308374772607917
+"[Left (Library of Congress, 2247)]",0.00022308374772607917
+"[Right (Library of Congress, 4341)]",0.00022308374772607917
+"[Right (Library of Congress, 3027)]",0.00022308374772607917
+"[Left (Library of Congress, 3967)]",0.00022308374772607917
+"[Left (Library of Congress, 4165)]",0.00022308374772607917
+"[Left (Library of Congress, 3995)]",0.00022308374772607917
+"[Right (Library of Congress, 4357_005_001)]",0.00022308374772607917
+"[Left (Library of Congress, 4341)]",0.00022308374772607917
+"[Left (Library of Congress, 4388_101_01)]",0.00022308374772607917
+"[Right (Library of Congress, 3967)]",0.00022308374772607917
+"[Right (Library of Congress, 4240)]",0.00022308374772607917
+"[Right (Library of Congress, 3995)]",0.00022308374772607917
+"[Right (Library of Congress, 3966)]",0.00022308374772607917
+"[Right (Library of Congress, 3824)]",0.00022308374772607908
+"[Right (Library of Congress, 4053)]",0.00022308374772607908
+"[Left (Library of Congress, 4053)]",0.00022308374772607908
+"[Left (Library of Congress, 3824)]",0.00022308374772607908
+"[Detached (Library of Congress, 4318_005)]",0.00022280084409939018
+"[Broken (Library of Congress, 4318_005)]",0.00022280084409939018
+"[Broken (Library of Congress, 4318_005)]",0.00022280084409939018
+"[Detached (Library of Congress, 4318_005)]",0.00022280084409939018
+"[Detached (Library of Congress, 4318_006)]",0.00022280084409939007
+"[Detached (Library of Congress, 4318_006)]",0.00022280084409939007
+"[Broken (Library of Congress, 4318_006)]",0.00022280084409939007
+"[Broken (Library of Congress, 4318_006)]",0.00022280084409939007
+"[Covering material-place (Library of Congress, 4357_005_001)]",0.0002225227025838138
+"[Covering material (Library of Congress, 4388_101_01)]",0.0002225227025838138
+"[Broken (Library of Congress, 3968)]",0.0002225227025838138
+"[Damaged (Library of Congress, 3928)]",0.0002225227025838138
+"[Damaged (Library of Congress, 3928)]",0.0002225227025838138
+"[Gold tooling (Library of Congress, 529)]",0.0002225227025838138
+"[Damaged (Library of Congress, 3968)]",0.0002225227025838138
+"[Broken (Library of Congress, 2966)]",0.0002225227025838138
+"[Broken (Library of Congress, 4247)]",0.0002225227025838138
+"[Inner joints (Library of Congress, 4357_005_001)]",0.0002225227025838138
+"[Gold tooling (Library of Congress, 4388_101_01)]",0.0002225227025838138
+"[Broken (Library of Congress, 3928)]",0.0002225227025838138
+"[Broken (Library of Congress, 3968)]",0.0002225227025838138
+"[Broken (Library of Congress, 2966)]",0.0002225227025838138
+"[Gold stamping (Library of Congress, 4347_3)]",0.0002225227025838138
+"[Broken (Library of Congress, 4247)]",0.0002225227025838138
+"[Gold tooling (Library of Congress, 1697)]",0.0002225227025838138
+"[Blind tooling (Library of Congress, 4388_101_01)]",0.0002225227025838138
+"[Damaged (Library of Congress, 3968)]",0.0002225227025838138
+"[Damaged (Library of Congress, 4247)]",0.0002225227025838138
+"[Gold stamping (Library of Congress, 4165)]",0.0002225227025838138
+"[Outer joints (Library of Congress, 4164)]",0.0002225227025838138
+"[Outer joints (Library of Congress, 4388_101_01)]",0.0002225227025838138
+"[Gold tooling (Library of Congress, 4380)]",0.0002225227025838138
+"[Covering material (Library of Congress, 4357_005_001)]",0.0002225227025838138
+"[Gold stamping (Library of Congress, 4164)]",0.0002225227025838138
+"[Covering material-place (Library of Congress, 4388_101_01)]",0.0002225227025838138
+"[Damaged (Library of Congress, 2966)]",0.0002225227025838138
+"[Damaged (Library of Congress, 4247)]",0.0002225227025838138
+"[Damaged (Library of Congress, 2966)]",0.0002225227025838138
+"[Broken (Library of Congress, 3928)]",0.0002225227025838138
+"[Right (Library of Congress, 529)]",0.00021384128872733733
+"[Right (Library of Congress, 4164)]",0.00021384128872733733
+"[Left (Library of Congress, 529)]",0.00021384128872733733
+"[Right (Library of Congress, 3929)]",0.00021384128872733733
+"[Left (Library of Congress, 4164)]",0.00021384128872733733
+"[Left (Library of Congress, 3929)]",0.00021384128872733733
+"[Left (Library of Congress, 3927)]",0.00021384128872733733
+"[Left (Library of Congress, 4347_3)]",0.00021384128872733733
+"[Right (Library of Congress, 2687)]",0.00021384128872733733
+"[Left (Library of Congress, 2687)]",0.00021384128872733733
+"[Right (Library of Congress, 4347_3)]",0.00021384128872733733
+"[Right (Library of Congress, 3927)]",0.00021384128872733733
+"[Left (Library of Congress, 3819)]",0.00021384128872733725
+"[Right (Library of Congress, 4539_003)]",0.00021384128872733725
+"[Left (Library of Congress, 4539_003)]",0.00021384128872733725
+"[Right (Library of Congress, 3819)]",0.00021384128872733725
+"[Broken (Library of Congress, 4053)]",0.00021355838510064826
+"[Gold stamping (Library of Congress, 4053)]",0.00021355838510064826
+"[Damaged (Library of Congress, 3824)]",0.00021355838510064826
+"[Inner joints (Library of Congress, 4053)]",0.00021355838510064826
+"[Broken (Library of Congress, 4053)]",0.00021355838510064826
+"[Damaged (Library of Congress, 4053)]",0.00021355838510064826
+"[Covering material-place (Library of Congress, 3824)]",0.00021355838510064826
+"[Gold tooling (Library of Congress, 3824)]",0.00021355838510064826
+"[Covering material-place (Library of Congress, 4053)]",0.00021355838510064826
+null,0.00021355838510064826
+"[Covering material (Library of Congress, 3824)]",0.00021355838510064826
+"[Damaged (Library of Congress, 4053)]",0.00021355838510064826
+"[Covering material (Library of Congress, 4053)]",0.00021355838510064826
+"[Damaged (Library of Congress, 3824)]",0.00021355838510064826
+"[Inner joints (Library of Congress, 3824)]",0.00021355838510064826
+"[Broken (Library of Congress, 3824)]",0.00021355838510064826
+"[Broken (Library of Congress, 3824)]",0.00021355838510064826
+"[Broken (Library of Congress, 3995)]",0.00021328024358507192
+"[Detached (Library of Congress, 3967)]",0.00021328024358507192
+"[Detached (Library of Congress, 4357_005_001)]",0.00021328024358507192
+"[Detached (Library of Congress, 4388_101_01)]",0.00021328024358507192
+"[Broken (Library of Congress, 4165)]",0.00021328024358507192
+"[Broken (Library of Congress, 4265)]",0.00021328024358507192
+"[Detached (Library of Congress, 4357_005_001)]",0.00021328024358507192
+"[Gold tooling (Library of Congress, 4240)]",0.00021328024358507192
+"[Broken (Library of Congress, 4357_005_001)]",0.00021328024358507192
+"[Detached (Library of Congress, 2247)]",0.00021328024358507192
+"[Blind tooling (Library of Congress, 2966)]",0.00021328024358507192
+"[Detached (Library of Congress, 1697)]",0.00021328024358507192
+"[Broken (Library of Congress, 4341)]",0.00021328024358507192
+"[Broken (Library of Congress, 3995)]",0.00021328024358507192
+"[Inner joints (Library of Congress, 3966)]",0.00021328024358507192
+"[Detached (Library of Congress, 4388_101_01)]",0.00021328024358507192
+"[Broken (Library of Congress, 3967)]",0.00021328024358507192
+"[Detached (Library of Congress, 4165)]",0.00021328024358507192
+"[Detached (Library of Congress, 4240)]",0.00021328024358507192
+[Suede],0.00021328024358507192
+"[Inner joints (Library of Congress, 3967)]",0.00021328024358507192
+"[Broken (Library of Congress, 1697)]",0.00021328024358507192
+"[Broken (Library of Congress, 4265)]",0.00021328024358507192
+"[Detached (Library of Congress, 4265)]",0.00021328024358507192
+"[Gold tooling (Library of Congress, 3966)]",0.00021328024358507192
+"[Broken (Library of Congress, 4388_101_01)]",0.00021328024358507192
+"[Detached (Library of Congress, 3995)]",0.00021328024358507192
+"[Gold tooling (Library of Congress, 4247)]",0.00021328024358507192
+"[Broken (Library of Congress, 3966)]",0.00021328024358507192
+"[Broken (Library of Congress, 4165)]",0.00021328024358507192
+"[Detached (Library of Congress, 4265)]",0.00021328024358507192
+"[Outer joints (Library of Congress, 4240)]",0.00021328024358507192
+"[Detached (Library of Congress, 4165)]",0.00021328024358507192
+"[Detached (Library of Congress, 4341)]",0.00021328024358507192
+"[Blind tooling (Library of Congress, 3967)]",0.00021328024358507192
+"[Covering material-place (Library of Congress, 3494)]",0.00021328024358507192
+"[Detached (Library of Congress, 4240)]",0.00021328024358507192
+"[Broken (Library of Congress, 3967)]",0.00021328024358507192
+"[Broken (Library of Congress, 3966)]",0.00021328024358507192
+"[Detached (Library of Congress, 4341)]",0.00021328024358507192
+"[Broken (Library of Congress, 2247)]",0.00021328024358507192
+"[Broken (Library of Congress, 4240)]",0.00021328024358507192
+"[Detached (Library of Congress, 3966)]",0.00021328024358507192
+"[Detached (Library of Congress, 2247)]",0.00021328024358507192
+"[Detached (Library of Congress, 3966)]",0.00021328024358507192
+"[Broken (Library of Congress, 4240)]",0.00021328024358507192
+"[Detached (Library of Congress, 3967)]",0.00021328024358507192
+"[Damaged (Library of Congress, 3027)]",0.00021328024358507192
+"[Broken (Library of Congress, 2247)]",0.00021328024358507192
+"[Broken (Library of Congress, 4341)]",0.00021328024358507192
+"[Broken (Library of Congress, 4388_101_01)]",0.00021328024358507192
+"[Damaged (Library of Congress, 3027)]",0.00021328024358507192
+"[Covering material (Library of Congress, 3494)]",0.00021328024358507192
+"[Detached (Library of Congress, 1697)]",0.00021328024358507192
+"[Detached (Library of Congress, 3995)]",0.00021328024358507192
+"[Blind tooling (Library of Congress, 3494)]",0.00021328024358507192
+"[Broken (Library of Congress, 4357_005_001)]",0.00021328024358507192
+"[Inner joints (Library of Congress, 3928)]",0.00021328024358507192
+"[Broken (Library of Congress, 1697)]",0.00021328024358507192
+"[Textblock (Library of Congress, 2966)]",0.0002057352063464643
+"[Textblock (Library of Congress, 1697)]",0.0002057352063464643
+"[Textblock (Library of Congress, 4341)]",0.0002054523027197753
+"[Textblock (Library of Congress, 3927)]",0.0002054523027197753
+"[Textblock (Library of Congress, 2561)]",0.00020545230271977528
+"[Textblock (Library of Congress, 3674)]",0.00020516939909308632
+"[Textblock (Library of Congress, 3027)]",0.00020516939909308632
+"[Textblock (Library of Congress, 3995)]",0.00020516939909308627
+"[Textblock (Library of Congress, 3928)]",0.0002048864954663972
+"[Textblock (Library of Congress, 4247)]",0.0002048864954663972
+"[Textblock (Library of Congress, 4265)]",0.0002048864954663972
+"[Textblock (Library of Congress, 4347_3)]",0.0002048864954663972
+"[Textblock (Library of Congress, 2687)]",0.00020460359183970824
+"[Textblock (Library of Congress, 529)]",0.00020460359183970824
+"[Textblock (Library of Congress, 3494)]",0.00020460359183970824
+"[Textblock (Library of Congress, 4380)]",0.00020460359183970824
+"[Textblock (Library of Congress, 3968)]",0.00020460359183970824
+"[Textblock (Library of Congress, 4240)]",0.00020460359183970824
+"[Left (Library of Congress, 3994)]",0.0002045988297285955
+"[Right (Library of Congress, 3994)]",0.0002045988297285955
+"[Textblock (Library of Congress, 3966)]",0.00020432068821301926
+"[Textblock (Library of Congress, 4318_001)]",0.00020432068821301926
+"[Textblock (Library of Congress, 4357_005_001)]",0.00020432068821301926
+"[Textblock (Library of Congress, 3967)]",0.00020432068821301926
+"[Textblock (Library of Congress, 4388_101_01)]",0.00020432068821301926
+"[Textblock (Library of Congress, 4164)]",0.00020432068821301926
+"[Textblock (Library of Congress, 4318_003)]",0.00020432068821301926
+"[Textblock (Library of Congress, 3929)]",0.00020432068821301926
+"[Textblock (Library of Congress, 2247)]",0.00020432068821301926
+"[Textblock (Library of Congress, 4318_002)]",0.00020432068821301926
+"[Broken (Library of Congress, 3819)]",0.00020431592610190645
+"[Detached (Library of Congress, 3819)]",0.00020431592610190645
+"[Detached (Library of Congress, 3819)]",0.00020431592610190645
+"[Broken (Library of Congress, 4539_003)]",0.00020431592610190645
+"[Broken (Library of Congress, 4539_003)]",0.00020431592610190645
+"[Detached (Library of Congress, 4539_003)]",0.00020431592610190645
+"[Detached (Library of Congress, 4539_003)]",0.00020431592610190645
+"[Broken (Library of Congress, 3819)]",0.00020431592610190645
+"[Right (Library of Congress, 3494)]",0.0002040377845863302
+"[Tail (Library of Congress, 2561)]",0.0002040377845863302
+"[Head (Library of Congress, 4164)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3966)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3494)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4247)]",0.0002040377845863302
+"[Left (Library of Congress, 3968)]",0.0002040377845863302
+"[Head (Library of Congress, 3966)]",0.0002040377845863302
+"[Left (Library of Congress, 4318_003)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 2561)]",0.0002040377845863302
+"[Head (Library of Congress, 4380)]",0.0002040377845863302
+"[Right (Library of Congress, 2247)]",0.0002040377845863302
+"[Left (Library of Congress, 529)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4164)]",0.0002040377845863302
+"[Bookblock edges (Library of Congress, 3967)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3929)]",0.0002040377845863302
+"[Left (Library of Congress, 4318_001)]",0.0002040377845863302
+"[Tail (Library of Congress, 4347_3)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4388_101_01)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 529)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4247)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4164)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4380)]",0.0002040377845863302
+"[Tail (Library of Congress, 3929)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 2561)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4164)]",0.0002040377845863302
+"[Tail (Library of Congress, 1697)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4347_3)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4165)]",0.0002040377845863302
+"[Head (Library of Congress, 4388_101_01)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3674)]",0.0002040377845863302
+"[Left (Library of Congress, 2247)]",0.0002040377845863302
+"[Head (Library of Congress, 2687)]",0.0002040377845863302
+"[Left (Library of Congress, 3928)]",0.0002040377845863302
+"[Left (Library of Congress, 4247)]",0.0002040377845863302
+"[Left (Library of Congress, 4357_005_001)]",0.0002040377845863302
+"[Tail (Library of Congress, 4380)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3927)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 2687)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4165)]",0.0002040377845863302
+"[Right (Library of Congress, 4318_003)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4240)]",0.0002040377845863302
+"[Right (Library of Congress, 3967)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4318_002)]",0.0002040377845863302
+"[Right (Library of Congress, 4318_002)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4240)]",0.0002040377845863302
+"[Right (Library of Congress, 3027)]",0.0002040377845863302
+"[Tail (Library of Congress, 2687)]",0.0002040377845863302
+"[Tail (Library of Congress, 4318_001)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 1697)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4247)]",0.0002040377845863302
+"[Tail (Library of Congress, 529)]",0.0002040377845863302
+"[Left (Library of Congress, 3494)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 2966)]",0.0002040377845863302
+"[Tail (Library of Congress, 4318_003)]",0.0002040377845863302
+"[Right (Library of Congress, 4247)]",0.0002040377845863302
+"[Left (Library of Congress, 2966)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3928)]",0.0002040377845863302
+"[Tail (Library of Congress, 4265)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4347_3)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3674)]",0.0002040377845863302
+"[Tail (Library of Congress, 4341)]",0.0002040377845863302
+"[Tail (Library of Congress, 4165)]",0.0002040377845863302
+"[Head (Library of Congress, 4318_002)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3967)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3968)]",0.0002040377845863302
+"[Head (Library of Congress, 4247)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3968)]",0.0002040377845863302
+"[Left (Library of Congress, 4388_101_01)]",0.0002040377845863302
+"[Right (Library of Congress, 4265)]",0.0002040377845863302
+"[Right (Library of Congress, 529)]",0.0002040377845863302
+"[Right (Library of Congress, 4380)]",0.0002040377845863302
+"[Head (Library of Congress, 3967)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3027)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 529)]",0.0002040377845863302
+"[Head (Library of Congress, 3674)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4341)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4318_003)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3966)]",0.0002040377845863302
+"[Tail (Library of Congress, 4240)]",0.0002040377845863302
+"[Gold tooling (Library of Congress, 2247)]",0.0002040377845863302
+"[Bookblock edges (Library of Congress, 3027)]",0.0002040377845863302
+"[Tail (Library of Congress, 2966)]",0.0002040377845863302
+"[Right (Library of Congress, 2966)]",0.0002040377845863302
+"[Tail (Library of Congress, 3494)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4388_101_01)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4318_001)]",0.0002040377845863302
+"[Right (Library of Congress, 4318_001)]",0.0002040377845863302
+"[Right (Library of Congress, 3929)]",0.0002040377845863302
+"[Right (Library of Congress, 4341)]",0.0002040377845863302
+"[Right (Library of Congress, 4347_3)]",0.0002040377845863302
+"[Bookblock edges (Library of Congress, 4240)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4318_001)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 2966)]",0.0002040377845863302
+"[Head (Library of Congress, 2247)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3927)]",0.0002040377845863302
+"[Left (Library of Congress, 3027)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4380)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4318_002)]",0.0002040377845863302
+"[Tail (Library of Congress, 3968)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3995)]",0.0002040377845863302
+"[Left (Library of Congress, 2687)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 1697)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4265)]",0.0002040377845863302
+"[Left (Library of Congress, 3674)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4357_005_001)]",0.0002040377845863302
+"[Right (Library of Congress, 3928)]",0.0002040377845863302
+"[Left (Library of Congress, 4265)]",0.0002040377845863302
+"[Tail (Library of Congress, 3928)]",0.0002040377845863302
+"[Head (Library of Congress, 3995)]",0.0002040377845863302
+"[Head (Library of Congress, 3927)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4388_101_01)]",0.0002040377845863302
+"[Bookblock edges (Library of Congress, 4347_3)]",0.0002040377845863302
+"[Tail (Library of Congress, 3674)]",0.0002040377845863302
+"[Right (Library of Congress, 4240)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3995)]",0.0002040377845863302
+"[Head (Library of Congress, 4357_005_001)]",0.0002040377845863302
+"[Right (Library of Congress, 2561)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4318_003)]",0.0002040377845863302
+"[Left (Library of Congress, 4164)]",0.0002040377845863302
+"[Left (Library of Congress, 2561)]",0.0002040377845863302
+"[Tail (Library of Congress, 3967)]",0.0002040377845863302
+"[Head (Library of Congress, 3968)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3494)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4165)]",0.0002040377845863302
+"[Right (Library of Congress, 1697)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4318_001)]",0.0002040377845863302
+"[Left (Library of Congress, 3967)]",0.0002040377845863302
+"[Right (Library of Congress, 4357_005_001)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4265)]",0.0002040377845863302
+"[Tail (Library of Congress, 3927)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3927)]",0.0002040377845863302
+"[Right (Library of Congress, 3674)]",0.0002040377845863302
+"[Tail (Library of Congress, 3027)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3027)]",0.0002040377845863302
+"[Head (Library of Congress, 1697)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 1697)]",0.0002040377845863302
+"[Right (Library of Congress, 4165)]",0.0002040377845863302
+"[Textblock (Library of Congress, 4165)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 2687)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3027)]",0.0002040377845863302
+"[Head (Library of Congress, 3928)]",0.0002040377845863302
+"[Right (Library of Congress, 3927)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 2687)]",0.0002040377845863302
+"[Tail (Library of Congress, 4318_002)]",0.0002040377845863302
+"[Head (Library of Congress, 4318_003)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 2561)]",0.0002040377845863302
+"[Head (Library of Congress, 4341)]",0.0002040377845863302
+"[Head (Library of Congress, 4318_001)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 529)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3966)]",0.0002040377845863302
+"[Tail (Library of Congress, 4357_005_001)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3674)]",0.0002040377845863302
+"[Head (Library of Congress, 529)]",0.0002040377845863302
+"[Left (Library of Congress, 4380)]",0.0002040377845863302
+"[Right (Library of Congress, 3966)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3928)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4341)]",0.0002040377845863302
+"[Tail (Library of Congress, 3966)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3928)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3967)]",0.0002040377845863302
+"[Head (Library of Congress, 3929)]",0.0002040377845863302
+"[Right (Library of Congress, 3995)]",0.0002040377845863302
+"[Left (Library of Congress, 3966)]",0.0002040377845863302
+"[Left (Library of Congress, 3995)]",0.0002040377845863302
+"[Left (Library of Congress, 3927)]",0.0002040377845863302
+"[Tail (Library of Congress, 4388_101_01)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4240)]",0.0002040377845863302
+"[Head (Library of Congress, 4265)]",0.0002040377845863302
+"[Head (Library of Congress, 4240)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 2966)]",0.0002040377845863302
+"[Head (Library of Congress, 4347_3)]",0.0002040377845863302
+"[Head (Library of Congress, 4165)]",0.0002040377845863302
+"[Left (Library of Congress, 4240)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4357_005_001)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 4380)]",0.0002040377845863302
+"[Bookblock edges (Library of Congress, 3966)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3995)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3967)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3494)]",0.0002040377845863302
+"[Left (Library of Congress, 4165)]",0.0002040377845863302
+"[Left (Library of Congress, 3929)]",0.0002040377845863302
+"[Head (Library of Congress, 3027)]",0.0002040377845863302
+"[Left (Library of Congress, 1697)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 3929)]",0.0002040377845863302
+"[Right (Library of Congress, 3968)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4347_3)]",0.0002040377845863302
+"[Right (Library of Congress, 4388_101_01)]",0.0002040377845863302
+"[Left (Library of Congress, 4341)]",0.0002040377845863302
+"[Tail (Library of Congress, 2247)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4357_005_001)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 2247)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 3968)]",0.0002040377845863302
+"[Head (Library of Congress, 2966)]",0.0002040377845863302
+"[Left (Library of Congress, 4318_002)]",0.0002040377845863302
+"[Head (Library of Congress, 3494)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4341)]",0.0002040377845863302
+"[Right (Library of Congress, 4164)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4318_003)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 2247)]",0.0002040377845863302
+"[Tail (Library of Congress, 4247)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 2247)]",0.0002040377845863302
+"[Sewing supports (Library of Congress, 3929)]",0.0002040377845863302
+"[Spine (place) (Library of Congress, 4318_002)]",0.0002040377845863302
+"[Right (Library of Congress, 2687)]",0.0002040377845863302
+"[Left (Library of Congress, 4347_3)]",0.0002040377845863302
+"[Head (Library of Congress, 2561)]",0.0002040377845863302
+"[Tail (Library of Congress, 3995)]",0.0002040377845863302
+"[Bookblock spine (Library of Congress, 4265)]",0.0002040377845863302
+"[Tail (Library of Congress, 4164)]",0.0002040377845863302
+"[Textblock (Library of Congress, 3824)]",0.00019620508160992078
+"[Textblock (Library of Congress, 3994)]",0.00019592217798323176
+"[Textblock (Library of Congress, 3819)]",0.00019592217798323165
+"[Textblock (Library of Congress, 4053)]",0.00019563927435654267
+"[Textblock (Library of Congress, 4539_003)]",0.00019535637072985368
+"[Gold stamping (Library of Congress, 4318_006)]",0.0001950734671031646
+"[Right (Library of Congress, 3994)]",0.0001950734671031646
+"[Sewing supports (Library of Congress, 4053)]",0.0001950734671031646
+"[Head (Library of Congress, 4318_006)]",0.0001950734671031646
+"[Tail (Library of Congress, 3819)]",0.0001950734671031646
+"[Spine (place) (Library of Congress, 4318_006)]",0.0001950734671031646
+"[Right (Library of Congress, 3824)]",0.0001950734671031646
+"[Left (Library of Congress, 4053)]",0.0001950734671031646
+"[Sewing supports (Library of Congress, 3819)]",0.0001950734671031646
+"[Bookblock spine (Library of Congress, 4318_006)]",0.0001950734671031646
+"[Head (Library of Congress, 3819)]",0.0001950734671031646
+"[Spine (place) (Library of Congress, 3824)]",0.0001950734671031646
+"[Bookblock spine (Library of Congress, 4539_003)]",0.0001950734671031646
+"[Head (Library of Congress, 4318_005)]",0.0001950734671031646
+"[Head (Library of Congress, 3824)]",0.0001950734671031646
+"[Tail (Library of Congress, 3994)]",0.0001950734671031646
+"[Bookblock spine (Library of Congress, 3824)]",0.0001950734671031646
+"[Right (Library of Congress, 4318_006)]",0.0001950734671031646
+"[Sewing supports (Library of Congress, 4318_006)]",0.0001950734671031646
+"[Left (Library of Congress, 3994)]",0.0001950734671031646
+"[Sewing supports (Library of Congress, 3994)]",0.0001950734671031646
+"[Left (Library of Congress, 3824)]",0.0001950734671031646
+"[Left (Library of Congress, 4539_003)]",0.0001950734671031646
+"[Left (Library of Congress, 4318_005)]",0.0001950734671031646
+"[Head (Library of Congress, 4053)]",0.0001950734671031646
+"[Bookblock spine (Library of Congress, 3994)]",0.0001950734671031646
+"[Spine (place) (Library of Congress, 4318_005)]",0.0001950734671031646
+"[Right (Library of Congress, 4318_005)]",0.0001950734671031646
+"[Spine (place) (Library of Congress, 4053)]",0.0001950734671031646
+"[Tail (Library of Congress, 3824)]",0.0001950734671031646
+"[Spine (place) (Library of Congress, 3994)]",0.0001950734671031646
+"[Tail (Library of Congress, 4318_005)]",0.0001950734671031646
+"[Sewing supports (Library of Congress, 4318_005)]",0.0001950734671031646
+"[Bookblock edges (Library of Congress, 3824)]",0.0001950734671031646
+"[Left (Library of Congress, 3819)]",0.0001950734671031646
+"[Sewing supports (Library of Congress, 3824)]",0.0001950734671031646
+"[Right (Library of Congress, 4053)]",0.0001950734671031646
+"[Bookblock spine (Library of Congress, 4053)]",0.0001950734671031646
+"[Tail (Library of Congress, 4539_003)]",0.0001950734671031646
+"[Textblock (Library of Congress, 4318_006)]",0.0001950734671031646
+"[Textblock (Library of Congress, 4318_005)]",0.0001950734671031646
+"[Bookblock spine (Library of Congress, 4318_005)]",0.0001950734671031646
+"[Right (Library of Congress, 3819)]",0.0001950734671031646
+"[Spine (place) (Library of Congress, 4539_003)]",0.0001950734671031646
+"[Tail (Library of Congress, 4318_006)]",0.0001950734671031646
+"[Right (Library of Congress, 4539_003)]",0.0001950734671031646
+"[Head (Library of Congress, 4539_003)]",0.0001950734671031646
+"[Sewing supports (Library of Congress, 4539_003)]",0.0001950734671031646
+"[Left (Library of Congress, 4318_006)]",0.0001950734671031646
+"[Spine (place) (Library of Congress, 3819)]",0.0001950734671031646
+"[Bookblock spine (Library of Congress, 3819)]",0.0001950734671031646
+"[Head (Library of Congress, 3994)]",0.0001950734671031646
+"[Tail (Library of Congress, 4053)]",0.0001950734671031646
+"[Cover (Library of Congress, 1657_001)]",0.00001961180466366179
+"[Left board (Library of Congress, 1657_001)]",0.000019045997410283754
+"[Sewing structure (Library of Congress, 1657_001)]",0.000019045997410283754
+"[Project Number (Library of Congress, 1657_001)]",0.000019045997410283754
+"[Bookblock (Library of Congress, 1657_001)]",0.000019045997410283754
+"[Right board (Library of Congress, 1657_001)]",0.000019045997410283754
+"[Attribute assignment decade (Library of Congress, 1657_001)]",0.000018211572863554837
+[board reattachment],0.000014145215604985702
+"[Cover (Library of Congress, 3995)]",0.00001093515291829802
+"[Cover (Library of Congress, 3929)]",0.000010935152918298017
+[description],0.000010745609973604778
+"[Cover (Library of Congress, 3994)]",0.000010657011402721713
+"[Cover (Library of Congress, 3927)]",0.000010652249291609004
+"[Right board (Library of Congress, 4318_001)]",0.000010652249291609004
+"[Left board (Library of Congress, 4318_001)]",0.000010652249291609004
+"[Right board (Library of Congress, 4318_003)]",0.000010652249291609004
+"[Cover (Library of Congress, 3027)]",0.000010652249291609004
+"[Left board (Library of Congress, 3494)]",0.000010652249291609004
+"[Right board (Library of Congress, 3494)]",0.000010652249291609002
+"[Right board (Library of Congress, 4318_002)]",0.000010652249291609002
+"[Cover (Library of Congress, 4265)]",0.000010652249291609002
+"[Left board (Library of Congress, 4318_003)]",0.000010652249291609002
+"[Cover (Library of Congress, 3968)]",0.000010652249291609002
+"[Left board (Library of Congress, 4318_002)]",0.000010652249291609002
+"[Left board (Library of Congress, 4318_005)]",0.000010374107776032698
+"[Right board (Library of Congress, 4318_005)]",0.000010374107776032698
+"[Right board (Library of Congress, 4318_006)]",0.000010374107776032698
+"[Left board (Library of Congress, 4318_006)]",0.000010374107776032698
+"[Cover (Library of Congress, 4357_005_001)]",0.000010369345664919983
+"[Left board (Library of Congress, 2966)]",0.000010369345664919983
+"[Cover (Library of Congress, 4347_3)]",0.000010369345664919983
+"[Cover (Library of Congress, 2687)]",0.000010369345664919983
+"[Left board (Library of Congress, 3928)]",0.000010369345664919983
+"[Cover (Library of Congress, 4388_101_01)]",0.000010369345664919983
+"[Left board (Library of Congress, 3968)]",0.000010369345664919983
+"[Right board (Library of Congress, 4247)]",0.000010369345664919983
+"[Right board (Library of Congress, 3928)]",0.000010369345664919983
+"[Right board (Library of Congress, 3968)]",0.000010369345664919983
+"[Cover (Library of Congress, 2561)]",0.000010369345664919983
+"[Cover (Library of Congress, 4165)]",0.000010369345664919983
+"[Cover (Library of Congress, 1697)]",0.000010369345664919983
+"[Left board (Library of Congress, 4247)]",0.000010369345664919983
+"[Cover (Library of Congress, 4380)]",0.000010369345664919983
+"[Right board (Library of Congress, 2966)]",0.000010369345664919983
+"[Cover (Library of Congress, 529)]",0.000010369345664919983
+"[Cover (Library of Congress, 4164)]",0.000010369345664919983
+"[Left board (Library of Congress, 3824)]",0.000010091204149343676
+"[Cover (Library of Congress, 4053)]",0.000010091204149343676
+"[Right board (Library of Congress, 4053)]",0.000010091204149343676
+"[Left board (Library of Congress, 4053)]",0.000010091204149343676
+"[Cover (Library of Congress, 3824)]",0.000010091204149343676
+"[Right board (Library of Congress, 3824)]",0.000010091204149343676
+"[New covers (Library of Congress, 4165)]",0.000010086442038230968
+"[Cover (Library of Congress, 2966)]",0.000010086442038230968
+"[Right board (Library of Congress, 3995)]",0.000010086442038230968
+"[New covers (Library of Congress, 4318_001)]",0.000010086442038230968
+"[Right board (Library of Congress, 4388_101_01)]",0.000010086442038230968
+"[Left board (Library of Congress, 1697)]",0.000010086442038230968
+"[Left board (Library of Congress, 4357_005_001)]",0.000010086442038230968
+"[New covers (Library of Congress, 3927)]",0.000010086442038230968
+"[New sewing (Library of Congress, 3929)]",0.000010086442038230968
+"[New sewing (Library of Congress, 3928)]",0.000010086442038230968
+"[Right board (Library of Congress, 1697)]",0.000010086442038230968
+"[New covers (Library of Congress, 4341)]",0.000010086442038230968
+"[New sewing (Library of Congress, 4247)]",0.000010086442038230968
+"[New covers (Library of Congress, 3966)]",0.000010086442038230968
+"[New sewing (Library of Congress, 4265)]",0.000010086442038230968
+"[Left board (Library of Congress, 3966)]",0.000010086442038230968
+"[Right board (Library of Congress, 3967)]",0.000010086442038230968
+"[Right board (Library of Congress, 4265)]",0.000010086442038230968
+"[Left board (Library of Congress, 3027)]",0.000010086442038230968
+"[New sewing (Library of Congress, 4380)]",0.000010086442038230968
+"[New covers (Library of Congress, 3967)]",0.000010086442038230968
+"[Left board (Library of Congress, 4341)]",0.000010086442038230968
+"[New covers (Library of Congress, 3928)]",0.000010086442038230968
+"[New covers (Library of Congress, 529)]",0.000010086442038230968
+"[New sewing (Library of Congress, 3995)]",0.000010086442038230968
+"[Right board (Library of Congress, 4240)]",0.000010086442038230968
+"[Right board (Library of Congress, 4165)]",0.000010086442038230968
+"[New sewing (Library of Congress, 3674)]",0.000010086442038230968
+"[New sewing (Library of Congress, 4357_005_001)]",0.000010086442038230968
+"[Cover (Library of Congress, 3928)]",0.000010086442038230968
+"[New sewing (Library of Congress, 3927)]",0.000010086442038230968
+"[Left board (Library of Congress, 4240)]",0.000010086442038230968
+"[Cover (Library of Congress, 3494)]",0.000010086442038230968
+"[New sewing (Library of Congress, 529)]",0.000010086442038230968
+"[New covers (Library of Congress, 2966)]",0.000010086442038230968
+"[Cover (Library of Congress, 4240)]",0.000010086442038230968
+"[New covers (Library of Congress, 4318_003)]",0.000010086442038230968
+"[New sewing (Library of Congress, 2561)]",0.000010086442038230968
+"[New covers (Library of Congress, 3027)]",0.000010086442038230968
+"[New covers (Library of Congress, 4247)]",0.000010086442038230968
+"[Left board (Library of Congress, 3967)]",0.000010086442038230968
+"[New covers (Library of Congress, 2247)]",0.000010086442038230968
+"[Right board (Library of Congress, 3966)]",0.000010086442038230968
+"[Left board (Library of Congress, 3995)]",0.000010086442038230968
+"[New covers (Library of Congress, 529)]",0.000010086442038230968
+"[Cover (Library of Congress, 3674)]",0.000010086442038230968
+"[Right board (Library of Congress, 4357_005_001)]",0.000010086442038230968
+"[Right board (Library of Congress, 2247)]",0.000010086442038230968
+"[Left board (Library of Congress, 4388_101_01)]",0.000010086442038230968
+"[New sewing (Library of Congress, 4347_3)]",0.000010086442038230968
+"[Cover (Library of Congress, 3966)]",0.000010086442038230968
+"[Cover (Library of Congress, 4341)]",0.000010086442038230968
+"[New sewing (Library of Congress, 4165)]",0.000010086442038230968
+"[Cover (Library of Congress, 4247)]",0.000010086442038230968
+"[New covers (Library of Congress, 4357_005_001)]",0.000010086442038230968
+"[New covers (Library of Congress, 4318_002)]",0.000010086442038230968
+"[Cover (Library of Congress, 3967)]",0.000010086442038230968
+"[New covers (Library of Congress, 4265)]",0.000010086442038230968
+"[New covers (Library of Congress, 2687)]",0.000010086442038230968
+"[Left board (Library of Congress, 4265)]",0.000010086442038230968
+"[New sewing (Library of Congress, 3027)]",0.000010086442038230968
+"[Right board (Library of Congress, 4341)]",0.000010086442038230968
+"[Right board (Library of Congress, 3027)]",0.000010086442038230968
+"[New covers (Library of Congress, 3995)]",0.000010086442038230968
+"[New covers (Library of Congress, 3674)]",0.000010086442038230968
+"[Left board (Library of Congress, 4165)]",0.000010086442038230968
+"[Left board (Library of Congress, 2247)]",0.000010086442038230968
+"[New sewing (Library of Congress, 3819)]",0.000009808300522654657
+"[New covers (Library of Congress, 3824)]",0.000009808300522654657
+"[Cover (Library of Congress, 3819)]",0.000009808300522654657
+"[New covers (Library of Congress, 4053)]",0.000009808300522654657
+"[Left board (Library of Congress, 3819)]",0.000009808300522654657
+"[Right board (Library of Congress, 3819)]",0.000009808300522654657
+"[Right board (Library of Congress, 4539_003)]",0.000009808300522654657
+"[Left board (Library of Congress, 4539_003)]",0.000009808300522654657
+"[New covers (Library of Congress, 4318_005)]",0.000009808300522654657
+"[New covers (Library of Congress, 4539_003)]",0.000009808300522654657
+"[New sewing (Library of Congress, 3824)]",0.000009808300522654657
+"[Bookblock (Library of Congress, 529)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4318_003)]",0.00000980353841154195
+"[Right board (Library of Congress, 4347_3)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4247)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4318_001)]",0.00000980353841154195
+"[Left board (Library of Congress, 2687)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4318_001)]",0.00000980353841154195
+"[Project Number (Library of Congress, 2247)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3494)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 2687)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4240)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4247)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4265)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4357_005_001)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4347_3)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4318_002)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3674)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3927)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3995)]",0.00000980353841154195
+"[Right board (Library of Congress, 4164)]",0.00000980353841154195
+"[Project Number (Library of Congress, 2561)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4240)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4240)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4341)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3929)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3027)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4380)]",0.00000980353841154195
+"[Project Number (Library of Congress, 2687)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3967)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3929)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4388_101_01)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4380)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4318_003)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4165)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3027)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3995)]",0.00000980353841154195
+"[Cover (Library of Congress, 4318_002)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4265)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4347_3)]",0.00000980353841154195
+"[Right (Library of Congress, 3674)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 2561)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3967)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4164)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4164)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4247)]",0.00000980353841154195
+"[Cover (Library of Congress, 2247)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4380)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3494)]",0.00000980353841154195
+"[Left board (Library of Congress, 3929)]",0.00000980353841154195
+"[Left (Library of Congress, 4380)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3968)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3027)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4165)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3928)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 1697)]",0.00000980353841154195
+"[Left board (Library of Congress, 529)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3929)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3674)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 2247)]",0.00000980353841154195
+"[Cover (Library of Congress, 4318_003)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3968)]",0.00000980353841154195
+"[Cover (Library of Congress, 4318_001)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4318_003)]",0.00000980353841154195
+"[Left board (Library of Congress, 3927)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 2687)]",0.00000980353841154195
+"[Project Number (Library of Congress, 529)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4347_3)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3968)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3928)]",0.00000980353841154195
+"[Right board (Library of Congress, 529)]",0.00000980353841154195
+"[Left board (Library of Congress, 4164)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4357_005_001)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3927)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4357_005_001)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3966)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4164)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4388_101_01)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3928)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3966)]",0.00000980353841154195
+"[Right board (Library of Congress, 3927)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4341)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4165)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4265)]",0.00000980353841154195
+"[Right board (Library of Congress, 2687)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 2966)]",0.00000980353841154195
+"[Right (Library of Congress, 2561)]",0.00000980353841154195
+"[Left (Library of Congress, 3674)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4341)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4388_101_01)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 2966)]",0.00000980353841154195
+"[Left (Library of Congress, 2561)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 529)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3494)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 4318_002)]",0.00000980353841154195
+"[Left board (Library of Congress, 4347_3)]",0.00000980353841154195
+"[Right (Library of Congress, 4380)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 3966)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4318_001)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 2247)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3927)]",0.00000980353841154195
+"[Project Number (Library of Congress, 2966)]",0.00000980353841154195
+"[Project Number (Library of Congress, 4318_002)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3674)]",0.00000980353841154195
+"[Project Number (Library of Congress, 3995)]",0.00000980353841154195
+"[Bookblock (Library of Congress, 3967)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 2561)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 1697)]",0.00000980353841154195
+"[Right board (Library of Congress, 3929)]",0.00000980353841154195
+"[Project Number (Library of Congress, 1697)]",0.00000980353841154195
+"[Sewing structure (Library of Congress, 4318_005)]",0.000009525396895965638
+"[Sewing structure (Library of Congress, 3994)]",0.000009525396895965638
+"[Bookblock (Library of Congress, 4318_005)]",0.000009525396895965638
+"[Project Number (Library of Congress, 4318_005)]",0.000009525396895965638
+"[Cover (Library of Congress, 4539_003)]",0.000009525396895965638
+"[Bookblock (Library of Congress, 3819)]",0.000009525396895965638
+"[Sewing structure (Library of Congress, 3824)]",0.000009525396895965638
+"[Bookblock (Library of Congress, 3994)]",0.000009525396895965638
+"[Bookblock (Library of Congress, 4539_003)]",0.000009525396895965638
+"[Bookblock (Library of Congress, 3824)]",0.000009525396895965638
+"[Bookblock (Library of Congress, 4053)]",0.000009525396895965638
+"[Cover (Library of Congress, 4318_006)]",0.000009525396895965638
+"[Project Number (Library of Congress, 4053)]",0.000009525396895965638
+"[Project Number (Library of Congress, 4318_006)]",0.000009525396895965638
+"[Sewing structure (Library of Congress, 4539_003)]",0.000009525396895965638
+"[Project Number (Library of Congress, 3994)]",0.000009525396895965638
+"[Bookblock (Library of Congress, 4318_006)]",0.000009525396895965638
+"[Project Number (Library of Congress, 4539_003)]",0.000009525396895965638
+"[Sewing structure (Library of Congress, 4318_006)]",0.000009525396895965638
+"[Project Number (Library of Congress, 3819)]",0.000009525396895965638
+"[Sewing structure (Library of Congress, 4053)]",0.000009525396895965638
+"[Sewing structure (Library of Congress, 3819)]",0.000009525396895965638
+"[Left board (Library of Congress, 3994)]",0.000009525396895965638
+"[Right board (Library of Congress, 3994)]",0.000009525396895965638
+"[Project Number (Library of Congress, 3824)]",0.000009525396895965638
+"[Cover (Library of Congress, 4318_005)]",0.000009525396895965638
+"[Attribute assignment decade (Library of Congress, 4265)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4318_006)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3927)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3824)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 2687)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 2966)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4341)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3819)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4053)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 2247)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 2561)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4380)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 1697)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3929)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4357_005_001)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3967)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3674)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3995)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4318_003)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3494)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4318_005)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3928)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4539_003)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3994)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4318_001)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3966)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3968)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4164)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4240)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4388_101_01)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4165)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4247)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 529)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 3027)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4318_002)]",0.000009247255380389336
+"[Attribute assignment decade (Library of Congress, 4347_3)]",0.000009247255380389336
+[mending],0.0000073555285644492815
+[board slotting],0.0000067897213110712485
+[rebacking],0.000005658106804315172
+[disbinding],0.000005092299550937138
+[dry cleaning],0.000004526492297559104
+[resewing],0.000004526492297559104
+[board edge consolidation],0.000003960685044181069
+[guarding],0.00000367778141749205
+[inner joint repair],0.0000031119741641140135
+[rebinding],0.000002263263284046961
+[leather consolidation],0.0000019803596573579432
+[outer joint repair],0.0000019803596573579432
+[hinging],0.0000019803596573579432
+[recase],0.0000016974560306689248
+[humidification],0.0000016974560306689248
+[flattening],0.0000014145524039799076
+[fills],0.0000014145524039799076
+[sizing],0.0000011316487772908897
+[washing],0.0000011316487772908897
+[tooling],8.487451506018721e-7
+"[Book (Library of Congress, 1657_001)]",5.753657461382779e-7
+[alkalyzation],5.658415239128541e-7
+[tape removal],5.658415239128541e-7
+[readhere lifting covering material],5.658415239128541e-7
+[Conservator],5.610794128001423e-7
+[Conservator],5.610794128001423e-7
+"[Attribute assignment date (Library of Congress, 1657_001)]",5.610794128001423e-7
+"[Book (Library of Congress, 4318_002)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3968)]",2.9246211944926016e-7
+"[Book (Library of Congress, 2561)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4380)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3995)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4341)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4247)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3927)]",2.9246211944926016e-7
+"[Book (Library of Congress, 529)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3928)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4318_003)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3674)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3967)]",2.9246211944926016e-7
+"[Book (Library of Congress, 2247)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3494)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4347_3)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4265)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3027)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4240)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4318_001)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4165)]",2.9246211944926016e-7
+"[Book (Library of Congress, 1697)]",2.9246211944926016e-7
+"[Book (Library of Congress, 2687)]",2.9246211944926016e-7
+"[Book (Library of Congress, 2966)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3929)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3966)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4388_101_01)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4357_005_001)]",2.9246211944926016e-7
+"[Book (Library of Congress, 4164)]",2.9246211944926016e-7
+"[Book (Library of Congress, 3819)]",2.8770000833654826e-7
+"[Book (Library of Congress, 4318_006)]",2.8770000833654826e-7
+"[Book (Library of Congress, 3824)]",2.8770000833654826e-7
+"[Book (Library of Congress, 3994)]",2.8770000833654826e-7
+"[Book (Library of Congress, 4053)]",2.8770000833654826e-7
+"[Book (Library of Congress, 4539_003)]",2.8770000833654826e-7
+"[Book (Library of Congress, 4318_005)]",2.8770000833654826e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 1697)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4539_003)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3027)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3929)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4247)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3824)]",2.8293789722383646e-7
+"[Inner joints (Library of Congress, 3966)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4347_3)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3927)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4265)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4053)]",2.8293789722383646e-7
+"[Edges (Library of Congress, 4053)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4539_003)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4318_005)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Inner joints (Library of Congress, 4265)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3966)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4318_002)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 1657_001)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4240)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 2561)]",2.8293789722383646e-7
+"[Outer joints (Library of Congress, 3968)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4265)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4341)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3928)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 3967)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3994)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 529)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 2687)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4318_006)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4165)]",2.8293789722383646e-7
+"[Inner joints (Library of Congress, 3929)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3819)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3824)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4357_005_001)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3927)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4247)]",2.8293789722383646e-7
+"[Outer joints (Library of Congress, 1657_001)]",2.8293789722383646e-7
+"[Edges (Library of Congress, 4247)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Inner joints (Library of Congress, 4357_005_001)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 529)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4539_003)]",2.8293789722383646e-7
+"[Edges (Library of Congress, 2966)]",2.8293789722383646e-7
+"[Outer joints (Library of Congress, 3929)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4053)]",2.8293789722383646e-7
+"[Edges (Library of Congress, 3824)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3994)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4318_003)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4380)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3929)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4380)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 529)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4164)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Spine (Library of Congress, 3027)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3494)]",2.8293789722383646e-7
+"[Inner joints (Library of Congress, 4053)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Spine (Library of Congress, 3824)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3995)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4318_003)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4247)]",2.8293789722383646e-7
+"[Inner joints (Library of Congress, 3928)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Edges (Library of Congress, 3968)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Edges (Library of Congress, 3027)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3819)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3967)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4341)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4165)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 3674)]",2.8293789722383646e-7
+[previous mend removal],2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4053)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 2687)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 2247)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3494)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3968)]",2.8293789722383646e-7
+"[Edges (Library of Congress, 3928)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4318_001)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4388_101_01)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4164)]",2.8293789722383646e-7
+"[Edges (Library of Congress, 2966)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Outer joints (Library of Congress, 4388_101_01)]",2.8293789722383646e-7
+"[Inner joints (Library of Congress, 3968)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Spine (Library of Congress, 2966)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4347_3)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4388_101_01)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4318_002)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3968)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 3966)]",2.8293789722383646e-7
+"[Edges (Library of Congress, 3824)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4165)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 2966)]",2.8293789722383646e-7
+"[Inner joints (Library of Congress, 3967)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Inner joints (Library of Congress, 3995)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4318_006)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Edges (Library of Congress, 3027)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Inner joints (Library of Congress, 3994)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4240)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4318_005)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 2247)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3027)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3674)]",2.8293789722383646e-7
+"[Edges (Library of Congress, 3968)]",2.8293789722383646e-7
+"[Outer joints (Library of Congress, 3994)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[hinge removal],2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4318_003)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 2966)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4265)]",2.8293789722383646e-7
+[mold remediation],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 2247)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4357_005_001)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[removing guards],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3966)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 4318_001)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Spine (Library of Congress, 4357_005_001)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3967)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Edges (Library of Congress, 4247)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 2561)]",2.8293789722383646e-7
+"[Edges (Library of Congress, 3928)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3928)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4318_005)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4341)]",2.8293789722383646e-7
+"[Outer joints (Library of Congress, 4240)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 3928)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 1697)]",2.8293789722383646e-7
+"[Inner joints (Library of Congress, 3824)]",2.8293789722383646e-7
+"[Outer joints (Library of Congress, 4164)]",2.8293789722383646e-7
+"[Attribute assignment date (Library of Congress, 3995)]",2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 4318_001)]",2.8293789722383646e-7
+"[Spine (Library of Congress, 4318_002)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Conservation treatment decade (Library of Congress, 3674)]",2.8293789722383646e-7
+[Conservator],2.8293789722383646e-7
+"[Edges (Library of Congress, 4053)]",2.8293789722383646e-7
+[conservation (process)],1.762323817051575e-7
+[Wheat Starch Paste],1.6670815947973366e-7
+[Asian Paper],1.5242182614159814e-7
+[Acrylic paint],1.0003860390176773e-7
+[Linen Thread],8.099015945092026e-8
+[Lascaux 498],6.194171500007287e-8
+[Klucel G],5.241749277464913e-8
+[PVA],5.241749277464913e-8
+[Methylcellulose],4.2893270549225426e-8
+[RK Paper],3.336904832380172e-8
+[Machine Made Western Paper],2.3844826098378003e-8
+[BASF leather dye],1.908271498566616e-8
+[Water],1.908271498566616e-8
+[Handmade Western Paper],1.908271498566616e-8
+[Gelatin],1.908271498566616e-8
+[Calcium Hydroxide],1.908271498566616e-8
+[Watercolor],1.908271498566616e-8
+[Ethanol],1.4320603872954297e-8
+[Colored Pencils],9.55849276024244e-9
+[Gellan gum],9.55849276024244e-9
+"[Conservation assessment (Library of Congress, 1657_001)]",9.55849276024244e-9
+[Cast Acrylic ],9.55849276024244e-9
+[Agarose Gel],9.55849276024244e-9
+[SC6000],9.55849276024244e-9
+[Lascaux 303],9.55849276024244e-9
+"[Addition to Library of Congress, 3995]",4.796381647530585e-9
+"[Modification of Library of Congress, 1657_001]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4318_001)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 2687)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3994]",4.796381647530585e-9
+"[Addition to Library of Congress, 3927]",4.796381647530585e-9
+"[Modification of Library of Congress, 1657_001]",4.796381647530585e-9
+"[Addition to Library of Congress, 3027]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3928)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3027]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 529)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4388_101_01]",4.796381647530585e-9
+"[Addition to Library of Congress, 3674]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4318_006)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4380]",4.796381647530585e-9
+"[Modification of Library of Congress, 3928]",4.796381647530585e-9
+"[Modification of Library of Congress, 2561]",4.796381647530585e-9
+"[Addition to Library of Congress, 4539_003]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Modification of Library of Congress, 3928]",4.796381647530585e-9
+"[Modification of Library of Congress, 3927]",4.796381647530585e-9
+"[Modification of Library of Congress, 529]",4.796381647530585e-9
+"[Modification of Library of Congress, 4247]",4.796381647530585e-9
+"[Modification of Library of Congress, 4240]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4240)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4341]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 1697)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_002]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4318_002)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3494]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 2247)]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3995)]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Modification of Library of Congress, 529]",4.796381647530585e-9
+"[Modification of Library of Congress, 3966]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 2966)]",4.796381647530585e-9
+"[Addition to Library of Congress, 4053]",4.796381647530585e-9
+"[Modification of Library of Congress, 3966]",4.796381647530585e-9
+"[Modification of Library of Congress, 4388_101_01]",4.796381647530585e-9
+"[Modification of Library of Congress, 3929]",4.796381647530585e-9
+"[Modification of Library of Congress, 4265]",4.796381647530585e-9
+"[Modification of Library of Congress, 3674]",4.796381647530585e-9
+"[Modification of Library of Congress, 2687]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4318_005)]",4.796381647530585e-9
+"[Modification of Library of Congress, 2247]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 1657_001)]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4318_001)]",4.796381647530585e-9
+"[Modification of Library of Congress, 2687]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_002]",4.796381647530585e-9
+"[Modification of Library of Congress, 3929]",4.796381647530585e-9
+"[Addition to Library of Congress, 4318_002]",4.796381647530585e-9
+"[Modification of Library of Congress, 2687]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3929)]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 2561)]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3928)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4357_005_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 4357_005_001]",4.796381647530585e-9
+"[Addition to Library of Congress, 3929]",4.796381647530585e-9
+"[Modification of Library of Congress, 4347_3]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_003]",4.796381647530585e-9
+"[Addition to Library of Congress, 2247]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3928)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3968)]",4.796381647530585e-9
+[Chalk Pencils],4.796381647530585e-9
+"[Modification of Library of Congress, 2561]",4.796381647530585e-9
+"[Modification of Library of Congress, 4240]",4.796381647530585e-9
+"[Modification of Library of Congress, 3927]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_002]",4.796381647530585e-9
+"[Modification of Library of Congress, 3994]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_006]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4318_001)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3967]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_003]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4318_003)]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3824)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4247]",4.796381647530585e-9
+"[Modification of Library of Congress, 4053]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3929)]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3967)]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3494)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4347_3]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_002]",4.796381647530585e-9
+"[Modification of Library of Congress, 3674]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4164)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4265)]",4.796381647530585e-9
+"[Removal from Library of Congress, 3994]",4.796381647530585e-9
+"[Modification of Library of Congress, 1657_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_001]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3927)]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Modification of Library of Congress, 3674]",4.796381647530585e-9
+"[Modification of Library of Congress, 3027]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_003]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3966)]",4.796381647530585e-9
+"[Modification of Library of Congress, 2561]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_001]",4.796381647530585e-9
+"[Addition to Library of Congress, 3824]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+"[Modification of Library of Congress, 3674]",4.796381647530585e-9
+[Calcium Phytate],4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3968)]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3967)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4240)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4164]",4.796381647530585e-9
+"[Modification of Library of Congress, 3928]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 2561)]",4.796381647530585e-9
+"[Addition to Library of Congress, 3927]",4.796381647530585e-9
+"[Modification of Library of Congress, 3674]",4.796381647530585e-9
+"[Modification of Library of Congress, 4388_101_01]",4.796381647530585e-9
+"[Addition to Library of Congress, 4341]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_006]",4.796381647530585e-9
+"[Modification of Library of Congress, 4165]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3027)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4318_003)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3819)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3968]",4.796381647530585e-9
+"[Modification of Library of Congress, 3819]",4.796381647530585e-9
+"[Modification of Library of Congress, 3819]",4.796381647530585e-9
+"[Modification of Library of Congress, 4265]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_006]",4.796381647530585e-9
+"[Modification of Library of Congress, 3968]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3927)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4357_005_001)]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4318_005)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3968]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Modification of Library of Congress, 4053]",4.796381647530585e-9
+"[Modification of Library of Congress, 1657_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 4357_005_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 4341]",4.796381647530585e-9
+"[Addition to Library of Congress, 4247]",4.796381647530585e-9
+"[Addition to Library of Congress, 2687]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3927)]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 2966)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3968]",4.796381647530585e-9
+"[Modification of Library of Congress, 4165]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4539_003)]",4.796381647530585e-9
+[Pastel],4.796381647530585e-9
+"[Modification of Library of Congress, 3819]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_003]",4.796381647530585e-9
+"[Modification of Library of Congress, 4165]",4.796381647530585e-9
+[Binder's board],4.796381647530585e-9
+"[Modification of Library of Congress, 3929]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3995)]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3966)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 1697)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3819]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3966)]",4.796381647530585e-9
+"[Modification of Library of Congress, 1657_001]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4357_005_001)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4265]",4.796381647530585e-9
+"[Modification of Library of Congress, 4247]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4164)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3929]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Addition to Library of Congress, 4318_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 2561]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3967)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_005]",4.796381647530585e-9
+"[Addition to Library of Congress, 4247]",4.796381647530585e-9
+"[Modification of Library of Congress, 3968]",4.796381647530585e-9
+"[Addition to Library of Congress, 3966]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4053)]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 1697)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3966]",4.796381647530585e-9
+"[Modification of Library of Congress, 4388_101_01]",4.796381647530585e-9
+"[Modification of Library of Congress, 4247]",4.796381647530585e-9
+"[Modification of Library of Congress, 4265]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4341)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3995)]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4388_101_01)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4357_005_001]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3674)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4053]",4.796381647530585e-9
+"[Modification of Library of Congress, 4164]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_002]",4.796381647530585e-9
+"[Modification of Library of Congress, 3967]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Modification of Library of Congress, 4164]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Modification of Library of Congress, 4539_003]",4.796381647530585e-9
+"[Addition to Library of Congress, 2561]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4247)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3968]",4.796381647530585e-9
+"[Addition to Library of Congress, 4318_003]",4.796381647530585e-9
+"[Addition to Library of Congress, 4357_005_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Modification of Library of Congress, 3928]",4.796381647530585e-9
+"[Modification of Library of Congress, 3027]",4.796381647530585e-9
+"[Modification of Library of Congress, 3928]",4.796381647530585e-9
+"[Modification of Library of Congress, 4265]",4.796381647530585e-9
+"[Modification of Library of Congress, 3928]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4341)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3494]",4.796381647530585e-9
+"[Modification of Library of Congress, 4347_3]",4.796381647530585e-9
+"[Modification of Library of Congress, 4053]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4318_003)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4388_101_01)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4539_003)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4053]",4.796381647530585e-9
+"[Modification of Library of Congress, 3494]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3968)]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 1657_001)]",4.796381647530585e-9
+[Remoistenable Tissue],4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 529)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4388_101_01]",4.796381647530585e-9
+"[Removal from Library of Congress, 4341]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3027)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3494)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 2966)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4380]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4318_006)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4380]",4.796381647530585e-9
+"[Modification of Library of Congress, 3967]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4165)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4265)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 3927]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_005]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_003]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+[Magnesium Bicarbonate],4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4380)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4247]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_005]",4.796381647530585e-9
+"[Addition to Library of Congress, 529]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 3494)]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_005]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4240)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 2687)]",4.796381647530585e-9
+[Heat set tissue],4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3994)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4240]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4165)]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3674)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_002]",4.796381647530585e-9
+"[Modification of Library of Congress, 3494]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4357_005_001)]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4380)]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 2687)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3027]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+"[Modification of Library of Congress, 4347_3]",4.796381647530585e-9
+"[Modification of Library of Congress, 4347_3]",4.796381647530585e-9
+"[Modification of Library of Congress, 4341]",4.796381647530585e-9
+"[Modification of Library of Congress, 3927]",4.796381647530585e-9
+"[Modification of Library of Congress, 1657_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 4341]",4.796381647530585e-9
+"[Modification of Library of Congress, 2561]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4247)]",4.796381647530585e-9
+"[Addition to Library of Congress, 4265]",4.796381647530585e-9
+"[Modification of Library of Congress, 2687]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3674)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+"[Modification of Library of Congress, 4265]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Modification of Library of Congress, 4247]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4247)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4341]",4.796381647530585e-9
+"[Modification of Library of Congress, 3994]",4.796381647530585e-9
+"[Addition to Library of Congress, 3967]",4.796381647530585e-9
+"[Modification of Library of Congress, 3927]",4.796381647530585e-9
+"[Addition to Library of Congress, 4347_3]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 1657_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Modification of Library of Congress, 3968]",4.796381647530585e-9
+"[Modification of Library of Congress, 3968]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3929)]",4.796381647530585e-9
+"[Addition to Library of Congress, 3928]",4.796381647530585e-9
+"[Modification of Library of Congress, 2247]",4.796381647530585e-9
+"[Modification of Library of Congress, 4357_005_001]",4.796381647530585e-9
+"[Removal from Library of Congress, 1657_001]",4.796381647530585e-9
+"[Modification of Library of Congress, 4165]",4.796381647530585e-9
+"[Addition to Library of Congress, 4165]",4.796381647530585e-9
+"[Modification of Library of Congress, 3494]",4.796381647530585e-9
+"[Modification of Library of Congress, 1697]",4.796381647530585e-9
+"[Addition to Library of Congress, 4265]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_002]",4.796381647530585e-9
+"[Modification of Library of Congress, 4053]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 2561)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_005]",4.796381647530585e-9
+"[Modification of Library of Congress, 4265]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4347_3)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4247]",4.796381647530585e-9
+"[Modification of Library of Congress, 3927]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3994)]",4.796381647530585e-9
+"[Modification of Library of Congress, 2561]",4.796381647530585e-9
+"[Modification of Library of Congress, 3927]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Addition to Library of Congress, 3674]",4.796381647530585e-9
+"[Modification of Library of Congress, 3494]",4.796381647530585e-9
+"[Modification of Library of Congress, 3927]",4.796381647530585e-9
+"[Addition to Library of Congress, 4380]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 3824)]",4.796381647530585e-9
+"[Removal from Library of Congress, 4341]",4.796381647530585e-9
+"[Modification of Library of Congress, 3929]",4.796381647530585e-9
+"[Modification of Library of Congress, 4265]",4.796381647530585e-9
+"[Addition to Library of Congress, 3995]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_006]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 2247)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3819]",4.796381647530585e-9
+"[Modification of Library of Congress, 3968]",4.796381647530585e-9
+"[Modification of Library of Congress, 4539_003]",4.796381647530585e-9
+"[Modification of Library of Congress, 4539_003]",4.796381647530585e-9
+"[Modification of Library of Congress, 4341]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_003]",4.796381647530585e-9
+"[Modification of Library of Congress, 3819]",4.796381647530585e-9
+"[Modification of Library of Congress, 3928]",4.796381647530585e-9
+"[Modification of Library of Congress, 3494]",4.796381647530585e-9
+"[Addition to Library of Congress, 3824]",4.796381647530585e-9
+"[Removal from Library of Congress, 4380]",4.796381647530585e-9
+"[Addition to Library of Congress, 529]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4380)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 2247)]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4165)]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4164)]",4.796381647530585e-9
+"[Addition to Library of Congress, 2966]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_006]",4.796381647530585e-9
+"[Addition to Library of Congress, 3027]",4.796381647530585e-9
+"[Modification of Library of Congress, 3967]",4.796381647530585e-9
+"[Modification of Library of Congress, 3995]",4.796381647530585e-9
+"[Modification of Library of Congress, 3027]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4053)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3494]",4.796381647530585e-9
+"[Modification of Library of Congress, 3994]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_006]",4.796381647530585e-9
+"[Modification of Library of Congress, 3027]",4.796381647530585e-9
+"[Modification of Library of Congress, 3928]",4.796381647530585e-9
+"[Conservation assessment (Library of Congress, 4347_3)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_005]",4.796381647530585e-9
+"[Modification of Library of Congress, 2561]",4.796381647530585e-9
+"[Modification of Library of Congress, 3966]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4318_002)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_003]",4.796381647530585e-9
+"[Modification of Library of Congress, 3994]",4.796381647530585e-9
+"[Modification of Library of Congress, 4240]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4341)]",4.796381647530585e-9
+"[Addition to Library of Congress, 3819]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4265)]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4388_101_01)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4247]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3027)]",4.796381647530585e-9
+"[Modification of Library of Congress, 3994]",4.796381647530585e-9
+"[Modification of Library of Congress, 2247]",4.796381647530585e-9
+"[Modification of Library of Congress, 3027]",4.796381647530585e-9
+"[Printing or Production date (Library of Congress, 4318_002)]",4.796381647530585e-9
+"[Modification of Library of Congress, 529]",4.796381647530585e-9
+"[Modification of Library of Congress, 4318_001]",4.796381647530585e-9
+"[Addition to Library of Congress, 529]",4.796381647530585e-9
+"[Modification of Library of Congress, 3027]",4.796381647530585e-9
+"[Addition to Library of Congress, 4357_005_001]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 4347_3)]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Modification of Library of Congress, 3494]",4.796381647530585e-9
+"[Addition to Library of Congress, 4165]",4.796381647530585e-9
+"[Modification of Library of Congress, 4240]",4.796381647530585e-9
+"[Addition to Library of Congress, 4318_005]",4.796381647530585e-9
+"[Modification of Library of Congress, 4053]",4.796381647530585e-9
+"[Modification of Library of Congress, 3824]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 3819)]",4.796381647530585e-9
+"[Conservation treatment date (Library of Congress, 529)]",4.796381647530585e-9
+"[Modification of Library of Congress, 4053]",4.796381647530585e-9
+"[Modification of Library of Congress, 2966]",4.796381647530585e-9
+"[Modification of Library of Congress, 3027]",4.796381647530585e-9
+"[Addition to Library of Congress, 3928]",4.796381647530585e-9
+[Aquazol],4.796381647530585e-9
+"[Modification of Library of Congress, 529]",4.796381647530585e-9
+"[Book production (Library of Congress, 4388_101_01)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4318_006)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4318_001)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4357_005_001)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 2561)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3966)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3928)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4318_003)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3027)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3968)]",3.427053481872744e-11
+"[Previous repair (Library of Congress, 1657_001)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3967)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4247)]",3.427053481872744e-11
+"[Book production (Library of Congress, 2247)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3027)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3995)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4265)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3494)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 2561)]",3.427053481872744e-11
+"[Book production (Library of Congress, 1697)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4247)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4318_003)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4240)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3929)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4380)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4318_001)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3929)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4053)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4318_005)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4347_3)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4165)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3995)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4164)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3494)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4388_101_01)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4318_003)]",3.427053481872744e-11
+"[Book production (Library of Congress, 529)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 1657_001)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4341)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3966)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3966)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3967)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3928)]",3.427053481872744e-11
+"[Book production (Library of Congress, 2966)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4380)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4165)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3995)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3824)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3927)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3494)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3928)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 2247)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4357_005_001)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 2966)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4347_3)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4247)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4318_002)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4388_101_01)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4265)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4347_3)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 1697)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3674)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4318_002)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 2247)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 529)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4164)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3967)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 1657_001)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 529)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3994)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4318_006)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3927)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4240)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3674)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4318_001)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4053)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3968)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3968)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 1697)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4318_005)]",3.427053481872744e-11
+"[Book production (Library of Congress, 2561)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3819)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4240)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4539_003)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4164)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4265)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4341)]",3.427053481872744e-11
+"[Book production (Library of Congress, 1657_001)]",3.427053481872744e-11
+"[Book production (Library of Congress, 2687)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3927)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4380)]",3.427053481872744e-11
+"[Book production (Library of Congress, 3674)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3824)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 4165)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3994)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4318_002)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4341)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 2687)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3027)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 2687)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 4539_003)]",3.427053481872744e-11
+"[Main conservation event (Library of Congress, 3819)]",3.427053481872744e-11
+"[Book production (Library of Congress, 4357_005_001)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 2966)]",3.427053481872744e-11
+"[Conservation Report (Library of Congress, 3929)]",3.427053481872744e-11

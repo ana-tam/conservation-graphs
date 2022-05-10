@@ -1,0 +1,2123 @@
+﻿name,score
+[damaged],0.5372434801363075
+[left],0.4777103251142243
+[right],0.4777103251142242
+[inner joints],0.39125715653272797
+[degraded],0.15057233896732855
+"[hook guard,endleaves,guards]",0.1465531039382197
+"[spine,spine piece,spine-section]",0.1319141927850946
+[detached],0.09941596863308413
+[broken],0.09941596863308413
+[sewing supports],0.05846502308630793
+[textblocks],0.05445336651558758
+[spine (bookblocks)],0.05426995472256432
+[tail],0.054266846048106304
+[head],0.054266846048106304
+[distorted],0.05157350541444977
+[covering material],0.027284498884602833
+[repaired],0.026274229536948246
+[mold],0.025086348383873937
+[losses],0.012433423066037895
+[corners],0.008607163599073573
+[boards],0.006630651848076875
+"[cover,covers]",0.004208892128649037
+[outer joints],0.003992253181041764
+[sewn structures],0.003580251572293242
+[shelfmarks],0.003505643385300731
+[bookblocks],0.003505643385300731
+[Kew (name)],0.003505592808252631
+"[Damaged (The National Archives, WO 69/905)]",0.0025820343507047955
+"[Left (The National Archives, WO 69/905)]",0.0024388093354590834
+"[Right (The National Archives, WO 69/905)]",0.0024388093354590834
+"[Damaged (The National Archives, WO 69/905)]",0.002362532091931645
+"[Repaired (The National Archives, WO 69/905)]",0.002298690695714659
+"[Inner joints (The National Archives, WO 69/905)]",0.0022893646723405963
+"[Inner joints (The National Archives, WO 69/905)]",0.0022893646723405963
+"[Damaged (The National Archives, B 3/5243)]",0.001477084754700992
+"[Damaged (The National Archives, T 20/1220)]",0.001477084754700992
+"[Damaged (The National Archives, FO 802/607)]",0.0014739760802429708
+"[Damaged (The National Archives, E 36/2)]",0.0014739760802429704
+"[Damaged (The National Archives, ADM 37/5039)]",0.0014739760802429704
+"[Degraded (The National Archives, ADM 37/5039)]",0.0014739760802429704
+"[Damaged (The National Archives, RAIL 527/1429)]",0.001403917335109942
+"[Damaged (The National Archives, FO 97/341)]",0.001403917335109942
+"[Degraded (The National Archives, FO 97/341)]",0.0014008086606519209
+"[Degraded (The National Archives, SP 104/143)]",0.0014008086606519209
+"[Degraded (The National Archives, RAIL 527/1429)]",0.0014008086606519209
+"[Damaged (The National Archives, SP 104/143)]",0.0014008086606519209
+"[Degraded (The National Archives, SP 71/19)]",0.0014008086606519207
+"[Degraded (The National Archives, CO 31/1)]",0.0014008086606519207
+"[Damaged (The National Archives, ADM 1/5437)]",0.0014008086606519207
+"[Damaged (The National Archives, ADM 139/1027)]",0.001327641241060871
+"[Damaged (The National Archives, SP 104/171)]",0.001327641241060871
+"[Damaged (The National Archives, CO 299/89)]",0.001327641241060871
+"[Degraded (The National Archives, CO 299/89)]",0.001327641241060871
+"[Degraded (The National Archives, CRIM 10/28)]",0.0013276412410608708
+"[Damaged (The National Archives, ADM 1/5438)]",0.0013276412410608708
+"[Damaged (The National Archives, ADM 1/5437)]",0.0013276412410608708
+"[Damaged (The National Archives, LC 5/156)]",0.0013276412410608708
+"[Damaged (The National Archives, DL 30/603/2)]",0.0013276412410608708
+"[Damaged (The National Archives, ADM 55/32)]",0.0013276412410608708
+"[Right (The National Archives, E 405/550)]",0.001260692319864229
+"[Left (The National Archives, E 405/550)]",0.001260692319864229
+"[Left (The National Archives, ADM 1/2628)]",0.001260692319864229
+"[Left (The National Archives, PC 6/15)]",0.001260692319864229
+"[Right (The National Archives, PC 6/15)]",0.001260692319864229
+"[Right (The National Archives, ADM 1/2628)]",0.001260692319864229
+"[Left (The National Archives, CRIM 10/28)]",0.0012575836454062075
+"[Left (The National Archives, SP 44/335)]",0.0012575836454062075
+"[Left (The National Archives, T 20/1220)]",0.0012575836454062075
+"[Right (The National Archives, CRIM 10/28)]",0.0012575836454062075
+"[Left (The National Archives, DL 30/603/2)]",0.0012575836454062075
+"[Left (The National Archives, HCA 13/78)]",0.0012575836454062075
+"[Right (The National Archives, ADM 139/1025)]",0.0012575836454062075
+"[Left (The National Archives, PRO 30/69/1186)]",0.0012575836454062075
+"[Left (The National Archives, SP 104/171)]",0.0012575836454062075
+"[Left (The National Archives, ADM 1/5437)]",0.0012575836454062075
+"[Right (The National Archives, ADM 1/5437)]",0.0012575836454062075
+"[Right (The National Archives, E 36/2)]",0.0012575836454062075
+"[Left (The National Archives, ADM 37/5039)]",0.0012575836454062075
+"[Left (The National Archives, E 36/29)]",0.0012575836454062075
+"[Left (The National Archives, ADM 139/1027)]",0.0012575836454062075
+"[Right (The National Archives, ADM 55/107)]",0.0012575836454062075
+"[Left (The National Archives, ADM 139/1023)]",0.0012575836454062075
+"[Right (The National Archives, HCA 13/78)]",0.0012575836454062075
+"[Left (The National Archives, SP 91/14)]",0.0012575836454062075
+"[Right (The National Archives, DL 30/603/2)]",0.0012575836454062075
+"[Left (The National Archives, FO 802/607)]",0.0012575836454062075
+"[Left (The National Archives, CO 5/904)]",0.0012575836454062075
+"[Left (The National Archives, ASSI 41/4)]",0.0012575836454062075
+"[Left (The National Archives, E 36/2)]",0.0012575836454062075
+"[Right (The National Archives, ADM 37/5039)]",0.0012575836454062075
+"[Left (The National Archives, ADM 55/32)]",0.0012575836454062075
+"[Left (The National Archives, ADM 55/107)]",0.0012575836454062075
+"[Left (The National Archives, ADM 139/1025)]",0.0012575836454062075
+"[Right (The National Archives, ASSI 41/4)]",0.0012575836454062075
+"[Right (The National Archives, ADM 42/681)]",0.0012575836454062075
+"[Right (The National Archives, SP 105/207)]",0.0012575836454062075
+"[Right (The National Archives, SP 24/18)]",0.0012575836454062075
+"[Right (The National Archives, ADM 1/5438)]",0.0012575836454062075
+"[Right (The National Archives, T 20/1220)]",0.0012575836454062075
+"[Left (The National Archives, ADM 42/681)]",0.0012575836454062075
+"[Left (The National Archives, SP 24/18)]",0.0012575836454062075
+"[Right (The National Archives, CO 5/904)]",0.0012575836454062075
+"[Left (The National Archives, ADM 1/5438)]",0.0012575836454062075
+"[Right (The National Archives, PRO 30/69/1186)]",0.0012575836454062075
+"[Right (The National Archives, SP 44/335)]",0.0012575836454062075
+"[Right (The National Archives, ADM 139/1027)]",0.0012575836454062075
+"[Right (The National Archives, FO 802/614)]",0.0012575836454062075
+"[Right (The National Archives, ADM 55/32)]",0.0012575836454062075
+"[Left (The National Archives, FO 802/614)]",0.0012575836454062075
+"[Right (The National Archives, FO 802/607)]",0.0012575836454062075
+"[Right (The National Archives, ADM 139/1023)]",0.0012575836454062075
+"[Right (The National Archives, E 36/29)]",0.0012575836454062075
+"[Left (The National Archives, SP 105/207)]",0.0012575836454062075
+"[Right (The National Archives, SP 104/171)]",0.0012575836454062075
+"[Right (The National Archives, SP 91/14)]",0.0012575836454062075
+"[Degraded (The National Archives, WO 381/11)]",0.0012544738214698204
+"[Degraded (The National Archives, ADM 223/31)]",0.0012544738214698204
+"[Damaged (The National Archives, ASSI 41/4)]",0.0012544738214698204
+"[Damaged (The National Archives, ADM 1/2628)]",0.0012544738214698204
+"[Damaged (The National Archives, CO 31/1)]",0.0012544738214698204
+"[Damaged (The National Archives, CO 5/904)]",0.0012544738214698204
+"[Distorted (The National Archives, HCA 13/78)]",0.0011937410997108556
+"[Distorted (The National Archives, SP 71/19)]",0.0011937410997108556
+"[Mold (The National Archives, DL 30/603/2)]",0.0011937410997108556
+"[Distorted (The National Archives, ADM 37/5039)]",0.0011906324252528343
+"[Mold (The National Archives, T 20/1220)]",0.0011906324252528343
+"[Distorted (The National Archives, SP 91/14)]",0.0011875237507948135
+"[Losses (The National Archives, ADM 223/31)]",0.0011875237507948135
+"[Inner joints (The National Archives, E 405/550)]",0.0011844150763367913
+"[Damaged (The National Archives, RAIL 950/17)]",0.0011844150763367913
+"[Damaged (The National Archives, ADM 1/2628)]",0.0011844150763367913
+"[Inner joints (The National Archives, PC 6/15)]",0.0011844150763367913
+"[Damaged (The National Archives, CO 473/9)]",0.0011844150763367913
+"[Inner joints (The National Archives, E 405/550)]",0.0011844150763367913
+"[Inner joints (The National Archives, PC 6/15)]",0.0011844150763367913
+"[Damaged (The National Archives, ADM 1/2628)]",0.0011844150763367913
+"[Inner joints (The National Archives, ADM 1/5437)]",0.0011813064018787705
+"[Damaged (The National Archives, PRO 30/69/1186)]",0.0011813064018787705
+"[Inner joints (The National Archives, ADM 55/32)]",0.0011813064018787705
+"[Inner joints (The National Archives, ADM 55/107)]",0.0011813064018787705
+"[Inner joints (The National Archives, SP 91/14)]",0.0011813064018787705
+"[Damaged (The National Archives, PC 6/15)]",0.0011813064018787705
+"[Inner joints (The National Archives, E 36/2)]",0.0011813064018787705
+"[Inner joints (The National Archives, ADM 55/32)]",0.0011813064018787705
+"[Inner joints (The National Archives, HCA 13/78)]",0.0011813064018787705
+"[Inner joints (The National Archives, FO 802/607)]",0.0011813064018787705
+"[Inner joints (The National Archives, SP 91/14)]",0.0011813064018787705
+"[Inner joints (The National Archives, SP 24/18)]",0.0011813064018787705
+"[Inner joints (The National Archives, FO 802/614)]",0.0011813064018787705
+"[Inner joints (The National Archives, HCA 13/78)]",0.0011813064018787705
+"[Inner joints (The National Archives, ADM 1/5438)]",0.0011813064018787705
+"[Damaged (The National Archives, SP 44/335)]",0.0011813064018787705
+"[Damaged (The National Archives, E 36/29)]",0.0011813064018787705
+"[Damaged (The National Archives, SP 24/18)]",0.0011813064018787705
+"[Inner joints (The National Archives, E 36/2)]",0.0011813064018787705
+"[Inner joints (The National Archives, ADM 42/681)]",0.0011813064018787705
+"[Inner joints (The National Archives, ADM 1/5437)]",0.0011813064018787705
+"[Inner joints (The National Archives, ADM 1/5438)]",0.0011813064018787705
+"[Inner joints (The National Archives, ADM 55/107)]",0.0011813064018787705
+"[Inner joints (The National Archives, ADM 42/681)]",0.0011813064018787705
+"[Inner joints (The National Archives, FO 802/614)]",0.0011813064018787705
+"[Inner joints (The National Archives, SP 105/207)]",0.0011813064018787705
+"[Inner joints (The National Archives, SP 105/207)]",0.0011813064018787705
+"[Inner joints (The National Archives, SP 24/18)]",0.0011813064018787705
+"[Damaged (The National Archives, SP 91/14)]",0.0011813064018787705
+"[Inner joints (The National Archives, FO 802/607)]",0.0011813064018787705
+"[hollow,spine lining]",0.0009526310228005068
+[sewing],0.0007955539886983017
+[Leather - not specified],0.00042801864043924185
+"[Right (The National Archives, WO 69/905)]",0.00016196007277646774
+"[Left (The National Archives, WO 69/905)]",0.00016196007277646774
+"[New spine-section (The National Archives, WO 69/905)]",0.0001619600727764677
+"[Damaged (The National Archives, WO 69/905)]",0.00016187936792557672
+"[Repaired (The National Archives, WO 69/905)]",0.00016187936792557672
+"[Spine-section (The National Archives, WO 69/905)]",0.00016187936792557672
+"[Spine (The National Archives, WO 69/905)]",0.00016187936792557672
+"[Spine (place) (The National Archives, ADM 37/5039)]",0.00015566316848790004
+"[Spine (place) (The National Archives, RAIL 950/17)]",0.00015566316848790004
+"[Spine (place) (The National Archives, PC 6/15)]",0.00015566316848790004
+"[Spine (place) (The National Archives, ADM 223/31)]",0.00015566316848790004
+"[Spine (place) (The National Archives, CRIM 10/28)]",0.00015566316848790004
+"[Spine (place) (The National Archives, HCA 13/78)]",0.00015566316848790004
+"[Detached (The National Archives, WO 69/905)]",0.00015566201900953411
+"[Broken (The National Archives, WO 69/905)]",0.00015566201900953411
+"[Detached (The National Archives, WO 69/905)]",0.00015566201900953411
+"[Broken (The National Archives, WO 69/905)]",0.00015566201900953411
+"[Damaged (The National Archives, WO 69/905)]",0.00015255334455151277
+"[Sewing supports (The National Archives, WO 69/905)]",0.00015255334455151277
+"[Textblock (The National Archives, WO 69/905)]",0.0001496867846461646
+"[Bookblock spine (The National Archives, WO 69/905)]",0.00014944467009349148
+"[Tail (The National Archives, WO 69/905)]",0.00014944467009349148
+"[Head (The National Archives, WO 69/905)]",0.00014944467009349148
+"[Left endleaves (The National Archives, WO 69/905)]",0.00014944467009349148
+"[Spine (place) (The National Archives, WO 69/905)]",0.00014944467009349148
+"[Right endleaves (The National Archives, WO 69/905)]",0.00014944467009349148
+[books],0.0001466307503340815
+[],0.0001466307503340815
+[Kew (place)],0.0001466307503340815
+[conservators (people in conservation)],0.00009951437293939606
+"[New spine-section (The National Archives, FO 802/607)]",0.00008879265318541777
+"[Right (The National Archives, ADM 37/5039)]",0.00008879265318541774
+"[Right (The National Archives, SP 24/18)]",0.00008879265318541774
+"[New spine-section (The National Archives, E 36/2)]",0.00008879265318541774
+"[Left (The National Archives, SP 44/335)]",0.00008879265318541774
+"[Left (The National Archives, FO 802/607)]",0.00008879265318541774
+"[Left (The National Archives, ADM 37/5039)]",0.00008879265318541774
+"[Right (The National Archives, FO 802/614)]",0.00008879265318541774
+"[Left (The National Archives, SP 104/143)]",0.00008879265318541774
+"[Right (The National Archives, RAIL 950/17)]",0.00008879265318541774
+"[Left (The National Archives, ADM 1/5438)]",0.00008879265318541774
+"[Spine-section (The National Archives, T 20/1220)]",0.00008879265318541774
+"[Left (The National Archives, SP 24/18)]",0.00008879265318541774
+"[Right (The National Archives, CRIM 10/28)]",0.00008879265318541774
+"[Left (The National Archives, SP 104/171)]",0.00008879265318541774
+"[New spine-section (The National Archives, ADM 37/5039)]",0.00008879265318541774
+"[Left (The National Archives, FO 802/614)]",0.00008879265318541774
+"[Right (The National Archives, SP 44/335)]",0.00008879265318541774
+"[Right (The National Archives, SP 104/171)]",0.00008879265318541774
+"[Right (The National Archives, SP 104/143)]",0.00008879265318541774
+"[Right (The National Archives, FO 802/607)]",0.00008879265318541774
+"[Left (The National Archives, RAIL 950/17)]",0.00008879265318541774
+"[Left (The National Archives, CO 31/1)]",0.00008879265318541774
+"[Right (The National Archives, CO 31/1)]",0.00008879265318541774
+"[Spine-section (The National Archives, B 3/5243)]",0.00008879265318541774
+"[Left (The National Archives, CRIM 10/28)]",0.00008879265318541774
+"[Right (The National Archives, ADM 1/5438)]",0.00008879265318541774
+"[Spine-section (The National Archives, FO 802/607)]",0.0000887119483345267
+"[Covering material (The National Archives, ADM 37/5039)]",0.0000887119483345267
+"[Spine-section (The National Archives, E 36/2)]",0.0000887119483345267
+"[Spine (The National Archives, E 36/2)]",0.0000887119483345267
+"[Damaged (The National Archives, B 3/5243)]",0.0000887119483345267
+"[Corners (The National Archives, FO 802/607)]",0.0000887119483345267
+"[Covering material-place (The National Archives, ADM 37/5039)]",0.0000887119483345267
+"[Spine (The National Archives, ADM 37/5039)]",0.0000887119483345267
+"[Spine-section (The National Archives, ADM 37/5039)]",0.0000887119483345267
+"[Distorted (The National Archives, T 20/1220)]",0.0000887119483345267
+"[Corners (The National Archives, E 36/2)]",0.0000887119483345267
+"[Spine (The National Archives, FO 802/607)]",0.0000887119483345267
+"[Damaged (The National Archives, T 20/1220)]",0.0000887119483345267
+"[Outer joints (The National Archives, B 3/5243)]",0.0000887119483345267
+"[Corners (The National Archives, ADM 37/5039)]",0.0000887119483345267
+"[Spine (The National Archives, T 20/1220)]",0.0000887119483345267
+"[Spine (The National Archives, B 3/5243)]",0.0000887119483345267
+"[Right (The National Archives, ASSI 41/4)]",0.00008568397872739648
+"[Left (The National Archives, SP 71/19)]",0.00008568397872739648
+"[Right (The National Archives, ADM 139/1027)]",0.00008568397872739648
+"[Left (The National Archives, DL 30/603/2)]",0.00008568397872739648
+"[Left (The National Archives, ADM 1/5437)]",0.00008568397872739648
+"[Left (The National Archives, ADM 139/1027)]",0.00008568397872739648
+"[Right (The National Archives, B 3/5243)]",0.00008568397872739648
+"[Left (The National Archives, CO 473/9)]",0.00008568397872739648
+"[Left (The National Archives, WO 381/11)]",0.00008568397872739648
+"[Left (The National Archives, HCA 13/78)]",0.00008568397872739648
+"[Right (The National Archives, E 405/550)]",0.00008568397872739648
+"[Left (The National Archives, B 3/5243)]",0.00008568397872739648
+"[Right (The National Archives, LC 5/156)]",0.00008568397872739648
+"[Right (The National Archives, E 315/128)]",0.00008568397872739648
+"[Right (The National Archives, SP 71/19)]",0.00008568397872739648
+"[Right (The National Archives, PRO 30/69/1186)]",0.00008568397872739648
+"[Right (The National Archives, SP 91/14)]",0.00008568397872739648
+"[Right (The National Archives, HCA 13/56)]",0.00008568397872739648
+"[Left (The National Archives, ASSI 41/4)]",0.00008568397872739648
+"[Right (The National Archives, CO 299/89)]",0.00008568397872739648
+"[Right (The National Archives, PC 6/15)]",0.00008568397872739648
+"[Right (The National Archives, WO 381/11)]",0.00008568397872739648
+"[Left (The National Archives, SP 91/14)]",0.00008568397872739648
+"[Right (The National Archives, ADM 223/31)]",0.00008568397872739648
+"[Right (The National Archives, ADM 1/5437)]",0.00008568397872739648
+"[Right (The National Archives, HCA 13/78)]",0.00008568397872739648
+"[Left (The National Archives, CO 299/89)]",0.00008568397872739648
+"[Right (The National Archives, CRES 40/25A)]",0.00008568397872739648
+"[Left (The National Archives, E 405/550)]",0.00008568397872739648
+"[Right (The National Archives, FO 97/341)]",0.00008568397872739648
+"[Left (The National Archives, PC 6/15)]",0.00008568397872739648
+"[Spine-section (The National Archives, FO 97/341)]",0.00008568397872739648
+"[Left (The National Archives, RAIL 527/1429)]",0.00008568397872739648
+"[New spine-section (The National Archives, SP 104/143)]",0.00008568397872739648
+"[Left (The National Archives, CRES 40/25A)]",0.00008568397872739648
+"[Left (The National Archives, E 315/128)]",0.00008568397872739648
+"[Right (The National Archives, DL 30/603/2)]",0.00008568397872739648
+"[Left (The National Archives, ADM 223/31)]",0.00008568397872739648
+"[New spine-section (The National Archives, RAIL 527/1429)]",0.00008568397872739648
+"[Spine-section (The National Archives, RAIL 527/1429)]",0.00008568397872739648
+"[Left (The National Archives, LC 5/156)]",0.00008568397872739648
+"[Left (The National Archives, FO 97/341)]",0.00008568397872739648
+"[Right (The National Archives, CO 473/9)]",0.00008568397872739648
+"[Left (The National Archives, T 20/1220)]",0.00008568397872739648
+"[Right (The National Archives, ADM 42/681)]",0.00008568397872739648
+"[Left (The National Archives, ADM 42/681)]",0.00008568397872739648
+"[Right (The National Archives, E 36/29)]",0.00008568397872739648
+"[Left (The National Archives, PRO 30/69/1186)]",0.00008568397872739648
+"[Left (The National Archives, HCA 13/56)]",0.00008568397872739648
+"[Left (The National Archives, E 36/29)]",0.00008568397872739648
+"[Right (The National Archives, T 20/1220)]",0.00008568397872739648
+"[Right (The National Archives, RAIL 527/1429)]",0.00008568397872739648
+"[New spine piece (The National Archives, ADM 1/5437)]",0.0000856839787273964
+"[Covering material-place (The National Archives, SP 71/19)]",0.00008560327387650539
+"[Detached (The National Archives, FO 802/607)]",0.00008560327387650539
+"[Detached (The National Archives, CRIM 10/28)]",0.00008560327387650539
+"[Detached (The National Archives, SP 104/143)]",0.00008560327387650539
+"[Spine (The National Archives, SP 104/143)]",0.00008560327387650539
+"[Broken (The National Archives, SP 24/18)]",0.00008560327387650539
+"[Broken (The National Archives, RAIL 950/17)]",0.00008560327387650539
+"[Covering material-place (The National Archives, FO 97/341)]",0.00008560327387650539
+"[Covering material (The National Archives, SP 71/19)]",0.00008560327387650539
+"[Detached (The National Archives, FO 802/607)]",0.00008560327387650539
+"[Broken (The National Archives, SP 104/143)]",0.00008560327387650539
+"[Covering material-place (The National Archives, CO 31/1)]",0.00008560327387650539
+"[Corners (The National Archives, SP 104/143)]",0.00008560327387650539
+"[Detached (The National Archives, SP 44/335)]",0.00008560327387650539
+"[Broken (The National Archives, CO 31/1)]",0.00008560327387650539
+"[Spine (The National Archives, ADM 1/5437)]",0.00008560327387650539
+"[Broken (The National Archives, FO 802/614)]",0.00008560327387650539
+"[Detached (The National Archives, ADM 1/5438)]",0.00008560327387650539
+"[Spine (The National Archives, RAIL 527/1429)]",0.00008560327387650539
+"[Broken (The National Archives, SP 104/171)]",0.00008560327387650539
+"[Detached (The National Archives, SP 44/335)]",0.00008560327387650539
+"[Detached (The National Archives, ADM 1/5438)]",0.00008560327387650539
+"[Detached (The National Archives, CO 31/1)]",0.00008560327387650539
+"[Detached (The National Archives, CRIM 10/28)]",0.00008560327387650539
+"[Detached (The National Archives, SP 104/171)]",0.00008560327387650539
+"[Broken (The National Archives, CRIM 10/28)]",0.00008560327387650539
+"[Detached (The National Archives, SP 104/171)]",0.00008560327387650539
+"[Broken (The National Archives, SP 24/18)]",0.00008560327387650539
+"[Detached (The National Archives, FO 802/614)]",0.00008560327387650539
+"[Broken (The National Archives, CRIM 10/28)]",0.00008560327387650539
+"[Broken (The National Archives, ADM 1/5438)]",0.00008560327387650539
+"[Detached (The National Archives, CO 31/1)]",0.00008560327387650539
+"[Detached (The National Archives, SP 24/18)]",0.00008560327387650539
+"[Damaged (The National Archives, ADM 42/681)]",0.00008560327387650539
+"[Detached (The National Archives, RAIL 950/17)]",0.00008560327387650539
+"[Detached (The National Archives, SP 104/143)]",0.00008560327387650539
+"[Covering material (The National Archives, CO 31/1)]",0.00008560327387650539
+"[Damaged (The National Archives, ADM 1/5437)]",0.00008560327387650539
+"[Broken (The National Archives, SP 104/143)]",0.00008560327387650539
+"[Broken (The National Archives, RAIL 950/17)]",0.00008560327387650539
+"[Broken (The National Archives, SP 44/335)]",0.00008560327387650539
+"[Covering material (The National Archives, RAIL 527/1429)]",0.00008560327387650539
+"[Broken (The National Archives, SP 44/335)]",0.00008560327387650539
+"[Broken (The National Archives, ADM 37/5039)]",0.00008560327387650539
+"[Detached (The National Archives, SP 24/18)]",0.00008560327387650539
+"[Broken (The National Archives, SP 104/171)]",0.00008560327387650539
+"[Broken (The National Archives, ADM 37/5039)]",0.00008560327387650539
+"[Detached (The National Archives, ADM 37/5039)]",0.00008560327387650539
+"[Spine (The National Archives, FO 97/341)]",0.00008560327387650539
+"[Detached (The National Archives, RAIL 950/17)]",0.00008560327387650539
+"[Covering material (The National Archives, FO 97/341)]",0.00008560327387650539
+"[Broken (The National Archives, FO 802/607)]",0.00008560327387650539
+"[Corners (The National Archives, FO 802/614)]",0.00008560327387650539
+"[Detached (The National Archives, FO 802/614)]",0.00008560327387650539
+"[Broken (The National Archives, CO 31/1)]",0.00008560327387650539
+"[Covering material-place (The National Archives, SP 104/143)]",0.00008560327387650539
+"[Covering material-place (The National Archives, RAIL 527/1429)]",0.00008560327387650539
+"[Spine-section (The National Archives, ADM 1/5437)]",0.00008560327387650539
+"[Spine-section (The National Archives, SP 104/143)]",0.00008560327387650539
+"[Covering material (The National Archives, SP 104/143)]",0.00008560327387650539
+"[Broken (The National Archives, FO 802/614)]",0.00008560327387650539
+"[Broken (The National Archives, ADM 1/5438)]",0.00008560327387650539
+"[Detached (The National Archives, ADM 37/5039)]",0.00008560327387650539
+"[Broken (The National Archives, FO 802/607)]",0.00008560327387650539
+"[New spine-section (The National Archives, SP 104/171)]",0.00008257530426937516
+"[New spine-section (The National Archives, CO 299/89)]",0.00008257530426937516
+"[Right (The National Archives, E 36/2)]",0.00008257530426937515
+"[Left (The National Archives, E 36/2)]",0.00008257530426937515
+"[Right (The National Archives, SP 105/207)]",0.00008257530426937515
+"[New spine piece (The National Archives, ADM 55/32)]",0.00008257530426937515
+"[Left (The National Archives, SP 105/207)]",0.00008257530426937515
+"[New spine-section (The National Archives, DL 30/603/2)]",0.00008257530426937515
+"[Broken (The National Archives, ADM 223/31)]",0.00008249459941848409
+"[Spine (The National Archives, CO 299/89)]",0.00008249459941848409
+"[Spine (The National Archives, SP 104/171)]",0.00008249459941848409
+"[Detached (The National Archives, ASSI 41/4)]",0.00008249459941848409
+"[Broken (The National Archives, FO 97/341)]",0.00008249459941848409
+"[Damaged (The National Archives, ADM 139/1027)]",0.00008249459941848409
+"[Broken (The National Archives, ADM 223/31)]",0.00008249459941848409
+"[Detached (The National Archives, ADM 223/31)]",0.00008249459941848409
+"[Broken (The National Archives, B 3/5243)]",0.00008249459941848409
+"[Detached (The National Archives, ADM 223/31)]",0.00008249459941848409
+"[Broken (The National Archives, RAIL 527/1429)]",0.00008249459941848409
+"[Broken (The National Archives, E 315/128)]",0.00008249459941848409
+"[Detached (The National Archives, CRES 40/25A)]",0.00008249459941848409
+"[Sewing supports (The National Archives, ADM 139/1027)]",0.00008249459941848409
+"[Detached (The National Archives, E 315/128)]",0.00008249459941848409
+"[Broken (The National Archives, ADM 139/1027)]",0.00008249459941848409
+"[Covering material (The National Archives, CO 299/89)]",0.00008249459941848409
+"[Broken (The National Archives, ADM 139/1027)]",0.00008249459941848409
+"[Detached (The National Archives, CO 299/89)]",0.00008249459941848409
+"[Broken (The National Archives, CO 299/89)]",0.00008249459941848409
+"[Detached (The National Archives, B 3/5243)]",0.00008249459941848409
+"[Detached (The National Archives, CO 299/89)]",0.00008249459941848409
+"[Detached (The National Archives, ADM 139/1027)]",0.00008249459941848409
+"[Detached (The National Archives, FO 97/341)]",0.00008249459941848409
+"[Broken (The National Archives, CO 473/9)]",0.00008249459941848409
+"[Detached (The National Archives, B 3/5243)]",0.00008249459941848409
+"[Broken (The National Archives, B 3/5243)]",0.00008249459941848409
+"[Broken (The National Archives, CO 299/89)]",0.00008249459941848409
+"[Spine-section (The National Archives, CO 299/89)]",0.00008249459941848409
+"[Broken (The National Archives, ASSI 41/4)]",0.00008249459941848409
+"[Broken (The National Archives, CRES 40/25A)]",0.00008249459941848409
+"[Detached (The National Archives, CO 473/9)]",0.00008249459941848409
+"[Spine-section (The National Archives, SP 104/171)]",0.00008249459941848409
+"[Detached (The National Archives, RAIL 527/1429)]",0.00008249459941848409
+"[Detached (The National Archives, ADM 139/1027)]",0.00008249459941848409
+"[Covering material-place (The National Archives, CO 299/89)]",0.00008249459941848409
+"[Broken (The National Archives, CRES 40/25A)]",0.00008249459941848407
+"[Sewing supports (The National Archives, ADM 1/5438)]",0.00008249459941848407
+"[Broken (The National Archives, WO 381/11)]",0.00008249459941848407
+"[Detached (The National Archives, E 36/29)]",0.00008249459941848407
+"[Covering material (The National Archives, CRIM 10/28)]",0.00008249459941848407
+"[Detached (The National Archives, WO 381/11)]",0.00008249459941848407
+"[Broken (The National Archives, LC 5/156)]",0.00008249459941848407
+"[Spine-section (The National Archives, ADM 55/32)]",0.00008249459941848407
+"[Detached (The National Archives, SP 71/19)]",0.00008249459941848407
+"[Covering material-place (The National Archives, CRIM 10/28)]",0.00008249459941848407
+"[Broken (The National Archives, ADM 42/681)]",0.00008249459941848407
+"[Broken (The National Archives, PRO 30/69/1186)]",0.00008249459941848407
+"[Detached (The National Archives, DL 30/603/2)]",0.00008249459941848407
+"[Detached (The National Archives, LC 5/156)]",0.00008249459941848407
+"[Sewing supports (The National Archives, ADM 1/5437)]",0.00008249459941848407
+"[Broken (The National Archives, E 36/29)]",0.00008249459941848407
+"[Broken (The National Archives, SP 71/19)]",0.00008249459941848407
+"[Broken (The National Archives, CO 473/9)]",0.00008249459941848407
+"[Broken (The National Archives, PC 6/15)]",0.00008249459941848407
+"[Detached (The National Archives, PC 6/15)]",0.00008249459941848407
+"[Broken (The National Archives, SP 91/14)]",0.00008249459941848407
+"[Detached (The National Archives, HCA 13/78)]",0.00008249459941848407
+"[Detached (The National Archives, E 405/550)]",0.00008249459941848407
+"[Detached (The National Archives, HCA 13/78)]",0.00008249459941848407
+"[Broken (The National Archives, E 36/29)]",0.00008249459941848407
+"[Spine (The National Archives, ADM 55/32)]",0.00008249459941848407
+"[Broken (The National Archives, ASSI 41/4)]",0.00008249459941848407
+"[Spine (The National Archives, DL 30/603/2)]",0.00008249459941848407
+"[Detached (The National Archives, HCA 13/56)]",0.00008249459941848407
+"[Detached (The National Archives, PRO 30/69/1186)]",0.00008249459941848407
+"[Detached (The National Archives, SP 91/14)]",0.00008249459941848407
+"[Detached (The National Archives, E 36/29)]",0.00008249459941848407
+"[Corners (The National Archives, CRIM 10/28)]",0.00008249459941848407
+"[Detached (The National Archives, SP 91/14)]",0.00008249459941848407
+"[Broken (The National Archives, DL 30/603/2)]",0.00008249459941848407
+"[Broken (The National Archives, E 405/550)]",0.00008249459941848407
+"[Broken (The National Archives, FO 97/341)]",0.00008249459941848407
+"[Detached (The National Archives, T 20/1220)]",0.00008249459941848407
+"[Detached (The National Archives, ASSI 41/4)]",0.00008249459941848407
+"[Detached (The National Archives, LC 5/156)]",0.00008249459941848407
+"[Broken (The National Archives, SP 71/19)]",0.00008249459941848407
+"[Damaged (The National Archives, LC 5/156)]",0.00008249459941848407
+"[Broken (The National Archives, RAIL 527/1429)]",0.00008249459941848407
+"[Damaged (The National Archives, ADM 1/5437)]",0.00008249459941848407
+"[Spine-section (The National Archives, DL 30/603/2)]",0.00008249459941848407
+"[Detached (The National Archives, DL 30/603/2)]",0.00008249459941848407
+"[Broken (The National Archives, HCA 13/56)]",0.00008249459941848407
+"[Broken (The National Archives, E 405/550)]",0.00008249459941848407
+"[Detached (The National Archives, HCA 13/56)]",0.00008249459941848407
+"[Detached (The National Archives, PRO 30/69/1186)]",0.00008249459941848407
+"[Detached (The National Archives, RAIL 527/1429)]",0.00008249459941848407
+"[Broken (The National Archives, E 315/128)]",0.00008249459941848407
+"[Broken (The National Archives, DL 30/603/2)]",0.00008249459941848407
+"[Detached (The National Archives, E 405/550)]",0.00008249459941848407
+"[Detached (The National Archives, ADM 42/681)]",0.00008249459941848407
+"[Detached (The National Archives, FO 97/341)]",0.00008249459941848407
+"[Broken (The National Archives, T 20/1220)]",0.00008249459941848407
+"[Broken (The National Archives, PC 6/15)]",0.00008249459941848407
+"[Detached (The National Archives, PC 6/15)]",0.00008249459941848407
+"[Detached (The National Archives, E 315/128)]",0.00008249459941848407
+"[Damaged (The National Archives, ADM 1/5438)]",0.00008249459941848407
+"[Broken (The National Archives, ADM 1/5437)]",0.00008249459941848407
+"[Broken (The National Archives, LC 5/156)]",0.00008249459941848407
+"[Detached (The National Archives, CO 473/9)]",0.00008249459941848407
+"[Detached (The National Archives, ADM 1/5437)]",0.00008249459941848407
+"[Detached (The National Archives, CRES 40/25A)]",0.00008249459941848407
+"[Broken (The National Archives, HCA 13/56)]",0.00008249459941848407
+"[Detached (The National Archives, T 20/1220)]",0.00008249459941848407
+"[Detached (The National Archives, SP 71/19)]",0.00008249459941848407
+"[Detached (The National Archives, ADM 1/5437)]",0.00008249459941848407
+"[Broken (The National Archives, ADM 42/681)]",0.00008249459941848407
+"[Broken (The National Archives, SP 91/14)]",0.00008249459941848407
+"[Damaged (The National Archives, SP 91/14)]",0.00008249459941848407
+"[Sewing supports (The National Archives, LC 5/156)]",0.00008249459941848407
+"[Detached (The National Archives, WO 381/11)]",0.00008249459941848407
+"[Broken (The National Archives, HCA 13/78)]",0.00008249459941848407
+"[Broken (The National Archives, WO 381/11)]",0.00008249459941848407
+"[Broken (The National Archives, ADM 1/5437)]",0.00008249459941848407
+"[Broken (The National Archives, PRO 30/69/1186)]",0.00008249459941848407
+"[Broken (The National Archives, T 20/1220)]",0.00008249459941848407
+"[Broken (The National Archives, HCA 13/78)]",0.00008249459941848407
+"[Detached (The National Archives, ADM 42/681)]",0.00008249459941848407
+"[New sewing supports (The National Archives, CO 31/1)]",0.00007946662981135383
+"[Sewing supports (The National Archives, ADM 1/2628)]",0.0000793859249604628
+"[Damaged (The National Archives, ADM 139/1023)]",0.0000793859249604628
+"[Outer joints (The National Archives, HCA 13/56)]",0.0000793859249604628
+"[Sewing supports (The National Archives, ADM 55/32)]",0.0000793859249604628
+"[Damaged (The National Archives, ADM 139/1025)]",0.0000793859249604628
+"[Sewing supports (The National Archives, SP 104/171)]",0.0000793859249604628
+"[Damaged (The National Archives, CO 5/904)]",0.0000793859249604628
+"[Sewing supports (The National Archives, CO 5/904)]",0.0000793859249604628
+"[Damaged (The National Archives, CO 299/89)]",0.0000793859249604628
+"[Damaged (The National Archives, HCA 13/78)]",0.0000793859249604628
+"[Sewing supports (The National Archives, ASSI 41/4)]",0.0000793859249604628
+"[Covering material (The National Archives, ADM 223/31)]",0.0000793859249604628
+"[Damaged (The National Archives, SP 104/171)]",0.0000793859249604628
+"[Outer joints (The National Archives, E 405/550)]",0.0000793859249604628
+"[Sewing supports (The National Archives, WO 381/11)]",0.0000793859249604628
+"[Damaged (The National Archives, CO 31/1)]",0.0000793859249604628
+"[Damaged (The National Archives, CRIM 10/28)]",0.0000793859249604628
+"[Sewing supports (The National Archives, SP 105/207)]",0.0000793859249604628
+"[Damaged (The National Archives, WO 381/11)]",0.0000793859249604628
+"[Sewing supports (The National Archives, HCA 13/78)]",0.0000793859249604628
+"[Damaged (The National Archives, ADM 55/32)]",0.0000793859249604628
+"[Damaged (The National Archives, HCA 13/78)]",0.0000793859249604628
+"[Sewing supports (The National Archives, ADM 139/1025)]",0.0000793859249604628
+"[Damaged (The National Archives, SP 71/19)]",0.0000793859249604628
+"[Sewing supports (The National Archives, SP 71/19)]",0.0000793859249604628
+"[Covering material-place (The National Archives, WO 381/11)]",0.0000793859249604628
+"[Damaged (The National Archives, ASSI 41/4)]",0.0000793859249604628
+"[Sewing supports (The National Archives, CO 299/89)]",0.0000793859249604628
+"[Sewing supports (The National Archives, ADM 139/1023)]",0.0000793859249604628
+"[Sewing supports (The National Archives, CRIM 10/28)]",0.0000793859249604628
+"[Covering material-place (The National Archives, ADM 223/31)]",0.0000793859249604628
+"[Damaged (The National Archives, ADM 1/2628)]",0.0000793859249604628
+"[Covering material (The National Archives, WO 381/11)]",0.0000793859249604628
+"[Damaged (The National Archives, E 405/550)]",0.0000793859249604628
+"[Damaged (The National Archives, SP 105/207)]",0.0000793859249604628
+"[Sewing supports (The National Archives, E 405/550)]",0.0000793859249604628
+"[Sewing supports (The National Archives, CO 31/1)]",0.0000793859249604628
+"[Textblock (The National Archives, WO 381/11)]",0.00007668077475689674
+"[Textblock (The National Archives, DL 30/603/2)]",0.0000766000699060057
+"[Textblock (The National Archives, HCA 13/78)]",0.0000766000699060057
+"[Textblock (The National Archives, SP 71/19)]",0.00007660006990600569
+"[Textblock (The National Archives, T 20/1220)]",0.00007651936505511463
+"[Textblock (The National Archives, CO 31/1)]",0.00007651936505511463
+"[Textblock (The National Archives, ADM 37/5039)]",0.00007651936505511463
+"[Textblock (The National Archives, ADM 139/1023)]",0.00007651936505511463
+"[Textblock (The National Archives, ADM 42/681)]",0.00007651936505511463
+"[Textblock (The National Archives, CRIM 10/28)]",0.0000764386602042236
+"[Textblock (The National Archives, SP 91/14)]",0.0000764386602042236
+"[Textblock (The National Archives, SP 105/207)]",0.0000764386602042236
+"[Textblock (The National Archives, B 3/5243)]",0.0000764386602042236
+"[Textblock (The National Archives, ADM 223/31)]",0.0000764386602042236
+"[Textblock (The National Archives, ADM 55/32)]",0.0000764386602042236
+"[Textblock (The National Archives, ADM 1/5438)]",0.0000764386602042236
+"[New endleavesright (The National Archives, ADM 1/5438)]",0.00007635795535333254
+"[Textblock (The National Archives, ADM 1/5437)]",0.00007635795535333254
+"[New endleavesright (The National Archives, CO 5/904)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, T 20/1220)]",0.00007635795535333254
+"[New endleavesright (The National Archives, ADM 139/1023)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 139/1027)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, E 36/29)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, SP 104/171)]",0.00007635795535333254
+"[Left endleaves (The National Archives, PC 6/15)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, SP 104/171)]",0.00007635795535333254
+"[New endleavesright (The National Archives, ADM 139/1025)]",0.00007635795535333254
+"[New endleavesright (The National Archives, SP 44/335)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, DL 30/603/2)]",0.00007635795535333254
+"[Textblock (The National Archives, HCA 13/56)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, CO 5/904)]",0.00007635795535333254
+"[Textblock (The National Archives, ADM 55/107)]",0.00007635795535333254
+"[New hook guardleft (The National Archives, SP 24/18)]",0.00007635795535333254
+"[New endleavesright (The National Archives, ADM 139/1025)]",0.00007635795535333254
+"[New spine-section (The National Archives, E 36/29)]",0.00007635795535333254
+"[Left endleaves (The National Archives, ADM 1/2628)]",0.00007635795535333254
+"[New endleavesright (The National Archives, E 36/29)]",0.00007635795535333254
+"[Textblock (The National Archives, RAIL 527/1429)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 37/5039)]",0.00007635795535333254
+"[New hook guardright (The National Archives, E 405/550)]",0.00007635795535333254
+"[Textblock (The National Archives, ADM 139/1027)]",0.00007635795535333254
+"[New endleavesright (The National Archives, ADM 37/5039)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 139/1027)]",0.00007635795535333254
+"[New endleavesright (The National Archives, DL 30/603/2)]",0.00007635795535333254
+"[New endleavesright (The National Archives, ADM 139/1027)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, SP 24/18)]",0.00007635795535333254
+"[New guardsleft (The National Archives, ASSI 41/4)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 37/5039)]",0.00007635795535333254
+"[Textblock (The National Archives, ADM 1/2628)]",0.00007635795535333254
+"[New hook guardright (The National Archives, SP 24/18)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, DL 30/603/2)]",0.00007635795535333254
+"[New sewing supports (The National Archives, SP 91/14)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 139/1025)]",0.00007635795535333254
+"[New endleavesright (The National Archives, SP 24/18)]",0.00007635795535333254
+"[New guardsright (The National Archives, ASSI 41/4)]",0.00007635795535333254
+"[Bookblock spine (The National Archives, ADM 139/1025)]",0.00007635795535333254
+"[New guardsright (The National Archives, ASSI 41/4)]",0.00007635795535333254
+"[New spine-section (The National Archives, PC 6/15)]",0.00007635795535333254
+"[New endleavesright (The National Archives, ADM 37/5039)]",0.00007635795535333254
+"[New endleavesright (The National Archives, E 36/29)]",0.00007635795535333254
+"[New endleavesright (The National Archives, ADM 139/1027)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, CO 5/904)]",0.00007635795535333254
+"[New endleavesright (The National Archives, T 20/1220)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, T 20/1220)]",0.00007635795535333254
+"[Right endleaves (The National Archives, PC 6/15)]",0.00007635795535333254
+"[Textblock (The National Archives, SP 104/171)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, SP 24/18)]",0.00007635795535333254
+"[New hook guardright (The National Archives, E 405/550)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, E 36/29)]",0.00007635795535333254
+"[Textblock (The National Archives, PC 6/15)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 139/1025)]",0.00007635795535333254
+"[New endleavesright (The National Archives, CO 5/904)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 1/5438)]",0.00007635795535333254
+"[New endleavesright (The National Archives, ADM 1/5438)]",0.00007635795535333254
+"[Left endleaves (The National Archives, E 405/550)]",0.00007635795535333254
+"[New endleavesright (The National Archives, SP 104/171)]",0.00007635795535333254
+"[New hook guardleft (The National Archives, E 405/550)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, SP 44/335)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 139/1023)]",0.00007635795535333254
+"[New endleavesright (The National Archives, ADM 139/1023)]",0.00007635795535333254
+"[New endleavesright (The National Archives, SP 104/171)]",0.00007635795535333254
+"[Right endleaves (The National Archives, E 405/550)]",0.00007635795535333254
+"[Right endleaves (The National Archives, ADM 1/2628)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, CRIM 10/28)]",0.00007635795535333254
+"[New endleavesright (The National Archives, SP 24/18)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 1/5438)]",0.00007635795535333254
+"[Spine-section (The National Archives, CO 473/9)]",0.00007635795535333254
+"[Textblock (The National Archives, RAIL 950/17)]",0.00007635795535333254
+"[Textblock (The National Archives, CO 299/89)]",0.00007635795535333254
+"[New endleavesright (The National Archives, CRIM 10/28)]",0.00007635795535333254
+"[New endleavesright (The National Archives, T 20/1220)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, CRIM 10/28)]",0.00007635795535333254
+"[New hook guardleft (The National Archives, E 405/550)]",0.00007635795535333254
+"[Textblock (The National Archives, ASSI 41/4)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, SP 44/335)]",0.00007635795535333254
+"[New endleavesright (The National Archives, CRIM 10/28)]",0.00007635795535333254
+"[Spine-section (The National Archives, RAIL 950/17)]",0.00007635795535333254
+"[New hook guardleft (The National Archives, SP 24/18)]",0.00007635795535333254
+"[New endleavesleft (The National Archives, ADM 139/1023)]",0.00007635795535333254
+"[New endleavesright (The National Archives, SP 44/335)]",0.00007635795535333254
+"[New endleavesright (The National Archives, DL 30/603/2)]",0.00007635795535333254
+"[New hook guardright (The National Archives, SP 24/18)]",0.00007635795535333254
+"[New guardsleft (The National Archives, ASSI 41/4)]",0.00007635795535333254
+"[Sewing supports (The National Archives, ADM 55/107)]",0.00007627725050244148
+"[Left (The National Archives, CO 31/1)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, DL 30/603/2)]",0.00007627725050244148
+"[Spine (place) (The National Archives, FO 802/614)]",0.00007627725050244148
+"[Head (The National Archives, B 3/5243)]",0.00007627725050244148
+"[Right (The National Archives, RAIL 950/17)]",0.00007627725050244148
+"[Head (The National Archives, HCA 13/78)]",0.00007627725050244148
+"[Head (The National Archives, ADM 55/107)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 42/681)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, E 36/29)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ADM 37/5039)]",0.00007627725050244148
+"[Head (The National Archives, ADM 139/1027)]",0.00007627725050244148
+"[Left (The National Archives, RAIL 527/1429)]",0.00007627725050244148
+"[Left endleaves (The National Archives, T 20/1220)]",0.00007627725050244148
+"[Sewing supports (The National Archives, E 36/29)]",0.00007627725050244148
+"[Head (The National Archives, SP 71/19)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ADM 55/32)]",0.00007627725050244148
+"[Tail (The National Archives, CO 473/9)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ADM 55/107)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 37/5039)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, CO 5/904)]",0.00007627725050244148
+"[Tail (The National Archives, WO 381/11)]",0.00007627725050244148
+"[Head (The National Archives, SP 24/18)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, B 3/5243)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 139/1025)]",0.00007627725050244148
+"[Damaged (The National Archives, ADM 55/107)]",0.00007627725050244148
+"[Spine (place) (The National Archives, E 36/29)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, PC 6/15)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, SP 44/335)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, E 36/2)]",0.00007627725050244148
+"[Left endleaves (The National Archives, SP 91/14)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, FO 97/341)]",0.00007627725050244148
+"[Head (The National Archives, DL 30/603/2)]",0.00007627725050244148
+"[Head (The National Archives, E 405/550)]",0.00007627725050244148
+"[Head (The National Archives, CO 5/904)]",0.00007627725050244148
+"[Spine (place) (The National Archives, SP 105/207)]",0.00007627725050244148
+"[Sewing supports (The National Archives, DL 30/603/2)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 1/5438)]",0.00007627725050244148
+"[Right endleaves (The National Archives, FO 802/614)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, RAIL 527/1429)]",0.00007627725050244148
+"[Head (The National Archives, ADM 42/681)]",0.00007627725050244148
+"[Head (The National Archives, RAIL 950/17)]",0.00007627725050244148
+"[Left (The National Archives, CRES 40/25A)]",0.00007627725050244148
+"[Spine (place) (The National Archives, CO 299/89)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, HCA 13/56)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, LC 5/156)]",0.00007627725050244148
+"[Tail (The National Archives, SP 104/171)]",0.00007627725050244148
+"[Spine-section (The National Archives, PC 6/15)]",0.00007627725050244148
+"[Damaged (The National Archives, DL 30/603/2)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, HCA 13/78)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, CO 299/89)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ASSI 41/4)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ADM 139/1025)]",0.00007627725050244148
+"[Textblock (The National Archives, SP 24/18)]",0.00007627725050244148
+"[Left (The National Archives, CO 299/89)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 42/681)]",0.00007627725050244148
+"[Tail (The National Archives, E 315/128)]",0.00007627725050244148
+"[Tail (The National Archives, CO 299/89)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ADM 139/1027)]",0.00007627725050244148
+"[Spine (place) (The National Archives, FO 802/607)]",0.00007627725050244148
+"[Right (The National Archives, WO 381/11)]",0.00007627725050244148
+"[Left endleaves (The National Archives, E 36/29)]",0.00007627725050244148
+"[Tail (The National Archives, DL 30/603/2)]",0.00007627725050244148
+"[Tail (The National Archives, E 405/550)]",0.00007627725050244148
+"[Sewing supports (The National Archives, SP 44/335)]",0.00007627725050244148
+"[Spine (place) (The National Archives, WO 381/11)]",0.00007627725050244148
+"[Tail (The National Archives, CO 5/904)]",0.00007627725050244148
+"[Left endleaves (The National Archives, CO 5/904)]",0.00007627725050244148
+"[Spine (place) (The National Archives, CO 473/9)]",0.00007627725050244148
+"[Left (The National Archives, ADM 223/31)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, RAIL 950/17)]",0.00007627725050244148
+"[Head (The National Archives, ADM 1/5437)]",0.00007627725050244148
+"[Right (The National Archives, RAIL 527/1429)]",0.00007627725050244148
+"[Tail (The National Archives, CRIM 10/28)]",0.00007627725050244148
+"[Tail (The National Archives, SP 44/335)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, CRES 40/25A)]",0.00007627725050244148
+"[Head (The National Archives, FO 97/341)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 55/32)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 42/681)]",0.00007627725050244148
+"[Sewing supports (The National Archives, ADM 223/31)]",0.00007627725050244148
+"[Spine (place) (The National Archives, CO 31/1)]",0.00007627725050244148
+"[Left endleaves (The National Archives, PRO 30/69/1186)]",0.00007627725050244148
+"[Textblock (The National Archives, E 315/128)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 139/1025)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, E 315/128)]",0.00007627725050244148
+"[Damaged (The National Archives, SP 91/14)]",0.00007627725050244148
+"[Spine (place) (The National Archives, T 20/1220)]",0.00007627725050244148
+"[Head (The National Archives, ADM 223/31)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, FO 802/607)]",0.00007627725050244148
+"[Left (The National Archives, FO 97/341)]",0.00007627725050244148
+"[Spine (place) (The National Archives, SP 104/143)]",0.00007627725050244148
+"[Sewing supports (The National Archives, FO 802/607)]",0.00007627725050244148
+"[Left (The National Archives, LC 5/156)]",0.00007627725050244148
+"[Spine-section (The National Archives, E 36/29)]",0.00007627725050244148
+"[Tail (The National Archives, ASSI 41/4)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, T 20/1220)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, CO 473/9)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ADM 1/5438)]",0.00007627725050244148
+"[Left (The National Archives, RAIL 950/17)]",0.00007627725050244148
+"[Left endleaves (The National Archives, HCA 13/78)]",0.00007627725050244148
+"[Right endleaves (The National Archives, E 36/29)]",0.00007627725050244148
+"[Spine (place) (The National Archives, HCA 13/56)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, FO 802/614)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ADM 1/5437)]",0.00007627725050244148
+"[Sewing supports (The National Archives, CRES 40/25A)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, CRIM 10/28)]",0.00007627725050244148
+"[Tail (The National Archives, RAIL 527/1429)]",0.00007627725050244148
+"[Spine (place) (The National Archives, DL 30/603/2)]",0.00007627725050244148
+"[Spine (place) (The National Archives, SP 44/335)]",0.00007627725050244148
+"[Spine (place) (The National Archives, CO 5/904)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 55/32)]",0.00007627725050244148
+"[Right endleaves (The National Archives, T 20/1220)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 1/5437)]",0.00007627725050244148
+"[Tail (The National Archives, FO 802/614)]",0.00007627725050244148
+"[Sewing supports (The National Archives, HCA 13/56)]",0.00007627725050244148
+"[Sewing supports (The National Archives, SP 91/14)]",0.00007627725050244148
+"[Head (The National Archives, ADM 1/2628)]",0.00007627725050244148
+"[Sewing supports (The National Archives, RAIL 527/1429)]",0.00007627725050244148
+"[Left (The National Archives, SP 104/143)]",0.00007627725050244148
+"[Sewing supports (The National Archives, CO 473/9)]",0.00007627725050244148
+"[Head (The National Archives, LC 5/156)]",0.00007627725050244148
+"[
+                           
+                              rounding
+                           
+                        ]",0.00007627725050244148
+"[Sewing supports (The National Archives, ADM 37/5039)]",0.00007627725050244148
+"[Sewing supports (The National Archives, RAIL 950/17)]",0.00007627725050244148
+"[Spine (place) (The National Archives, E 36/2)]",0.00007627725050244148
+"[Head (The National Archives, CO 299/89)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ADM 37/5039)]",0.00007627725050244148
+"[Textblock (The National Archives, E 36/2)]",0.00007627725050244148
+"[Textblock (The National Archives, FO 802/607)]",0.00007627725050244148
+"[Left (The National Archives, HCA 13/56)]",0.00007627725050244148
+"[Head (The National Archives, FO 802/607)]",0.00007627725050244148
+"[Right endleaves (The National Archives, CRIM 10/28)]",0.00007627725050244148
+"[Spine (place) (The National Archives, B 3/5243)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 223/31)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, SP 105/207)]",0.00007627725050244148
+"[Spine (place) (The National Archives, FO 97/341)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 55/24)]",0.00007627725050244148
+"[Right (The National Archives, SP 104/143)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ASSI 41/4)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ADM 1/5438)]",0.00007627725050244148
+"[Sewing supports (The National Archives, ADM 55/24)]",0.00007627725050244148
+"[Tail (The National Archives, FO 97/341)]",0.00007627725050244148
+"[Head (The National Archives, CRIM 10/28)]",0.00007627725050244148
+"[Head (The National Archives, ADM 55/32)]",0.00007627725050244148
+"[Left (The National Archives, CO 473/9)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ADM 1/5437)]",0.00007627725050244148
+"[Left endleaves (The National Archives, SP 44/335)]",0.00007627725050244148
+"[Spine (place) (The National Archives, SP 104/171)]",0.00007627725050244148
+"[Tail (The National Archives, SP 91/14)]",0.00007627725050244148
+"[Tail (The National Archives, LC 5/156)]",0.00007627725050244148
+"[Textblock (The National Archives, E 405/550)]",0.00007627725050244148
+"[Right (The National Archives, LC 5/156)]",0.00007627725050244148
+"[Head (The National Archives, WO 381/11)]",0.00007627725050244148
+"[Head (The National Archives, ADM 37/5039)]",0.00007627725050244148
+"[Right (The National Archives, HCA 13/56)]",0.00007627725050244148
+"[Textblock (The National Archives, ADM 55/24)]",0.00007627725050244148
+"[Damaged (The National Archives, ADM 42/681)]",0.00007627725050244148
+"[Head (The National Archives, FO 802/614)]",0.00007627725050244148
+"[Right endleaves (The National Archives, SP 104/171)]",0.00007627725050244148
+"[Left endleaves (The National Archives, SP 104/171)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 1/2628)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 223/31)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 1/5437)]",0.00007627725050244148
+"[Head (The National Archives, CO 31/1)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, SP 104/143)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 139/1027)]",0.00007627725050244148
+"[Right endleaves (The National Archives, SP 44/335)]",0.00007627725050244148
+"[Damaged (The National Archives, B 3/5243)]",0.00007627725050244148
+"[Right endleaves (The National Archives, FO 802/607)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 55/107)]",0.00007627725050244148
+"[Tail (The National Archives, CRES 40/25A)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 139/1027)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, WO 381/11)]",0.00007627725050244148
+"[Tail (The National Archives, SP 71/19)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 1/5438)]",0.00007627725050244148
+"[Head (The National Archives, T 20/1220)]",0.00007627725050244148
+"[Head (The National Archives, SP 105/207)]",0.00007627725050244148
+"[Tail (The National Archives, PC 6/15)]",0.00007627725050244148
+"[Right endleaves (The National Archives, SP 105/207)]",0.00007627725050244148
+"[Left (The National Archives, E 315/128)]",0.00007627725050244148
+"[Head (The National Archives, ADM 55/24)]",0.00007627725050244148
+"[Head (The National Archives, ASSI 41/4)]",0.00007627725050244148
+"[Sewing supports (The National Archives, PRO 30/69/1186)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 139/1023)]",0.00007627725050244148
+"[Right (The National Archives, FO 97/341)]",0.00007627725050244148
+"[Left endleaves (The National Archives, SP 105/207)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 55/24)]",0.00007627725050244148
+"[Head (The National Archives, CRES 40/25A)]",0.00007627725050244148
+"[Spine (The National Archives, RAIL 950/17)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, CO 31/1)]",0.00007627725050244148
+"[Right (The National Archives, SP 71/19)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ADM 42/681)]",0.00007627725050244148
+"[Spine (place) (The National Archives, SP 71/19)]",0.00007627725050244148
+"[Spine (place) (The National Archives, PRO 30/69/1186)]",0.00007627725050244148
+"[Head (The National Archives, ADM 1/5438)]",0.00007627725050244148
+"[Sewing supports (The National Archives, SP 104/143)]",0.00007627725050244148
+"[Head (The National Archives, SP 91/14)]",0.00007627725050244148
+"[Textblock (The National Archives, FO 97/341)]",0.00007627725050244148
+"[Textblock (The National Archives, CRES 40/25A)]",0.00007627725050244148
+"[Tail (The National Archives, T 20/1220)]",0.00007627725050244148
+"[Spine (place) (The National Archives, CRES 40/25A)]",0.00007627725050244148
+"[Tail (The National Archives, ADM 139/1023)]",0.00007627725050244148
+"[Right endleaves (The National Archives, HCA 13/78)]",0.00007627725050244148
+"[Right (The National Archives, ADM 55/24)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ADM 139/1027)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, SP 24/18)]",0.00007627725050244148
+"[Tail (The National Archives, RAIL 950/17)]",0.00007627725050244148
+"[Right (The National Archives, ADM 223/31)]",0.00007627725050244148
+"[Right endleaves (The National Archives, DL 30/603/2)]",0.00007627725050244148
+"[Head (The National Archives, SP 44/335)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, SP 104/171)]",0.00007627725050244148
+"[Tail (The National Archives, HCA 13/78)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 55/107)]",0.00007627725050244148
+"[Right endleaves (The National Archives, SP 91/14)]",0.00007627725050244148
+"[Textblock (The National Archives, CO 473/9)]",0.00007627725050244148
+"[Spine (place) (The National Archives, E 315/128)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ASSI 41/4)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 55/24)]",0.00007627725050244148
+"[Spine (The National Archives, CO 473/9)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, E 405/550)]",0.00007627725050244148
+"[Sewing supports (The National Archives, FO 802/614)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ADM 55/32)]",0.00007627725050244148
+"[Right (The National Archives, B 3/5243)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ADM 139/1023)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 37/5039)]",0.00007627725050244148
+"[Spine (place) (The National Archives, LC 5/156)]",0.00007627725050244148
+"[Head (The National Archives, PC 6/15)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, SP 71/19)]",0.00007627725050244148
+"[Tail (The National Archives, E 36/2)]",0.00007627725050244148
+"[Head (The National Archives, RAIL 527/1429)]",0.00007627725050244148
+"[Spine (The National Archives, E 36/29)]",0.00007627725050244148
+"[Right endleaves (The National Archives, SP 24/18)]",0.00007627725050244148
+"[Right endleaves (The National Archives, PRO 30/69/1186)]",0.00007627725050244148
+"[Textblock (The National Archives, SP 104/143)]",0.00007627725050244148
+"[Textblock (The National Archives, SP 44/335)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 1/2628)]",0.00007627725050244148
+"[Tail (The National Archives, CO 31/1)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 139/1023)]",0.00007627725050244148
+"[Spine (place) (The National Archives, E 405/550)]",0.00007627725050244148
+"[Sewing supports (The National Archives, FO 97/341)]",0.00007627725050244148
+"[Tail (The National Archives, B 3/5243)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ADM 42/681)]",0.00007627725050244148
+"[Textblock (The National Archives, E 36/29)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 1/5438)]",0.00007627725050244148
+"[Damaged (The National Archives, T 20/1220)]",0.00007627725050244148
+"[Spine (place) (The National Archives, SP 91/14)]",0.00007627725050244148
+"[Right (The National Archives, CO 31/1)]",0.00007627725050244148
+"[Textblock (The National Archives, PRO 30/69/1186)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ASSI 41/4)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, PRO 30/69/1186)]",0.00007627725050244148
+"[Textblock (The National Archives, LC 5/156)]",0.00007627725050244148
+"[Spine (The National Archives, PC 6/15)]",0.00007627725050244148
+"[Textblock (The National Archives, CO 5/904)]",0.00007627725050244148
+"[Head (The National Archives, SP 104/171)]",0.00007627725050244148
+"[Head (The National Archives, CO 473/9)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 55/107)]",0.00007627725050244148
+"[Left (The National Archives, B 3/5243)]",0.00007627725050244148
+"[Head (The National Archives, ADM 139/1023)]",0.00007627725050244148
+"[Tail (The National Archives, E 36/29)]",0.00007627725050244148
+"[Textblock (The National Archives, FO 802/614)]",0.00007627725050244148
+"[Left endleaves (The National Archives, ADM 139/1025)]",0.00007627725050244148
+"[Left endleaves (The National Archives, FO 802/607)]",0.00007627725050244148
+"[Right endleaves (The National Archives, E 36/2)]",0.00007627725050244148
+"[Head (The National Archives, E 315/128)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ADM 55/107)]",0.00007627725050244148
+"[Left endleaves (The National Archives, SP 24/18)]",0.00007627725050244148
+"[Tail (The National Archives, HCA 13/56)]",0.00007627725050244148
+"[Textblock (The National Archives, ADM 139/1025)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 139/1027)]",0.00007627725050244148
+"[Sewing supports (The National Archives, ADM 42/681)]",0.00007627725050244148
+"[Head (The National Archives, E 36/2)]",0.00007627725050244148
+"[Left endleaves (The National Archives, E 36/2)]",0.00007627725050244148
+"[Tail (The National Archives, SP 104/143)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 1/2628)]",0.00007627725050244148
+"[Sewing supports (The National Archives, SP 24/18)]",0.00007627725050244148
+"[Head (The National Archives, PRO 30/69/1186)]",0.00007627725050244148
+"[Tail (The National Archives, SP 105/207)]",0.00007627725050244148
+"[Head (The National Archives, ADM 139/1025)]",0.00007627725050244148
+"[Left (The National Archives, WO 381/11)]",0.00007627725050244148
+"[Spine (place) (The National Archives, RAIL 527/1429)]",0.00007627725050244148
+"[Right (The National Archives, CO 473/9)]",0.00007627725050244148
+"[Sewing supports (The National Archives, PC 6/15)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, SP 91/14)]",0.00007627725050244148
+"[Sewing supports (The National Archives, T 20/1220)]",0.00007627725050244148
+"[Sewing supports (The National Archives, B 3/5243)]",0.00007627725050244148
+"[Sewing supports (The National Archives, E 315/128)]",0.00007627725050244148
+"[Tail (The National Archives, SP 24/18)]",0.00007627725050244148
+"[Head (The National Archives, HCA 13/56)]",0.00007627725050244148
+"[Right (The National Archives, CO 299/89)]",0.00007627725050244148
+"[Left endleaves (The National Archives, CRIM 10/28)]",0.00007627725050244148
+"[Sewing supports (The National Archives, E 36/2)]",0.00007627725050244148
+"[Bookblock spine (The National Archives, ADM 1/5437)]",0.00007627725050244148
+"[Head (The National Archives, E 36/29)]",0.00007627725050244148
+"[Spine (place) (The National Archives, ADM 55/32)]",0.00007627725050244148
+"[Left (The National Archives, ADM 55/24)]",0.00007627725050244148
+"[Right (The National Archives, CRES 40/25A)]",0.00007627725050244148
+"[Spine (place) (The National Archives, SP 24/18)]",0.00007627725050244148
+"[Right endleaves (The National Archives, CO 5/904)]",0.00007627725050244148
+"[Tail (The National Archives, PRO 30/69/1186)]",0.00007627725050244148
+"[Left endleaves (The National Archives, DL 30/603/2)]",0.00007627725050244148
+"[Head (The National Archives, SP 104/143)]",0.00007627725050244148
+"[Left endleaves (The National Archives, FO 802/614)]",0.00007627725050244148
+"[Damaged (The National Archives, ADM 37/5039)]",0.00007627725050244148
+"[Left (The National Archives, SP 71/19)]",0.00007627725050244148
+"[Right (The National Archives, E 315/128)]",0.00007627725050244148
+"[Right endleaves (The National Archives, ADM 139/1023)]",0.00007627725050244148
+"[Tail (The National Archives, FO 802/607)]",0.00007627725050244148
+[spine-folds],0.00000932947878416596
+"[Cover (The National Archives, WO 69/905)]",0.000006620880145502088
+"[Left board (The National Archives, WO 69/905)]",0.000006459470443719987
+"[Right board (The National Archives, WO 69/905)]",0.000006459470443719987
+"[Box space (The National Archives, WO 69/905)]",0.000006378765592828932
+"[Sewing structure (The National Archives, WO 69/905)]",0.000006378765592828932
+"[Shelfmark (The National Archives, WO 69/905)]",0.000006298060741937882
+"[Bookblock (The National Archives, WO 69/905)]",0.000006298060741937882
+[reattaching],0.000006214280493615147
+[description],0.000003711280637626624
+"[Cover (The National Archives, B 3/5243)]",0.0000035122056874807856
+"[Cover (The National Archives, T 20/1220)]",0.0000035122056874807856
+"[Cover (The National Archives, FO 802/607)]",0.0000035122056874807856
+"[Cover (The National Archives, E 36/2)]",0.0000035122056874807856
+"[Cover (The National Archives, ADM 37/5039)]",0.0000035122056874807856
+"[Left board (The National Archives, SP 44/335)]",0.000003431500836589735
+"[Cover (The National Archives, RAIL 527/1429)]",0.000003431500836589735
+"[Left board (The National Archives, FO 802/607)]",0.000003431500836589735
+"[Right board (The National Archives, CRIM 10/28)]",0.000003431500836589735
+"[Left board (The National Archives, ADM 37/5039)]",0.000003431500836589735
+"[Right board (The National Archives, SP 24/18)]",0.000003431500836589735
+"[Cover (The National Archives, SP 104/143)]",0.000003431500836589735
+"[Cover (The National Archives, FO 802/614)]",0.000003431500836589735
+"[Right board (The National Archives, FO 802/607)]",0.000003431500836589735
+"[Right board (The National Archives, CO 31/1)]",0.000003431500836589735
+"[Right board (The National Archives, ADM 37/5039)]",0.000003431500836589735
+"[Right board (The National Archives, RAIL 950/17)]",0.000003431500836589735
+"[Left board (The National Archives, CRIM 10/28)]",0.000003431500836589735
+"[Left board (The National Archives, SP 24/18)]",0.000003431500836589735
+"[Cover (The National Archives, FO 97/341)]",0.000003431500836589735
+"[Right board (The National Archives, SP 104/171)]",0.000003431500836589735
+"[Right board (The National Archives, FO 802/614)]",0.000003431500836589735
+"[Left board (The National Archives, SP 104/171)]",0.000003431500836589735
+"[Right board (The National Archives, SP 44/335)]",0.000003431500836589735
+"[Left board (The National Archives, SP 104/143)]",0.000003431500836589735
+"[Cover (The National Archives, CO 31/1)]",0.000003431500836589734
+"[Cover (The National Archives, ADM 42/681)]",0.000003431500836589734
+"[Right board (The National Archives, SP 104/143)]",0.000003431500836589734
+"[Left board (The National Archives, RAIL 950/17)]",0.000003431500836589734
+"[Cover (The National Archives, ADM 1/5437)]",0.000003431500836589734
+"[Right board (The National Archives, ADM 1/5438)]",0.000003431500836589734
+"[Left board (The National Archives, FO 802/614)]",0.000003431500836589734
+"[Cover (The National Archives, SP 71/19)]",0.000003431500836589734
+"[Left board (The National Archives, ADM 1/5438)]",0.000003431500836589734
+"[Left board (The National Archives, CO 31/1)]",0.000003431500836589734
+"[Right board (The National Archives, LC 5/156)]",0.000003350795985698684
+"[Left board (The National Archives, SP 91/14)]",0.000003350795985698684
+"[Right board (The National Archives, E 405/550)]",0.000003350795985698684
+"[Right board (The National Archives, ADM 42/681)]",0.000003350795985698684
+"[Right board (The National Archives, ASSI 41/4)]",0.000003350795985698684
+"[Sewing structure (The National Archives, ADM 1/5437)]",0.000003350795985698684
+"[Cover (The National Archives, SP 105/207)]",0.000003350795985698684
+"[Right board (The National Archives, B 3/5243)]",0.000003350795985698684
+"[Left board (The National Archives, ADM 223/31)]",0.000003350795985698684
+"[Right board (The National Archives, ADM 139/1027)]",0.000003350795985698684
+"[Left board (The National Archives, HCA 13/78)]",0.000003350795985698684
+"[Right board (The National Archives, HCA 13/78)]",0.000003350795985698684
+"[Left board (The National Archives, E 315/128)]",0.000003350795985698684
+"[Cover (The National Archives, SP 91/14)]",0.000003350795985698684
+"[Cover (The National Archives, ADM 1/5438)]",0.000003350795985698684
+"[Right board (The National Archives, ADM 1/5437)]",0.000003350795985698684
+"[Right board (The National Archives, E 36/29)]",0.000003350795985698684
+"[Right board (The National Archives, SP 91/14)]",0.000003350795985698684
+"[Left board (The National Archives, CO 299/89)]",0.000003350795985698684
+"[Left board (The National Archives, DL 30/603/2)]",0.000003350795985698684
+"[Left board (The National Archives, CO 473/9)]",0.000003350795985698684
+"[Left board (The National Archives, T 20/1220)]",0.000003350795985698684
+"[Left board (The National Archives, PC 6/15)]",0.000003350795985698684
+"[Right board (The National Archives, CO 473/9)]",0.000003350795985698684
+"[Cover (The National Archives, CRIM 10/28)]",0.000003350795985698684
+"[Right board (The National Archives, T 20/1220)]",0.000003350795985698684
+"[Left board (The National Archives, E 405/550)]",0.000003350795985698684
+"[Left board (The National Archives, B 3/5243)]",0.000003350795985698684
+"[Cover (The National Archives, DL 30/603/2)]",0.000003350795985698684
+"[Cover (The National Archives, CO 299/89)]",0.000003350795985698684
+"[Left board (The National Archives, FO 97/341)]",0.000003350795985698684
+"[Left board (The National Archives, ADM 139/1027)]",0.000003350795985698684
+"[Right board (The National Archives, HCA 13/56)]",0.000003350795985698684
+"[Right board (The National Archives, DL 30/603/2)]",0.000003350795985698684
+"[Left board (The National Archives, LC 5/156)]",0.000003350795985698684
+"[Right board (The National Archives, CO 299/89)]",0.000003350795985698684
+"[Cover (The National Archives, ADM 55/32)]",0.000003350795985698684
+"[Right board (The National Archives, RAIL 527/1429)]",0.000003350795985698684
+"[Cover (The National Archives, SP 104/171)]",0.000003350795985698684
+"[Left board (The National Archives, PRO 30/69/1186)]",0.000003350795985698684
+"[Sewing structure (The National Archives, ADM 1/5438)]",0.000003350795985698684
+"[Right board (The National Archives, CRES 40/25A)]",0.000003350795985698684
+"[Right board (The National Archives, E 315/128)]",0.000003350795985698684
+"[Left board (The National Archives, WO 381/11)]",0.000003350795985698684
+"[Right board (The National Archives, FO 97/341)]",0.000003350795985698684
+"[Left board (The National Archives, RAIL 527/1429)]",0.000003350795985698684
+"[Left board (The National Archives, E 36/29)]",0.000003350795985698684
+"[Right board (The National Archives, WO 381/11)]",0.000003350795985698684
+"[Right board (The National Archives, ADM 223/31)]",0.000003350795985698684
+"[Left board (The National Archives, ADM 42/681)]",0.000003350795985698684
+"[Right board (The National Archives, SP 71/19)]",0.000003350795985698684
+"[Left board (The National Archives, CRES 40/25A)]",0.000003350795985698684
+"[Sewing structure (The National Archives, ADM 139/1027)]",0.000003350795985698684
+"[Right board (The National Archives, PRO 30/69/1186)]",0.000003350795985698684
+"[Sewing structure (The National Archives, LC 5/156)]",0.000003350795985698684
+"[Left board (The National Archives, SP 71/19)]",0.000003350795985698684
+"[Left board (The National Archives, HCA 13/56)]",0.000003350795985698684
+"[Left board (The National Archives, ASSI 41/4)]",0.000003350795985698684
+"[Right board (The National Archives, PC 6/15)]",0.000003350795985698684
+"[Left board (The National Archives, ADM 1/5437)]",0.000003350795985698684
+"[Cover (The National Archives, ADM 1/2628)]",0.000003270091134807631
+"[Sewing structure (The National Archives, SP 105/207)]",0.000003270091134807631
+"[Cover (The National Archives, ADM 139/1027)]",0.000003270091134807631
+"[Sewing structure (The National Archives, CO 299/89)]",0.000003270091134807631
+"[Cover (The National Archives, ASSI 41/4)]",0.000003270091134807631
+"[Spine lining (The National Archives, PC 6/15)]",0.000003270091134807631
+"[Sewing structure (The National Archives, CRIM 10/28)]",0.000003270091134807631
+"[New sewing (The National Archives, ADM 37/5039)]",0.000003270091134807631
+"[New sewing (The National Archives, SP 105/207)]",0.000003270091134807631
+"[Sewing structure (The National Archives, CO 5/904)]",0.000003270091134807631
+"[Sewing structure (The National Archives, SP 104/171)]",0.000003270091134807631
+"[Sewing structure (The National Archives, ASSI 41/4)]",0.000003270091134807631
+"[Box space (The National Archives, ADM 1/5437)]",0.000003270091134807631
+"[Sewing structure (The National Archives, ADM 55/32)]",0.000003270091134807631
+"[Sewing structure (The National Archives, ADM 1/2628)]",0.000003270091134807631
+"[Right board (The National Archives, E 36/2)]",0.000003270091134807631
+"[Sewing structure (The National Archives, ADM 139/1025)]",0.000003270091134807631
+"[Sewing structure (The National Archives, CO 31/1)]",0.000003270091134807631
+"[Box space (The National Archives, SP 104/143)]",0.000003270091134807631
+"[Sewing structure (The National Archives, HCA 13/78)]",0.000003270091134807631
+"[New sewing (The National Archives, ADM 42/681)]",0.000003270091134807631
+"[New cover (The National Archives, SP 44/335)]",0.000003270091134807631
+"[Spine lining (The National Archives, HCA 13/78)]",0.000003270091134807631
+"[Right board (The National Archives, SP 105/207)]",0.000003270091134807631
+"[New spine lining (The National Archives, CRIM 10/28)]",0.000003270091134807631
+"[New sewing (The National Archives, ADM 55/107)]",0.000003270091134807631
+"[Sewing structure (The National Archives, ADM 139/1023)]",0.000003270091134807631
+"[Spine lining (The National Archives, RAIL 950/17)]",0.000003270091134807631
+"[Cover (The National Archives, ADM 223/31)]",0.000003270091134807631
+"[New boardsright (The National Archives, SP 105/207)]",0.000003270091134807631
+"[Left board (The National Archives, E 36/2)]",0.000003270091134807631
+"[Cover (The National Archives, E 315/128)]",0.000003270091134807631
+"[New spine lining (The National Archives, RAIL 950/17)]",0.000003270091134807631
+"[Cover (The National Archives, WO 381/11)]",0.000003270091134807631
+"[New cover (The National Archives, ADM 139/1027)]",0.000003270091134807631
+"[Cover (The National Archives, HCA 13/78)]",0.000003270091134807631
+"[Spine lining (The National Archives, ADM 37/5039)]",0.000003270091134807631
+"[Left board (The National Archives, SP 105/207)]",0.000003270091134807631
+"[New sewing (The National Archives, T 20/1220)]",0.000003270091134807631
+"[New sewing (The National Archives, CO 31/1)]",0.000003270091134807631
+"[New sewing (The National Archives, SP 91/14)]",0.000003270091134807631
+"[Spine lining (The National Archives, CRIM 10/28)]",0.000003270091134807631
+"[New cover (The National Archives, ADM 1/2628)]",0.000003270091134807631
+"[Box space (The National Archives, ADM 1/5438)]",0.000003270091134807631
+"[New spine lining (The National Archives, ADM 223/31)]",0.000003270091134807631
+"[Sewing structure (The National Archives, E 405/550)]",0.000003270091134807631
+"[New cover (The National Archives, ADM 55/107)]",0.000003270091134807631
+"[Cover (The National Archives, HCA 13/56)]",0.000003270091134807631
+"[New sewing (The National Archives, DL 30/603/2)]",0.000003270091134807631
+"[Box space (The National Archives, CO 31/1)]",0.000003270091134807631
+"[New hollow (The National Archives, RAIL 950/17)]",0.000003270091134807631
+"[Sewing structure (The National Archives, SP 71/19)]",0.000003270091134807631
+"[New boardsleft (The National Archives, SP 105/207)]",0.000003270091134807631
+"[Sewing structure (The National Archives, WO 381/11)]",0.000003270091134807631
+"[New cover (The National Archives, ADM 139/1023)]",0.000003270091134807631
+"[New sewing (The National Archives, ADM 55/32)]",0.000003270091134807631
+"[Cover (The National Archives, E 405/550)]",0.000003270091134807631
+"[Spine lining (The National Archives, ADM 223/31)]",0.000003270091134807631
+"[Box space (The National Archives, ADM 42/681)]",0.000003270091134807631
+"[New spine lining (The National Archives, PC 6/15)]",0.000003270091134807631
+"[New spine lining (The National Archives, ADM 37/5039)]",0.000003270091134807631
+"[New cover (The National Archives, ADM 139/1025)]",0.000003270091134807631
+"[New sewing (The National Archives, B 3/5243)]",0.000003270091134807631
+"[Shelfmark (The National Archives, ADM 139/1023)]",0.0000031893862839165814
+"[Cover (The National Archives, ADM 55/24)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 1/5437)]",0.0000031893862839165814
+"[Cover (The National Archives, SP 44/335)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, SP 71/19)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, E 36/29)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 37/5039)]",0.0000031893862839165814
+"[Left (The National Archives, ADM 55/32)]",0.0000031893862839165814
+"[Cover (The National Archives, RAIL 950/17)]",0.0000031893862839165814
+"[Bookblock (The National Archives, HCA 13/78)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, CRES 40/25A)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 1/5438)]",0.0000031893862839165814
+"[Left (The National Archives, ADM 55/107)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, E 36/2)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, CRIM 10/28)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 42/681)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, RAIL 950/17)]",0.0000031893862839165814
+"[Cover (The National Archives, ADM 139/1025)]",0.0000031893862839165814
+"[Bookblock (The National Archives, SP 104/171)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, CO 299/89)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 55/24)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 37/5039)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, SP 104/143)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, FO 97/341)]",0.0000031893862839165814
+"[Cover (The National Archives, CO 5/904)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, ADM 55/24)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 223/31)]",0.0000031893862839165814
+"[Bookblock (The National Archives, E 405/550)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, DL 30/603/2)]",0.0000031893862839165814
+"[Right (The National Archives, ADM 55/24)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 1/5437)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, SP 44/335)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 55/107)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, CO 31/1)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, B 3/5243)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, FO 802/607)]",0.0000031893862839165814
+"[Bookblock (The National Archives, CO 31/1)]",0.0000031893862839165814
+"[Right (The National Archives, ADM 139/1023)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ASSI 41/4)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, SP 24/18)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 223/31)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, T 20/1220)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 55/32)]",0.0000031893862839165814
+"[Bookblock (The National Archives, CRIM 10/28)]",0.0000031893862839165814
+"[Right (The National Archives, CO 5/904)]",0.0000031893862839165814
+"[Cover (The National Archives, PC 6/15)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, E 405/550)]",0.0000031893862839165814
+"[Left (The National Archives, ADM 139/1025)]",0.0000031893862839165814
+"[Bookblock (The National Archives, PC 6/15)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, FO 97/341)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 55/107)]",0.0000031893862839165814
+"[Right (The National Archives, ADM 55/107)]",0.0000031893862839165814
+"[Bookblock (The National Archives, CO 299/89)]",0.0000031893862839165814
+"[Cover (The National Archives, CO 473/9)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, PC 6/15)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, E 36/2)]",0.0000031893862839165814
+"[Cover (The National Archives, PRO 30/69/1186)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, HCA 13/56)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, DL 30/603/2)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, RAIL 527/1429)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, FO 802/614)]",0.0000031893862839165814
+"[Left (The National Archives, ADM 55/24)]",0.0000031893862839165814
+"[Bookblock (The National Archives, E 36/2)]",0.0000031893862839165814
+"[Bookblock (The National Archives, WO 381/11)]",0.0000031893862839165814
+"[Cover (The National Archives, SP 24/18)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 139/1027)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, E 315/128)]",0.0000031893862839165814
+"[Bookblock (The National Archives, SP 44/335)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, SP 91/14)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, HCA 13/56)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, SP 24/18)]",0.0000031893862839165814
+"[Bookblock (The National Archives, T 20/1220)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ASSI 41/4)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 55/24)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, PC 6/15)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 1/5438)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 42/681)]",0.0000031893862839165814
+"[Cover (The National Archives, ADM 139/1023)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, SP 44/335)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 139/1023)]",0.0000031893862839165814
+"[Bookblock (The National Archives, SP 105/207)]",0.0000031893862839165814
+"[Bookblock (The National Archives, SP 91/14)]",0.0000031893862839165814
+"[Bookblock (The National Archives, RAIL 950/17)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, HCA 13/78)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, CRES 40/25A)]",0.0000031893862839165814
+"[Bookblock (The National Archives, RAIL 527/1429)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 139/1027)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, LC 5/156)]",0.0000031893862839165814
+"[Right (The National Archives, ADM 139/1025)]",0.0000031893862839165814
+"[Bookblock (The National Archives, CO 473/9)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, FO 802/607)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, SP 91/14)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, RAIL 527/1429)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, SP 104/143)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, PRO 30/69/1186)]",0.0000031893862839165814
+"[Bookblock (The National Archives, SP 24/18)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, SP 104/171)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, ADM 37/5039)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, RAIL 950/17)]",0.0000031893862839165814
+"[Right (The National Archives, ADM 1/2628)]",0.0000031893862839165814
+"[Left (The National Archives, ADM 1/2628)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, CO 473/9)]",0.0000031893862839165814
+"[Bookblock (The National Archives, CRES 40/25A)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, FO 802/614)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, ADM 55/107)]",0.0000031893862839165814
+"[Bookblock (The National Archives, LC 5/156)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, CO 473/9)]",0.0000031893862839165814
+"[Cover (The National Archives, LC 5/156)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, SP 105/207)]",0.0000031893862839165814
+"[Bookblock (The National Archives, SP 71/19)]",0.0000031893862839165814
+"[Bookblock (The National Archives, FO 97/341)]",0.0000031893862839165814
+"[Cover (The National Archives, CRES 40/25A)]",0.0000031893862839165814
+"[Bookblock (The National Archives, HCA 13/56)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, PRO 30/69/1186)]",0.0000031893862839165814
+"[Cover (The National Archives, E 36/29)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 1/2628)]",0.0000031893862839165814
+"[Bookblock (The National Archives, DL 30/603/2)]",0.0000031893862839165814
+"[Bookblock (The National Archives, B 3/5243)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, E 36/29)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 1/2628)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, B 3/5243)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, T 20/1220)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, ADM 223/31)]",0.0000031893862839165814
+"[Bookblock (The National Archives, PRO 30/69/1186)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 139/1025)]",0.0000031893862839165814
+"[Left (The National Archives, CO 5/904)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, CO 5/904)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, ADM 139/1025)]",0.0000031893862839165814
+"[Sewing structure (The National Archives, ADM 42/681)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, E 315/128)]",0.0000031893862839165814
+"[Bookblock (The National Archives, SP 104/143)]",0.0000031893862839165814
+"[Right (The National Archives, ADM 55/32)]",0.0000031893862839165814
+"[Bookblock (The National Archives, E 315/128)]",0.0000031893862839165814
+"[Shelfmark (The National Archives, WO 381/11)]",0.0000031893862839165814
+"[Left (The National Archives, ADM 139/1023)]",0.0000031893862839165814
+"[Bookblock (The National Archives, CO 5/904)]",0.0000031893862839165814
+"[Bookblock (The National Archives, FO 802/607)]",0.0000031893862839165814
+"[Bookblock (The National Archives, FO 802/614)]",0.0000031893862839165814
+"[Bookblock (The National Archives, E 36/29)]",0.0000031893862839165814
+"[Bookblock (The National Archives, ADM 55/32)]",0.0000031893862839165814
+"[Cover (The National Archives, ADM 55/107)]",0.0000031893862839165814
+[mechanical surface cleaning],0.0000016948088437162954
+[boards split],0.00000112987488747894
+[consolidated],0.0000010491700365878893
+[re-backed],8.877603348057878e-7
+[sewing reinforced],7.263506330236861e-7
+[volume pulled],6.456457821326352e-7
+[lined],4.842360803505334e-7
+[box],4.842360803505334e-7
+[original spine reattached],4.842360803505334e-7
+[loose material attached],4.842360803505334e-7
+[leather dressed],4.035312294594826e-7
+[flattened],4.035312294594826e-7
+[guarding],3.2282637856843203e-7
+[paste],2.421215276773811e-7
+[outside joint strengthened],2.421215276773811e-7
+[paste wash],2.421215276773811e-7
+"[Book (The National Archives, WO 69/905)]",1.6256615515227234e-7
+[lifting],1.6141667678633037e-7
+[laminated],1.6141667678633037e-7
+[paper repair],1.6141667678633037e-7
+[new board(s) attached],1.6141667678633037e-7
+[mould cleaned],1.6141667678633037e-7
+"[Book (The National Archives, DL 30/603/2)]",8.186130426122152e-8
+"[Book (The National Archives, E 36/2)]",8.186130426122152e-8
+"[Book (The National Archives, CO 31/1)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 1/2628)]",8.186130426122152e-8
+"[Book (The National Archives, CO 299/89)]",8.186130426122152e-8
+"[Book (The National Archives, SP 71/19)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 1/5438)]",8.186130426122152e-8
+"[Book (The National Archives, WO 381/11)]",8.186130426122152e-8
+"[Book (The National Archives, SP 91/14)]",8.186130426122152e-8
+"[Book (The National Archives, E 36/29)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 139/1025)]",8.186130426122152e-8
+"[Book (The National Archives, SP 24/18)]",8.186130426122152e-8
+"[Book (The National Archives, E 405/550)]",8.186130426122152e-8
+"[Book (The National Archives, CO 473/9)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 139/1027)]",8.186130426122152e-8
+"[Book (The National Archives, E 315/128)]",8.186130426122152e-8
+"[Book (The National Archives, FO 802/614)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 139/1023)]",8.186130426122152e-8
+"[Book (The National Archives, HCA 13/78)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 55/32)]",8.186130426122152e-8
+"[Book (The National Archives, PRO 30/69/1186)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 42/681)]",8.186130426122152e-8
+"[Book (The National Archives, RAIL 950/17)]",8.186130426122152e-8
+"[Book (The National Archives, CRES 40/25A)]",8.186130426122152e-8
+"[Book (The National Archives, PC 6/15)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 223/31)]",8.186130426122152e-8
+"[Book (The National Archives, ASSI 41/4)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 55/24)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 37/5039)]",8.186130426122152e-8
+"[Book (The National Archives, T 20/1220)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 1/5437)]",8.186130426122152e-8
+"[Book (The National Archives, HCA 13/56)]",8.186130426122152e-8
+"[Book (The National Archives, ADM 55/107)]",8.186130426122152e-8
+"[Book (The National Archives, SP 104/143)]",8.186130426122152e-8
+"[Book (The National Archives, RAIL 527/1429)]",8.186130426122152e-8
+"[Book (The National Archives, CRIM 10/28)]",8.186130426122152e-8
+"[Book (The National Archives, SP 105/207)]",8.186130426122152e-8
+"[Book (The National Archives, B 3/5243)]",8.186130426122152e-8
+"[Book (The National Archives, SP 44/335)]",8.186130426122152e-8
+"[Book (The National Archives, CO 5/904)]",8.186130426122152e-8
+"[Book (The National Archives, FO 802/607)]",8.186130426122152e-8
+"[Book (The National Archives, FO 97/341)]",8.186130426122152e-8
+"[Book (The National Archives, LC 5/156)]",8.186130426122152e-8
+"[Book (The National Archives, SP 104/171)]",8.186130426122152e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 55/32)]",8.071182589527955e-8
+"[Spine-folds (The National Archives, DL 30/603/2)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, SP 91/14)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, WO 381/11)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, CO 473/9)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 1/2628)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, SP 24/18)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ASSI 41/4)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, SP 71/19)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 1/5438)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, SP 104/143)]",8.071182589527955e-8
+"[Corners (The National Archives, SP 104/143)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 42/681)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 55/107)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, HCA 13/78)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 139/1023)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, SP 105/207)]",8.071182589527955e-8
+"[Corners (The National Archives, ADM 37/5039)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, CRES 40/25A)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[old repairs removed],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Corners (The National Archives, FO 802/614)]",8.071182589527955e-8
+"[Corners (The National Archives, E 36/2)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, E 36/29)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[rounding],8.071182589527955e-8
+"[Corners (The National Archives, E 36/2)]",8.071182589527955e-8
+"[Corners (The National Archives, CRIM 10/28)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, RAIL 950/17)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Corners (The National Archives, SP 104/143)]",8.071182589527955e-8
+"[Corners (The National Archives, ADM 37/5039)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 139/1027)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 223/31)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Corners (The National Archives, SP 104/143)]",8.071182589527955e-8
+"[Spine-folds (The National Archives, ASSI 41/4)]",8.071182589527955e-8
+"[Corners (The National Archives, CRIM 10/28)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 55/24)]",8.071182589527955e-8
+[infilled/pulp/leafcast],8.071182589527955e-8
+"[Corners (The National Archives, FO 802/607)]",8.071182589527955e-8
+"[Corners (The National Archives, CRIM 10/28)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, E 405/550)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, E 315/128)]",8.071182589527955e-8
+"[Outer joints (The National Archives, HCA 13/56)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, B 3/5243)]",8.071182589527955e-8
+"[Corners (The National Archives, FO 802/614)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, CO 31/1)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Outer joints (The National Archives, B 3/5243)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, SP 44/335)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Corners (The National Archives, E 36/2)]",8.071182589527955e-8
+"[Corners (The National Archives, ADM 37/5039)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Corners (The National Archives, FO 802/607)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, PRO 30/69/1186)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, CRIM 10/28)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, DL 30/603/2)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, PC 6/15)]",8.071182589527955e-8
+[original cover reattached],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 139/1025)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 37/5039)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, E 36/2)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, SP 104/171)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, FO 97/341)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, CO 299/89)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, CO 5/904)]",8.071182589527955e-8
+"[Corners (The National Archives, FO 802/607)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Outer joints (The National Archives, E 405/550)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, RAIL 527/1429)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, FO 802/614)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Corners (The National Archives, FO 802/614)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, FO 802/607)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Spine-folds (The National Archives, CRIM 10/28)]",8.071182589527955e-8
+[washing],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, T 20/1220)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, LC 5/156)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, ADM 1/5437)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, WO 69/905)]",8.071182589527955e-8
+"[Conservation treatment decade (The National Archives, HCA 13/56)]",8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[Conservator],8.071182589527955e-8
+[conservation (process)],5.173350147161863e-8
+[Shoufu],2.8743934152778676e-8
+[Japanese paper],2.6444977420894684e-8
+[Swift],1.1501758663648711e-8
+[Animal glue],9.202801931764711e-9
+[Klucel G],8.053323565822712e-9
+[Book cloth],8.053323565822712e-9
+[Aero cotton],6.903845199880715e-9
+[Aero linen],6.903845199880715e-9
+[Linen],6.903845199880715e-9
+[Buckram],5.754366833938722e-9
+[Neatsfoot],5.754366833938722e-9
+[Propan-2-ol],5.754366833938722e-9
+[Gelatin - not specified],5.754366833938722e-9
+[Leather - calf],5.754366833938722e-9
+[Anhydrous lanolin],4.604888467996719e-9
+[Minogami Usukuchi K36 25 gsm],4.604888467996719e-9
+[PVA],4.604888467996719e-9
+[Clam],4.604888467996719e-9
+[Western paper - not specified],4.604888467996719e-9
+[Linen tape],4.604888467996719e-9
+[Smoke sponge],4.604888467996719e-9
+[Cotton tying tape],3.4554101020547214e-9
+[Hot glue],3.4554101020547214e-9
+[Distilled Water],3.4554101020547214e-9
+[Methyl cellulose - not specified],3.4554101020547214e-9
+[Renaissance wax],3.4554101020547214e-9
+[Archival rag endleaf],3.4554101020547214e-9
+[Hemp cord],3.4554101020547214e-9
+[Vellum calf skin],3.4554101020547214e-9
+[Linen thread 16/2 hard satin],2.3059317361127226e-9
+[Beeswax],2.3059317361127226e-9
+[Archival cover paper - sand colour],2.3059317361127226e-9
+[Archival cover paper - grey colour (350 gsm)],2.3059317361127226e-9
+[Tengujo 1907/1002 11 gsm],2.3059317361127226e-9
+[Leather - goat],2.3059317361127226e-9
+[Cartasol dyes],2.3059317361127226e-9
+[Sekishu Shi 31 gsm],2.3059317361127226e-9
+[Archival Kraft paper],2.3059317361127226e-9
+[Polyester 75 micron],2.3059317361127226e-9
+[Kozo RK-00 3.6 gsm],2.3059317361127226e-9
+[Magnesium hydroxide],2.3059317361127226e-9
+[Area bonded fibre],2.3059317361127226e-9
+"[Conservation assessment (The National Archives, WO 69/905)]",2.3059317361127226e-9
+[Fraynot cloth],2.3059317361127226e-9
+"[Modification of The National Archives, FO 802/614]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/56]",1.156453370170725e-9
+"[Modification of The National Archives, CO 299/89]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 223/31]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, E 36/2)]",1.156453370170725e-9
+"[Addition to The National Archives, ASSI 41/4]",1.156453370170725e-9
+"[Addition to The National Archives, CO 299/89]",1.156453370170725e-9
+"[Modification of The National Archives, CO 299/89]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Addition to The National Archives, SP 24/18]",1.156453370170725e-9
+"[Addition to The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Addition to The National Archives, E 36/2]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 55/32]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ASSI 41/4)]",1.156453370170725e-9
+"[Modification of The National Archives, E 405/550]",1.156453370170725e-9
+"[Modification of The National Archives, E 36/29]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/143]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/614]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1023]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/56]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, FO 97/341)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, CRES 40/25A]",1.156453370170725e-9
+"[Box (The National Archives, ADM 1/5437)]",1.156453370170725e-9
+"[Removal from The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Addition to The National Archives, SP 44/335]",1.156453370170725e-9
+[Texicryl bonded fibre],1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1023]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 1/5437)]",1.156453370170725e-9
+"[Modification of The National Archives, WO 69/905]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 1/2628)]",1.156453370170725e-9
+"[Box (The National Archives, SP 104/143)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 24/18]",1.156453370170725e-9
+"[Addition to The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Addition to The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Modification of The National Archives, SP 44/335]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, E 315/128)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Modification of The National Archives, SP 24/18]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 55/32]",1.156453370170725e-9
+"[Modification of The National Archives, SP 105/207]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, LC 5/156)]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, CO 473/9]",1.156453370170725e-9
+"[Modification of The National Archives, SP 44/335]",1.156453370170725e-9
+"[Modification of The National Archives, WO 69/905]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1027]",1.156453370170725e-9
+[Museum Board - not specified],1.156453370170725e-9
+"[Addition to The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Modification of The National Archives, CO 299/89]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 37/5039)]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 55/32]",1.156453370170725e-9
+"[Modification of The National Archives, WO 69/905]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, CRIM 10/28)]",1.156453370170725e-9
+"[Modification of The National Archives, PRO 30/69/1186]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Addition to The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 139/1027)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 223/31]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, E 315/128)]",1.156453370170725e-9
+"[Modification of The National Archives, CO 473/9]",1.156453370170725e-9
+"[Addition to The National Archives, T 20/1220]",1.156453370170725e-9
+"[Addition to The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Removal from The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, LC 5/156]",1.156453370170725e-9
+"[Modification of The National Archives, E 36/29]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, E 315/128]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 139/1023)]",1.156453370170725e-9
+"[Addition to The National Archives, SP 104/171]",1.156453370170725e-9
+"[Addition to The National Archives, WO 69/905]",1.156453370170725e-9
+"[Modification of The National Archives, WO 69/905]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, PC 6/15]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Addition to The National Archives, SP 24/18]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 55/32]",1.156453370170725e-9
+"[Addition to The National Archives, E 36/29]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 55/107]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Modification of The National Archives, SP 105/207]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, CO 5/904)]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Modification of The National Archives, ASSI 41/4]",1.156453370170725e-9
+"[Modification of The National Archives, LC 5/156]",1.156453370170725e-9
+"[Modification of The National Archives, CO 299/89]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, SP 44/335)]",1.156453370170725e-9
+[Gelatin food grade],1.156453370170725e-9
+"[Modification of The National Archives, CO 299/89]",1.156453370170725e-9
+"[Modification of The National Archives, E 405/550]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/614]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, CRES 40/25A)]",1.156453370170725e-9
+"[Removal from The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, E 405/550)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 44/335]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Modification of The National Archives, WO 69/905]",1.156453370170725e-9
+"[Addition to The National Archives, T 20/1220]",1.156453370170725e-9
+"[Addition to The National Archives, SP 24/18]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Removal from The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, CO 299/89]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1023]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, B 3/5243)]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/56]",1.156453370170725e-9
+"[Addition to The National Archives, T 20/1220]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, CO 31/1)]",1.156453370170725e-9
+"[Addition to The National Archives, T 20/1220]",1.156453370170725e-9
+"[Addition to The National Archives, ASSI 41/4]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 950/17]",1.156453370170725e-9
+[Acrylic paints],1.156453370170725e-9
+"[Modification of The National Archives, E 36/2]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, SP 105/207)]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/56]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 1/5437)]",1.156453370170725e-9
+[Plastazote foam],1.156453370170725e-9
+"[Conservation treatment date (The National Archives, CO 473/9)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Modification of The National Archives, E 405/550]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/56]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, DL 30/603/2)]",1.156453370170725e-9
+"[Addition to The National Archives, SP 104/171]",1.156453370170725e-9
+"[Modification of The National Archives, SP 91/14]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Modification of The National Archives, PC 6/15]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 223/31)]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/614]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Addition to The National Archives, E 405/550]",1.156453370170725e-9
+[Leather - pig],1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Modification of The National Archives, WO 69/905]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, PC 6/15)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 223/31]",1.156453370170725e-9
+"[Addition to The National Archives, E 405/550]",1.156453370170725e-9
+[Magnesium Bicarbonate],1.156453370170725e-9
+"[Addition to The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Addition to The National Archives, SP 24/18]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 223/31]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/614]",1.156453370170725e-9
+"[Addition to The National Archives, E 36/29]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, CRIM 10/28)]",1.156453370170725e-9
+"[Removal from The National Archives, WO 69/905]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, HCA 13/56)]",1.156453370170725e-9
+"[Addition to The National Archives, ASSI 41/4]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 1/2628)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 91/14]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, PRO 30/69/1186)]",1.156453370170725e-9
+"[Box (The National Archives, CO 31/1)]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1025]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 139/1025)]",1.156453370170725e-9
+"[Removal from The National Archives, WO 69/905]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Modification of The National Archives, LC 5/156]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Addition to The National Archives, E 405/550]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1025]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Box (The National Archives, ADM 1/5438)]",1.156453370170725e-9
+"[Modification of The National Archives, FO 97/341]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 527/1429]",1.156453370170725e-9
+"[Modification of The National Archives, SP 105/207]",1.156453370170725e-9
+"[Addition to The National Archives, SP 44/335]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Modification of The National Archives, SP 105/207]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/2628]",1.156453370170725e-9
+[Sanford magic rub eraser],1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1023]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 55/32)]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Addition to The National Archives, B 3/5243]",1.156453370170725e-9
+"[Removal from The National Archives, ADM 55/32]",1.156453370170725e-9
+"[Modification of The National Archives, LC 5/156]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, E 36/29)]",1.156453370170725e-9
+"[Modification of The National Archives, PRO 30/69/1186]",1.156453370170725e-9
+"[Modification of The National Archives, LC 5/156]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/143]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Addition to The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, WO 69/905]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, RAIL 950/17)]",1.156453370170725e-9
+"[Modification of The National Archives, E 405/550]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Modification of The National Archives, PC 6/15]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Modification of The National Archives, E 315/128]",1.156453370170725e-9
+"[Modification of The National Archives, LC 5/156]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+[Alum tawed - not specified],1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Modification of The National Archives, ASSI 41/4]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 37/5039)]",1.156453370170725e-9
+"[Removal from The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Modification of The National Archives, FO 97/341]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Addition to The National Archives, SP 104/171]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, T 20/1220)]",1.156453370170725e-9
+"[Modification of The National Archives, CO 5/904]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 223/31]",1.156453370170725e-9
+"[Addition to The National Archives, SP 104/171]",1.156453370170725e-9
+"[Modification of The National Archives, SP 44/335]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+[Linen thread 16/5 hard satin],1.156453370170725e-9
+"[Modification of The National Archives, ASSI 41/4]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Modification of The National Archives, PC 6/15]",1.156453370170725e-9
+"[Removal from The National Archives, SP 105/207]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ASSI 41/4)]",1.156453370170725e-9
+"[Addition to The National Archives, SP 104/143]",1.156453370170725e-9
+[Isinglass],1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1023]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Addition to The National Archives, CO 31/1]",1.156453370170725e-9
+"[Removal from The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Modification of The National Archives, E 36/29]",1.156453370170725e-9
+"[Addition to The National Archives, PC 6/15]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, SP 44/335)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, SP 104/171)]",1.156453370170725e-9
+"[Modification of The National Archives, E 405/550]",1.156453370170725e-9
+"[Addition to The National Archives, PC 6/15]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 139/1027)]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, FO 802/607)]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Modification of The National Archives, E 36/2]",1.156453370170725e-9
+"[Addition to The National Archives, E 36/29]",1.156453370170725e-9
+"[Modification of The National Archives, SP 91/14]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, PC 6/15)]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 527/1429]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Addition to The National Archives, SP 24/18]",1.156453370170725e-9
+"[Modification of The National Archives, CO 299/89]",1.156453370170725e-9
+"[Modification of The National Archives, CO 473/9]",1.156453370170725e-9
+"[Modification of The National Archives, FO 97/341]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Modification of The National Archives, CO 473/9]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 1/5438)]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, SP 104/143)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/2628]",1.156453370170725e-9
+"[Addition to The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Modification of The National Archives, FO 97/341]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 55/107)]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, CO 299/89)]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1025]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/56]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 55/24)]",1.156453370170725e-9
+[Linen thread 16/3 satin],1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, E 36/2]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/143]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/143]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1025]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 527/1429]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/614]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, FO 97/341]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 42/681)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Modification of The National Archives, WO 69/905]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/614]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, SP 24/18)]",1.156453370170725e-9
+"[Addition to The National Archives, SP 104/171]",1.156453370170725e-9
+"[Addition to The National Archives, CO 5/904]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1025]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 223/31]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 527/1429]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 42/681)]",1.156453370170725e-9
+"[Addition to The National Archives, CO 5/904]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 223/31]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Addition to The National Archives, SP 24/18]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/143]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, PRO 30/69/1186)]",1.156453370170725e-9
+"[Removal from The National Archives, ADM 223/31]",1.156453370170725e-9
+"[Modification of The National Archives, E 315/128]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Modification of The National Archives, FO 97/341]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, SP 91/14)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, HCA 13/78)]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 55/32)]",1.156453370170725e-9
+[Woolfat],1.156453370170725e-9
+"[Addition to The National Archives, SP 105/207]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, SP 71/19)]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, WO 69/905)]",1.156453370170725e-9
+"[Addition to The National Archives, SP 91/14]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Addition to The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Addition to The National Archives, CO 5/904]",1.156453370170725e-9
+"[Box (The National Archives, WO 69/905)]",1.156453370170725e-9
+[Mould made cream laid 22lb],1.156453370170725e-9
+"[Addition to The National Archives, E 36/29]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, RAIL 950/17)]",1.156453370170725e-9
+"[Modification of The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, CO 299/89]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, E 36/2)]",1.156453370170725e-9
+"[Modification of The National Archives, E 405/550]",1.156453370170725e-9
+"[Removal from The National Archives, SP 105/207]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, RAIL 527/1429)]",1.156453370170725e-9
+"[Addition to The National Archives, SP 105/207]",1.156453370170725e-9
+"[Modification of The National Archives, SP 24/18]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 55/32]",1.156453370170725e-9
+"[Modification of The National Archives, PRO 30/69/1186]",1.156453370170725e-9
+"[Modification of The National Archives, SP 91/14]",1.156453370170725e-9
+"[Addition to The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Addition to The National Archives, E 36/29]",1.156453370170725e-9
+"[Modification of The National Archives, SP 24/18]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, SP 91/14]",1.156453370170725e-9
+"[Modification of The National Archives, SP 44/335]",1.156453370170725e-9
+"[Box (The National Archives, ADM 42/681)]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Modification of The National Archives, CRES 40/25A]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, DL 30/603/2)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, HCA 13/56)]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 527/1429]",1.156453370170725e-9
+[Polyester sleeve (A4)],1.156453370170725e-9
+"[Conservation treatment date (The National Archives, SP 104/143)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, RAIL 527/1429)]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/614]",1.156453370170725e-9
+[Foam-core],1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/2628]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+"[Modification of The National Archives, CO 473/9]",1.156453370170725e-9
+"[Addition to The National Archives, SP 44/335]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Removal from The National Archives, PC 6/15]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 527/1429]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/2628]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Addition to The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/2628]",1.156453370170725e-9
+"[Modification of The National Archives, PC 6/15]",1.156453370170725e-9
+"[Removal from The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, E 36/2]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1025]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Modification of The National Archives, SP 91/14]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, FO 802/607)]",1.156453370170725e-9
+"[Modification of The National Archives, B 3/5243]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 42/681]",1.156453370170725e-9
+"[Modification of The National Archives, SP 24/18]",1.156453370170725e-9
+"[Addition to The National Archives, SP 44/335]",1.156453370170725e-9
+"[Modification of The National Archives, CRIM 10/28]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 55/107)]",1.156453370170725e-9
+"[Addition to The National Archives, DL 30/603/2]",1.156453370170725e-9
+[Lissapol],1.156453370170725e-9
+"[Modification of The National Archives, FO 97/341]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Addition to The National Archives, SP 24/18]",1.156453370170725e-9
+"[Addition to The National Archives, SP 24/18]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+[Rag endleaf - 120 gsm],1.156453370170725e-9
+"[Modification of The National Archives, SP 104/143]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 223/31)]",1.156453370170725e-9
+"[Addition to The National Archives, RAIL 527/1429]",1.156453370170725e-9
+"[Modification of The National Archives, SP 91/14]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, B 3/5243)]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, CO 31/1)]",1.156453370170725e-9
+"[Modification of The National Archives, PRO 30/69/1186]",1.156453370170725e-9
+"[Modification of The National Archives, ASSI 41/4]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/614]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 1/2628]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, FO 802/614)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, CO 5/904)]",1.156453370170725e-9
+"[Addition to The National Archives, SP 105/207]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/143]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, WO 381/11)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, HCA 13/78)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+[Rice starch paste],1.156453370170725e-9
+"[Addition to The National Archives, T 20/1220]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Modification of The National Archives, SP 24/18]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+"[Addition to The National Archives, SP 91/14]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 1/5438)]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, LC 5/156)]",1.156453370170725e-9
+"[Addition to The National Archives, CO 5/904]",1.156453370170725e-9
+"[Modification of The National Archives, CRES 40/25A]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Modification of The National Archives, SP 91/14]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Addition to The National Archives, E 405/550]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 223/31]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, CO 473/9)]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, T 20/1220)]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, SP 91/14)]",1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Modification of The National Archives, E 315/128]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Modification of The National Archives, ASSI 41/4]",1.156453370170725e-9
+[Mull],1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 527/1429]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Modification of The National Archives, PC 6/15]",1.156453370170725e-9
+"[Modification of The National Archives, FO 802/607]",1.156453370170725e-9
+"[Modification of The National Archives, ASSI 41/4]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1023]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/143]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, SP 105/207)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 105/207]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, E 36/29)]",1.156453370170725e-9
+"[Modification of The National Archives, ASSI 41/4]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1027]",1.156453370170725e-9
+"[Addition to The National Archives, DL 30/603/2]",1.156453370170725e-9
+"[Modification of The National Archives, WO 381/11]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1023]",1.156453370170725e-9
+"[Modification of The National Archives, PC 6/15]",1.156453370170725e-9
+"[Modification of The National Archives, SP 44/335]",1.156453370170725e-9
+"[Modification of The National Archives, E 405/550]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 55/107]",1.156453370170725e-9
+[Kozushi 23 gsm],1.156453370170725e-9
+"[Modification of The National Archives, HCA 13/78]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Modification of The National Archives, E 36/29]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, FO 802/614)]",1.156453370170725e-9
+"[Modification of The National Archives, CRES 40/25A]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 527/1429]",1.156453370170725e-9
+"[Removal from The National Archives, WO 69/905]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, SP 104/171)]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, FO 97/341)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 55/107]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/143]",1.156453370170725e-9
+"[Addition to The National Archives, ASSI 41/4]",1.156453370170725e-9
+[Bodleian handmade laid paper 20lb],1.156453370170725e-9
+"[Conservation assessment (The National Archives, SP 24/18)]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, WO 381/11)]",1.156453370170725e-9
+"[Modification of The National Archives, E 315/128]",1.156453370170725e-9
+"[Modification of The National Archives, E 405/550]",1.156453370170725e-9
+"[Addition to The National Archives, FO 802/607]",1.156453370170725e-9
+[Starch wheat],1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 139/1025)]",1.156453370170725e-9
+"[Addition to The National Archives, ADM 139/1023]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5437]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1025]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 37/5039]",1.156453370170725e-9
+"[Modification of The National Archives, WO 69/905]",1.156453370170725e-9
+"[Modification of The National Archives, E 36/2]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, ADM 55/24)]",1.156453370170725e-9
+"[Modification of The National Archives, SP 71/19]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 1/5438]",1.156453370170725e-9
+"[Conservation treatment date (The National Archives, SP 71/19)]",1.156453370170725e-9
+"[Modification of The National Archives, ADM 139/1023]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, CRES 40/25A)]",1.156453370170725e-9
+"[Modification of The National Archives, CO 31/1]",1.156453370170725e-9
+"[Addition to The National Archives, SP 44/335]",1.156453370170725e-9
+"[Modification of The National Archives, E 36/2]",1.156453370170725e-9
+"[Modification of The National Archives, T 20/1220]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 527/1429]",1.156453370170725e-9
+"[Removal from The National Archives, ADM 55/32]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, CO 299/89)]",1.156453370170725e-9
+"[Modification of The National Archives, RAIL 950/17]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, ADM 139/1023)]",1.156453370170725e-9
+"[Conservation assessment (The National Archives, E 405/550)]",1.156453370170725e-9
+"[Modification of The National Archives, FO 97/341]",1.156453370170725e-9
+"[Modification of The National Archives, SP 104/171]",1.156453370170725e-9
+"[Conservation Report (The National Archives, PC 6/15)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, T 20/1220)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, SP 91/14)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, CO 5/904)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, SP 44/335)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, DL 30/603/2)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, LC 5/156)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 55/107)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, HCA 13/56)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, HCA 13/78)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, CO 5/904)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, WO 69/905)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, DL 30/603/2)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 1/2628)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, SP 71/19)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, E 36/29)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, FO 802/614)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, CO 473/9)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 1/2628)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 55/107)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 139/1027)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, E 405/550)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, PC 6/15)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, CO 31/1)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 223/31)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 1/5438)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 1/5438)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, T 20/1220)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, SP 71/19)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, FO 802/607)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, FO 97/341)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, B 3/5243)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 139/1025)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ASSI 41/4)]",6.975004228727349e-12
+"[Previous repair (The National Archives, WO 69/905)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, SP 24/18)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 1/5437)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, RAIL 950/17)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, FO 802/607)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, CO 299/89)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, SP 104/171)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, CO 473/9)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, E 36/2)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 55/32)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, E 405/550)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, E 36/2)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 55/24)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 1/5437)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, CRES 40/25A)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, CRES 40/25A)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, SP 105/207)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, SP 105/207)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, E 36/29)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, LC 5/156)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, E 315/128)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 42/681)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, HCA 13/56)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, RAIL 527/1429)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, FO 97/341)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, SP 104/171)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 55/24)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, CRIM 10/28)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, PRO 30/69/1186)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, CO 31/1)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 223/31)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ASSI 41/4)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, WO 69/905)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, PRO 30/69/1186)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, FO 802/614)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 42/681)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 37/5039)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 139/1027)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, HCA 13/78)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, SP 104/143)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 55/32)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, B 3/5243)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 139/1023)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, SP 104/143)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 139/1025)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, SP 24/18)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, SP 91/14)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, RAIL 950/17)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, WO 381/11)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, ADM 139/1023)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, E 315/128)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, WO 381/11)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, CRIM 10/28)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, ADM 37/5039)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, SP 44/335)]",6.975004228727349e-12
+"[Conservation Report (The National Archives, CO 299/89)]",6.975004228727349e-12
+"[Main conservation event (The National Archives, RAIL 527/1429)]",6.975004228727349e-12
