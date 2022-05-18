@@ -7,7 +7,7 @@
 //******* :TreatmentEvent nodes. ********
 //This Load procedure creates a single :TreatmentEvent node per row directly from the .csv, with each column header added as a property key for the corresponding value. 
 
-LOAD CSV WITH HEADERS FROM 'file:///TNA2022.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 CREATE (n:TreatmentEvent 
 {rowID:row.RowID,   //Adding rowID ensures subsequent matching is more unique. This column needs to be done in pre-processing.
 reference:row.Reference,
@@ -39,7 +39,7 @@ SET a.dateRequested = date(a.dateRequested);
 //******* :Adhesive :Material nodes ***********
 //Neo4j supports multiple labels.  
 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row, split(row.Adhesives, ",") AS adhesives
 UNWIND adhesives AS adhesive
 MERGE (n:Adhesive :Material {reference: row.Reference,
@@ -50,7 +50,7 @@ rowID:row.RowID});
 
 //******* :RepairMaterial :Material nodes ***********  
 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row, split(row.RepairMaterial, ",") AS repairMaterials
 UNWIND repairMaterials AS repairMaterial
 MERGE (n:RepairMaterial :Material {reference: row.Reference,
@@ -61,7 +61,7 @@ rowID:row.RowID});
 
 //******* :Solvent :Material nodes ***********  
 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row, split(row.Solvents, ",") AS solvents
 UNWIND solvents AS solvent
 MERGE (n:Solvent :Material {reference: row.Reference,
@@ -72,7 +72,7 @@ rowID:row.RowID});
 
 //******* :WorkTime nodes *********** 
 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row WHERE NOT row.Time IS null
 MERGE(a:WorkTime {workTime: row.Time, reference: row.Reference,
 rowID:row.RowID});
@@ -81,7 +81,7 @@ rowID:row.RowID});
 
 //******* :PrimaryDamage nodes *********** 
 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row WHERE NOT row.Primarydamage IS null
 MERGE(a:PrimaryDamage {primaryDamage: row.Primarydamage, reference: row.Reference,
 rowID:row.RowID});
@@ -90,7 +90,7 @@ rowID:row.RowID});
 
 //******* :SecondaryDamage nodes *********** 
 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row WHERE NOT row.Secondarydamage IS null
 MERGE(a:SecondaryDamage {secondaryDamage: row.Secondarydamage, reference: row.Reference,
 rowID:row.RowID});
@@ -99,7 +99,7 @@ rowID:row.RowID});
 
 //******* :DateTreated nodes *********** 
 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row WHERE NOT row.Datetreated IS null
 MERGE(a:DateTreated {dateTreated: row.Datetreated, reference: row.Reference,
 rowID:row.RowID});
@@ -114,7 +114,7 @@ SET a.dateTreated = date(a.dateTreated)
 
 //******* :DateRequested nodes *********** 
 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row WHERE NOT row.Daterequested IS null
 MERGE(a:DateRequested {dateRequested: row.Daterequested, reference: row.Reference,
 rowID:row.RowID})
@@ -127,7 +127,7 @@ SET a.dateRequested = date(a.dateRequested)
 //results =  112 properties set
 
 //******* :Comments nodes *********** 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row WHERE NOT row.Comments IS null
 MERGE(a:Comments {comments: row.Comments, reference: row.Reference,
 rowID:row.RowID});
@@ -136,7 +136,7 @@ rowID:row.RowID});
 
 //******* :ConditionComments nodes *********** 
 
-LOAD CSV WITH HEADERS FROM 'file:///TNAcombined2021.csv' AS row
+LOAD CSV WITH HEADERS FROM 'file:///TNA.csv' AS row
 WITH row WHERE NOT row.Conditioncomments IS null
 MERGE(a:ConditionComments {conditionComments: row.Conditioncomments, reference: row.Reference,
 rowID:row.RowID});
