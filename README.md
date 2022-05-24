@@ -21,15 +21,15 @@ Misc | Script snippets or derivations of those used in the main research that ma
 
 ### Versions & Plugins
 
-The PhD project ran from 2018 - 2022.  During this time, the Neo4j platform was used and incrementally upgraded as new versions were released. All Cypher code in this repo is compatible up to these latest versions.  
+The PhD project ran from 2018 - 2022.  During this time, the [Neo4j](https://neo4j.com/) platform was used and incrementally upgraded as new versions were released. All Cypher code in this repo is compatible up to these latest versions.  For the latest compatibility documentation, see the relevant official manuals.
 
-Neo4j Enterprise 4.3.5 - 4.4.7
+Neo4j Enterprise v.4.3.5 - 4.4.7  bundled with Cypher Query Language (see [Cypher Manual](https://neo4j.com/docs/cypher-manual/current/))
 
-Plugins |
-------------- | 
-APOC v.4.4.0.5  | 
-GDSL (Graph Data Science Library) v.2.0.4 |
-Neosemantics v. 4.4.0.1 |
+Plugins | Official Manuals
+------------- | ------------- 
+APOC v.4.4.0.5  | [APOC User Guide](https://neo4j.com/labs/apoc/4.4/)
+GDSL (Graph Data Science Library) v.2.0.4 | [Graph Data Science Manual](https://neo4j.com/docs/graph-data-science/current/)
+Neosemantics v. 4.4.0.1 | [Neosemantics User Guide](https://neo4j.com/labs/neosemantics/4.3/)
 
 ### DBMS Configs
 
