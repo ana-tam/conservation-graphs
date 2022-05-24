@@ -1,12 +1,12 @@
-Querying the Phase 1 DBMS
-================
+# Querying the Phase 1 DBMS
+
 
 Example queries for the Phase 1 DBMS / LPG model.
 
 
 ---
 
-# The Materials Graph
+## The Materials Graph
 Results in a graph of every instance of :Materials used in all :TreatmentEvents centralised around the more general :TNAMaterials nodes where high-frequency use form larger clusters.
 
 [MaterialsGraph.cypher](./MaterialsGraph.cypher)
@@ -23,5 +23,5 @@ includes:
 
 ---
 
-# The Temporal Graph
+## The Temporal Graph
 
