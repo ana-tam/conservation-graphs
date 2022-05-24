@@ -21,7 +21,7 @@ Misc | Script snippets or derivations of those used in the main research that ma
 
 ### Versions & Plugins
 
-The PhD project ran from 2018 - 2022.  During this time, the [Neo4j](https://neo4j.com/) platform was used and incrementally upgraded as new versions were released. All Cypher code in this repo is compatible up to these latest versions.  For the latest compatibility documentation, see the relevant official manuals.
+The PhD project ran from 2018 - 2022.  During this time, the [Neo4j](https://neo4j.com/) platform was used and incrementally upgraded as new versions were released. All Cypher code in this repository is compatible up to these latest versions.  For the latest compatibility documentation, see the relevant official manuals.  All graph algorithms were executed in .stream mode which produces results but does not write to nor makes any changes to the dbms. 
 
 Neo4j Enterprise v.4.3.5 - 4.4.7  bundled with Cypher Query Language (see [Cypher Manual](https://neo4j.com/docs/cypher-manual/current/))
 
