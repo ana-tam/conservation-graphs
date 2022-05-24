@@ -17,6 +17,31 @@ Phase 3 | Revised build (ETL) scripts, graph algorithms scripts (Cypher), valida
 Misc | Script snippets or derivations of those used in the main research that may be of interest to the community.
 
 
+## Neo4j 
+
+### Versions & Plugins
+
+The PhD project ran from 2018 - 2022.  During this time, the Neo4j platform was used and incrementally upgraded as new versions were released. All Cypher code in this repo is compatible up to these latest versions.  
+
+Neo4j Enterprise 4.3.5 - 4.4.7
+
+Plugins |
+------------- | 
+APOC v.4.4.0.5  | 
+GDSL (Graph Data Science Library) v.2.0.4 |
+Neosemantics v. 4.4.0.1 |
+
+### DBMS Configs
+
+To ensure the above plugins are configured properly to allow loading from json in APOC and RDF in Neosemantics, copy and paste the following into the Settings file (aka .conf in older versions):
+
+```
+#Apoc config [today’s date]
+apoc.import.file.enabled=true
+#Neosemantics config [today’s date]
+dbms.unmanaged_extension_classes=n10s.endpoint=/rdf
+```
+
 ## Cite
 
 For the PhD Thesis:  
