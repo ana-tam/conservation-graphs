@@ -151,7 +151,10 @@ MERGE (b)-[s:RECORDED_DURING]->(a);
  
 LOAD CSV WITH HEADERS FROM 'file:///Person_anon.csv' AS row
 CREATE (n:Person:CCD
-{name:row.Person})
+{name:row.Person});
+
+// results = Added 40 labels, created 20 nodes, set 20 properties, completed after 33 ms
+
 Match (a:TreatmentEvent), (b:Person)
 WHERE a.person = b.name
 MERGE (a)-[r:WAS_TREATED_BY]->(b)
