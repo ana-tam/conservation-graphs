@@ -1,6 +1,6 @@
 //Scripts to load the TNA dataset in a star-schema into Neo4j from .csv
 //Each section (seperated by //*** ) creates different labelled nodes or relationships.
-//Lines 6 - 145 contain scripts for creating nodes from the primary TNA dataset.
+//Lines 6 - 145 contain scripts for creating nodes from the principle conservation TNA dataset.
 //Lines 144 - onwards contain scripts for creating bi-directional relationships (edges) between nodes.  
 
 
