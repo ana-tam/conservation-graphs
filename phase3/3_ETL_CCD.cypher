@@ -27,7 +27,7 @@ comments:row.Comments});
 //Uncomment the Return statement and delete the semicolon in preceeding line to see the results if copy and pasting a section at a time.  
 //The semicolon signals the end of the script.  
 
-//results = added 5851 labels, created 5851 nodes, set 34549 properties
+//results = Added 11702 labels, created 5851 nodes, set 34549 properties, completed after 1074 ms.
 
 //Setting time to float; date to date
 MATCH (a:TreatmentEvent)  
@@ -47,7 +47,7 @@ MERGE (n:Adhesive:Material:CCD {reference: row.Reference,
 name: adhesive,
 rowID:row.RowID});
 
-//results = added 241 labels, created 241 nodes, 723 properties
+//results = Added 723 labels, created 241 nodes, set 723 properties, completed after 395 ms.
 
 //******* :RepairMaterial :Material :CCD nodes ***********  
 
@@ -58,7 +58,7 @@ MERGE (n:RepairMaterial:Material:CCD {reference: row.Reference,
 name: repairMaterial,
 rowID:row.RowID});
 
-//result = 543 nodes, 1629 properties
+//result = Added 1629 labels, created 543 nodes, set 1629 properties, completed after 297 ms.
 
 //******* :Solvent :Material :CCD nodes ***********  
 
@@ -69,7 +69,7 @@ MERGE (n:Solvent :Material:CCD {reference: row.Reference,
 name: solvent,
 rowID:row.RowID});
 
-//results = 23 nodes, 69 properties
+//results = Added 69 labels, created 23 nodes, set 69 properties, completed after 83 ms.
 
 
 //******* :PrimaryDamage :CCD nodes *********** 
@@ -79,7 +79,7 @@ WITH row WHERE NOT row.Primarydamage IS null
 MERGE(a:PrimaryDamage :CCD {primaryDamage: row.Primarydamage, reference: row.Reference,
 rowID:row.RowID});
 
-//results = 3834 labels, 3834 nodes, 11502 properties
+//results = Added 7668 labels, created 3834 nodes, set 11502 properties, completed after 3754 ms.
 
 //******* :SecondaryDamage :CCD nodes *********** 
 
@@ -88,7 +88,7 @@ WITH row WHERE NOT row.Secondarydamage IS null
 MERGE(a:SecondaryDamage :CCD {secondaryDamage: row.Secondarydamage, reference: row.Reference,
 rowID:row.RowID});
 
-// results = 1588 label, 1588 node, 4764 properties
+// results = Added 3176 labels, created 1588 nodes, set 4764 properties, completed after 930 ms.
 
 
 
@@ -98,7 +98,7 @@ WITH row WHERE NOT row.Comments IS null
 MERGE(a:Comments :CCD {comments: row.Comments, reference: row.Reference,
 rowID:row.RowID});
 
-//results = 2895 labels, 2895 nodes, 8685 properties
+//results = Added 5790 labels, created 2895 nodes, set 8685 properties, completed after 1326 ms.
 
 //******* :ConditionComments nodes *********** 
 
@@ -107,7 +107,7 @@ WITH row WHERE NOT row.Conditioncomments IS null
 MERGE(a:ConditionComments :CCD {conditionComments: row.Conditioncomments, reference: row.Reference,
 rowID:row.RowID});
 
-//results = 330 label, 330 node, 990 properties
+//results = Added 660 labels, created 330 nodes, set 990 properties, completed after 76 ms.
 
 
 
@@ -149,9 +149,11 @@ MERGE (b)-[s:RECORDED_DURING]->(a);
  
 //3176 rels
  
- 
+LOAD CSV WITH HEADERS FROM 'file:///Person_anon.csv' AS row
+CREATE (n:Person:CCD
+{name:row.Person})
 Match (a:TreatmentEvent), (b:Person)
-WHERE a.person = b.person
+WHERE a.person = b.name
 MERGE (a)-[r:WAS_TREATED_BY]->(b)
 MERGE (b)-[s:UNDERTOOK]->(a);
  
