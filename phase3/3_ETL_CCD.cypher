@@ -37,6 +37,17 @@ SET a.dateRequested = date(a.dateRequested);
 
 //results = set 9591 properties
 
+//******* :Reference :CCD nodes ***********
+//Placeholder node represents object as known by conservator.  This allows for catalogue Discovery node for the reference to remain separate.  
+
+LOAD CSV WITH HEADERS FROM 'file:///TNAcombined_anon.csv' AS row
+CREATE (n:Reference:CCD 
+{rowID:row.RowID,   //Adding rowID ensures subsequent matching is more unique. This column needs to be done in pre-processing.
+reference:row.Reference});LOAD CSV WITH HEADERS FROM 'file:///TNAcombined_anon.csv' AS row
+
+//results = Added 11702 labels, created 5851 nodes, set 11702 properties, completed after 134 ms.
+
+
 //******* :Adhesive :Material :CCD nodes ***********
 //Neo4j supports multiple labels.  
 
@@ -113,6 +124,13 @@ rowID:row.RowID});
 
 //******* Bi-directional Relationships between data nodes *******
  
+Match (a:TreatmentEvent), (b:Reference)
+WHERE a.reference = b.reference AND a.rowID = b.rowID
+MERGE (a)-[r:EVENT_PERTAINS_TO_OBJECT]->(b)
+MERGE (b)-[s:OBJECT_PERTAINS_TO_EVENT]->(a);
+
+//Created 11702 relationships, completed after 165 ms.
+
 Match (a:TreatmentEvent), (b:Adhesive)
 WHERE a.reference = b.reference AND a.rowID = b.rowID
 MERGE (a)-[r:INVOLVED_USE_OF]->(b)
