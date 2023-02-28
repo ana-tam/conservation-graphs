@@ -1,0 +1,7 @@
+// Theta = (the count of nodes with degree less than or equal to 1) / [divided by] (the total node count)
+
+The numerator for the theta ratio, 𝛳, as presented by Kaiser (2008) can be calculated using Cypher and the APOC library with the following query:
+//Gives a count of leaf and isolated nodes
+MATCH (a)
+Where apoc.node.degree(a) <=1
+Return Count(a)
