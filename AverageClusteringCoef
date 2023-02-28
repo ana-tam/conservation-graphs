@@ -1,0 +1,3 @@
+//Average Clustering Coefficient
+CALL gds.localClusteringCoefficient.stats('myGraph')
+YIELD averageClusteringCoefficient, nodeCount
