@@ -31,7 +31,7 @@ CALL gds.graph.create(‘YourGraphName’, '*', '*');
 //——————Create UNDIRECTED Native Projection ————————
 //Amend as relTypes as needed.  
 //Tip: Use 'Distinct RelType Count' Cypher to gather all relationship types in a spreadsheet column 
-//then place 
+//remove all quotation marks and then place 
 // : {orientation: 'UNDIRECTED'},' in the adjacent column.
 //Copy and paste both columns into Neo4j Browser.  
 
@@ -119,7 +119,7 @@ gds.util.asNode(nodeId).label AS name,
 labels(gds.util.asNode(nodeId)) AS CRMEntity,
 localClusteringCoefficient
 
-ORDER BY localClusteringCoefficient DESC
+ORDER BY localClusteringCoefficient DESC;
 
 
 //——————Degree Centrality - natural - outDegrees———————
@@ -135,7 +135,7 @@ gds.util.asNode(nodeId).label AS name,
 labels(gds.util.asNode(nodeId)) AS CRMEntity, 
 score AS outDegree
 
-ORDER BY outDegree DESC, name DESC
+ORDER BY outDegree DESC, name DESC;
 
 
 //—————— Degree Centrality - reverse - inDegrees—————————
@@ -151,7 +151,7 @@ RETURN id(gds.util.asNode(nodeId)) AS id,
 labels(gds.util.asNode(nodeId)) AS CRMEntity,
 gds.util.asNode(nodeId).label AS name, 
 score AS inDegree
-ORDER BY inDegree DESC, name DESC
+ORDER BY inDegree DESC, name DESC;
 
 
 //———————Degree Centrality - both directions - sumDegrees——————
@@ -168,5 +168,5 @@ id(gds.util.asNode(nodeId)) AS id,
 gds.util.asNode(nodeId).label AS name, 
 labels(gds.util.asNode(nodeId)) AS CRMEntity, 
 score AS sumDegrees
-ORDER BY sumDegrees DESC, name DESC
+ORDER BY sumDegrees DESC, name DESC;
 
