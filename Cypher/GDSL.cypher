@@ -1,12 +1,17 @@
+//=========CONTEXT: ===========
+// The following scripts require loading the Graph Data Science Library (GDSL) in Neo4j.
+//
 //=========CONTENTS: ===========
-//  - Create a Native Projection to run default and natural orientation algorithms
+//  - Create a Native Projection to run default natural orientation algorithms
 //  - Create a Native Projection on all nodes (default node projection) and UNDIRECTED relationship projection
 //  - Eigenvector Centrality - natural
 //  - Eigenvector Centrality - UNDIRECTED
-//. - Local Clustering Coefficient
+//  - Local Clustering Coefficient
 //  - Degree Centrality - natural - outDegrees
-//. - Degree Centrality - reverse - inDegrees
-//. - Degree Centrality - both directions - sumDegrees
+//  - Degree Centrality - reverse - inDegrees
+//  - Degree Centrality - both directions - sumDegrees
+//  - Global Triangle Count
+//  - Average Clustering Coefficient
 
 // For further information, see GDSL Manual: https://neo4j.com/docs/graph-data-science/current/
 
@@ -169,4 +174,24 @@ gds.util.asNode(nodeId).label AS name,
 labels(gds.util.asNode(nodeId)) AS CRMEntity, 
 score AS sumDegrees
 ORDER BY sumDegrees DESC, name DESC;
+
+
+//———————GlobalTriangleCount——————
+//Requires UNDIRECTED projection 
+
+//Use resulting projection message to ensure the undirected projection covers the whole graph.  
+//The relationship (edge) Count for the undirected projection is twice that of the original rel (edge) count (size).
+
+
+CALL gds.triangleCount.stats('yourGraph_UD')
+YIELD globalTriangleCount, nodeCount
+
+
+//———————Average Clustering Coefficient——————
+
+//Requires UNDIRECTED projection 
+
+CALL gds.localClusteringCoefficient.stats('yourGraph_UD')
+YIELD averageClusteringCoefficient, nodeCount
+
 
