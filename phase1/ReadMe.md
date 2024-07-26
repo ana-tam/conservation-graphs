@@ -2,11 +2,10 @@
 # Phase 1: Building a Conservation Knowledge Graph
 
 
-This repo contains the scripts for phase I of the PhD research "Applying Graph Theory to Conservation Knowledge Graphs" (Tam 2023).
+This directory contains the scripts for Phase I (See Appendix H) of the PhD thesis "Applying Graph Theory to Conservation Knowledge Graphs" (Tam 2024).  
 
 
-This repo documents Phase I research scripts and only serves as an archive of the research process. As the thesis details, this phase highlighted many challenges.  
-If you are considering using property graph metamodels and working iteratively inputting and outputting RDF, check out: Phase III: Revised Knowledge Graph Building Method.
+This directory serves as an archive of the research process. As the thesis details, this phase highlighted many challenges.  If you are considering using property graph metamodels and working iteratively inputting and outputting RDF, check out: Phase III: Revised Knowledge Graph Building Method.
 
 ## Specifications
 Neo4j v
