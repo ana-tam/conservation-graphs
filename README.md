@@ -1,6 +1,6 @@
 # Conservation Graphs
 
-This is the companion repository to the PhD thesis *Applying Graph Theory to Conservation Documentation* by Ana Tam (2024, University of the Arts London) [[cite](https://github.com/ana-tam/conservation-graphs?tab=readme-ov-file#cite)]. 
+This is the companion repository to the PhD thesis *Applying Graph Theory to Conservation Documentation* by Ana Tam (2024, University of the Arts London) [[cite](https://github.com/ana-tam/conservation-graphs?tab=readme-ov-file#how-to-cite)]. 
 Scripts are written in Python for data wrangling and Cypher for Neo4j graph database modelling and analysis.
 
 ## Structure of the Repository
