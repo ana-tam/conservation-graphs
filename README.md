@@ -1,7 +1,16 @@
+
 # Conservation Graphs
 
 This is the companion repository to the PhD thesis *Applying Graph Theory to Conservation Documentation* by Ana Tam (2024, University of the Arts London) [[cite](https://github.com/ana-tam/conservation-graphs?tab=readme-ov-file#how-to-cite)]. 
 Scripts are written in Python for data wrangling and Cypher for Neo4j graph database modelling and analysis.
+
+This README doc consists of the following:
+* [The Structure of the Repository](https://github.com/ana-tam/conservation-graphs#structure-of-the-repository)
+* [Neo4j details](https://github.com/ana-tam/conservation-graphs#neo4j)
+* [The PhD Abstract](https://github.com/ana-tam/conservation-graphs#abstract)
+* [How to Cite this Work](https://github.com/ana-tam/conservation-graphs#how-to-cite)
+
+
 
 ## Structure of the Repository
 
@@ -41,6 +50,12 @@ apoc.import.file.enabled=true
 #Neosemantics config [today’s date]
 dbms.unmanaged_extension_classes=n10s.endpoint=/rdf
 ```
+
+## Abstract
+
+>Conservation is the management of change (UNESCO et al 2013). Heritage assets—which include tangible and intangible objects and places–are recognised as non-renewable resources. As conservators, we are merely stewards of these shared assets and the notes and records we create contribute to their long-term care and understanding. Therefore, it is imperative these records are both human- and machine-readable. This thesis leverages mathematical graph theory to identify and examine networks captured in conservation documentation. It demonstrates how the use of existing graph-based technologies, such as semantic web technologies (RDF) and property graph (PG) databases, can be used to build and inform computational models for conservation through the creation and analysis of graph-based metamodels and knowledge graphs.
+Conservation treatment data provided by The National Archives (UK) was used to develop a labelled property graph model and database that was also convertible to CIDOC CRM-mapped RDF triples. To further inform the development, investigations were conducted on existing conservation graphs, including the CIDOC CRM RDFS serialisation and RDF graphs produced by the Linked Conservation Data (LCD) project. The modelling decisions and investigations made during this process contributed to a suite of verification, validation and calibration (VVC) practices for graph model creation, assessment, and refinement, including the use of graph theoretic algorithms. The outcome is a graph representation method for conservation data which includes modelling principles to aid queryabillity and avoid common modelling pitfalls.
+Of the graph theoretic measures employed, leaf node detection, triangle count, motif frequency, diameter and eigenvector centrality measures were found to be diagnostic for comparing or contrasting data collection practices as evidenced in the datasets across institutions. Eigenvector centrality is also a strong candidate for systematic model validation due to its usefulness in identifying modelling errors. Furthermore, results demonstrate that the conservation graphs from each case study exhibit recurrent bipartite (k3,3) subgraphs, an indicator of non-planarity. This higher dimensionality speaks to an intrinsic characteristic of conservation data and may explain why tabular and traditional relational data models, while able to capture facets of conservation, have been so difficult to use to capture and model across conservation’s more complex nature. These results signal a promising new means for conservation to capture, encode, study, and discuss complex conservation events and practices.
 
 ## How to Cite
 
