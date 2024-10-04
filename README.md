@@ -1,10 +1,14 @@
 
 # Conservation Graphs
 
-This is the companion repository to the PhD thesis *Applying Graph Theory to Conservation Documentation* by Ana Tam (2024, University of the Arts London) [[cite](https://github.com/ana-tam/conservation-graphs?tab=readme-ov-file#how-to-cite)]. 
-Scripts are written in Python for data wrangling and Cypher for Neo4j graph database modelling and analysis.
+This is the companion repository for the PhD thesis *Applying Graph Theory to Conservation Documentation* by Ana Tam (2024, University of the Arts London) [[cite](https://github.com/ana-tam/conservation-graphs?tab=readme-ov-file#how-to-cite)]. 
 
-This README doc consists of the following:
+Supervisory Team:  
+* Dr. Athanasios Velios, Reader in Digital Documentation, University of the Arts London, [LinkedIn](https://www.linkedin.com/in/athanasios-velios-578a073) , [DBLP](https://dblp.org/pid/204/2477.html) , [Taylor & Francis](https://www.tandfonline.com/author/Velios%2C+Athanasios)
+* Dr. John Howse, Professor of Mathematics and Computation, University of Brighton, [Google Scholar](https://scholar.google.co.uk/citations?user=7VoBGPAAAAAJ&hl=en)
+
+
+The contents of this README doc consists of the following:
 * [The Structure of the Repository](https://github.com/ana-tam/conservation-graphs#structure-of-the-repository)
 * [Neo4j details](https://github.com/ana-tam/conservation-graphs#neo4j)
 * [The PhD Abstract](https://github.com/ana-tam/conservation-graphs#abstract)
@@ -14,7 +18,7 @@ This README doc consists of the following:
 
 ## Structure of the Repository
 
-The contents of this repository mirror the structure of the thesis and correspond to the case study chapters (ch. 5-7) and their related appendices.
+The contents of this repository mirror the structure of the thesis and correspond to the case study chapters (ch. 5-7) and their related appendices.  Scripts are written in Python for data wrangling and Cypher for Neo4j graph database modelling and analysis.
 
 directory | content
 --- | ---
