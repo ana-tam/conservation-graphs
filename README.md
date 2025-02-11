@@ -64,10 +64,8 @@ Of the graph theoretic measures employed, leaf node detection, triangle count, m
 ## How to Cite
 
 For the PhD Thesis:  
->Tam, Ana. (2024). *Applying Graph Theory to Conservation Documentation*. PhD Thesis. University of the Arts London. Zenodo. https://doi.org/
+>Tam, A. (2024). Applying Graph Theory to Conservation Documentation (1.0) [Zenodo]. https://doi.org/10.5281/zenodo.14849515
 
-For the datasets and scripts:  
->Tam, Ana. (2024). *Applying Graph Theory to Conservation Documentation* [datasets and scripts] Zenodo. https://doi.org/
 
 
 
