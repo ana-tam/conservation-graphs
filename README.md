@@ -6,6 +6,7 @@ This is the companion repository for the PhD thesis *Applying Graph Theory to Co
 Supervisory Team:  
 * Dr. Athanasios Velios, Reader in Digital Documentation, University of the Arts London, [LinkedIn](https://www.linkedin.com/in/athanasios-velios-578a073) , [DBLP](https://dblp.org/pid/204/2477.html) , [Taylor & Francis](https://www.tandfonline.com/author/Velios%2C+Athanasios)
 * Dr. John Howse, Professor of Mathematics and Computation, University of Brighton, [Google Scholar](https://scholar.google.co.uk/citations?user=7VoBGPAAAAAJ&hl=en)
+* Dr. Malcolm Quinn, Professor of Cultural and Political History, Associate Dean of Research at University of the Arts London, [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=XsWSWbgAAAAJ)
 
 
 The contents of this README doc consists of the following:
